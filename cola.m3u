@@ -1,24 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f00b6379b82a515a9478b6e58b783de9.png!w80" group-title="Football",2026-09-25 16:00 | Bangladesh vs Malaysia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74557120_3b8259471d82cf8bdddfde61380cd044_autoChange.m3u8?auth_key=1790341853-0-0-75869992310864e0f1b0d46109691613
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-09-25 14:30 | Anyang KGC vs Busan KTF Sonicboom | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/l6kersmoxx2tvq5_93a2bdaf17bd70fd111c3f32b914c227_autoChange.m3u8?auth_key=1790341853-0-0-4a4f35b6967de058fa35836125d19080
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="Football",2026-09-25 16:30 | Brisbane Bullets vs Illawarra Hawks | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5e40ed1f6779e1fcfb55c259e36746da.png!w80" group-title="Football",2026-09-25 17:00 | Bà Rịa Vũng Tàu vs Đại học Văn Hiến | BLV BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/16226575_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80" group-title="Football",2026-09-25 17:00 | ĐTQG Úc vs Brazil | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73685470_623ef0b2493572bc19507e1119f992c4_autoChange.m3u8?auth_key=1790344536-0-0-63a0fa225db80754485640ad8064ff23
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f00b6379b82a515a9478b6e58b783de9.png!w80" group-title="Football",2026-09-25 16:00 | Bangladesh vs Malaysia | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/74557120_3b8259471d82cf8bdddfde61380cd044_autoChange.m3u8?auth_key=1790345444-0-0-9253a8458bf59d73dd06d092813bbdd0
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="Football",2026-09-25 16:30 | Brisbane Bullets vs Illawarra Hawks | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/72016778_fb4475a28f7b918a7bc81871dce8c972_autoChange.m3u8?auth_key=1790345444-0-0-9c2d3adf80b6ff28141f7ee4ecfbb344
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-09-25 17:30 | Hàn Quốc U23 vs Việt Nam U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/275612d39c2aacdf7b64836df54b9229.png!w80" group-title="Football",2026-09-27 23:00 | Gibraltar vs Andorra | BLV BLV POCARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1e888ca542d892600d3b2818d1c40e22.png!w80" group-title="Football",2026-09-27 23:30 | Burgos CF vs Eldense | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/99121525_tsc.m3u8
