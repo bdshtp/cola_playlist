@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80" group-title="Football",2026-09-25 23:00 | ĐTQG Georgia vs ĐTQG Bắc Ireland | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/68932750_e3afcb7ebc0c2501db627a8005e1d30c_autoChange.m3u8?auth_key=1790371875-0-0-84afe5316f1fdf775076ba447938c948
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png!w80" group-title="Football",2026-09-25 23:00 | CLB Armenia vs Latvia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/68932406_0113c55ef818088192fef20e95567b8a_autoChange.m3u8?auth_key=1790371875-0-0-18cac1569b6b788467ccdbf80769922f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/006ce259b33ef72dd5570cfa8dc39f38.png!w80" group-title="Football",2026-09-26 01:30 | CLB Girona vs CLB Albacete | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
