@@ -2,23 +2,19 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-09-25 17:30 | Hàn Quốc U23 vs Việt Nam U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74986120_62ae500a87b6773d8f257e389dbe20bf_autoChange.m3u8?auth_key=1790350863-0-0-acb668663396b3756d10bfe757d0c59e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d8fe42de2f833581faa077f788329fa.png!w80" group-title="Football",2026-09-25 17:10 | ĐTQG Úc vs Brazil | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73685470_623ef0b2493572bc19507e1119f992c4_autoChange.m3u8?auth_key=1790350864-0-0-27cb2b9c5630fb7a6b5ac19c48425796
+https://live.dyrur1.com/live/74986120_62ae500a87b6773d8f257e389dbe20bf_autoChange.m3u8?auth_key=1790352849-0-0-b33da3530a288d2c1a77d67bfc446dae
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80" group-title="Football",2026-09-25 17:30 | Nhật Bản Nữ vs Philippines Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/ezk96ij0ejzb1kn_9d14ce1bd506b2bb1132fea6fd101d26_autoChange.m3u8?auth_key=1790350864-0-0-8367a56bd2bdff0cd4efd84d71533a0d
+https://live.dyrur1.com/live/ezk96ij0ejzb1kn_9d14ce1bd506b2bb1132fea6fd101d26_autoChange.m3u8?auth_key=1790352850-0-0-284bb0607a79e281fa4ab8504816fc69
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="Football",2026-09-25 17:30 | Hàn Quốc Nữ vs Uzbekistan Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74952888_e841a83ca5221c1d1b9f41a9bcc04e44_autoChange.m3u8?auth_key=1790350863-0-0-288ea3d5080a7b8a3b71fb61cb0f9ed1
+https://live1.dyrur1.com/live/74952888_e841a83ca5221c1d1b9f41a9bcc04e44_autoChange.m3u8?auth_key=1790352849-0-0-8d15f748dd6d1e3194723a82a0b7ed10
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" group-title="Football",2026-09-25 18:00 | Wuxi Wugou vs Guangxi Hengchen | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74288564_1175e636f6eae7bd6e841c39353c3766_autoChange.m3u8?auth_key=1790350863-0-0-1be6f04890aeaebdafa9fc709592a5a0
+https://live.dyrur1.com/live/74288564_1175e636f6eae7bd6e841c39353c3766_autoChange.m3u8?auth_key=1790352849-0-0-07bd1ea22fea11c1988259fc873be91e
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80" group-title="Football",2026-09-25 20:00 | Indonesia vs Singapore | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/230be7f4f23de1cb08877a72cd08f619.png!w80" group-title="Football",2026-09-27 23:30 | CLB Eibar vs CLB Las Palmas | BLV BLV HỔ VẰN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07428422_tsc.m3u8
