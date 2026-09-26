@@ -2,23 +2,19 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5e56343dada029d40a90b44e1ca3d495.png!w80" group-title="Football",2026-09-26 07:00 | Barbados vs Saint Lucia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73220868_95331d6288f764ac24867d214ab83988_autoChange.m3u8?auth_key=1790396069-0-0-0525e46b444a2bbed66f69ab97a5b7e1
+https://live2.dyrur1.com/live/73220868_95331d6288f764ac24867d214ab83988_autoChange.m3u8?auth_key=1790397888-0-0-c1eb1cc3b086061c32b50f75a5fb4bfe
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Football",2026-09-26 07:00 | Jamaica vs Guatemala | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220770_d26940f9dc2855fdfdf50e72283cf229_autoChange.m3u8?auth_key=1790396069-0-0-1670929b3f8137af9bccac7b34d04861
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/87668a20b488fbb0e1fcb9210165cfd8.png!w80" group-title="Football",2026-09-26 05:30 | CLB Gremio Novorizontin vs Sao Bernardo | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68823308_b2fd407dd12069cb92c18f9c6b441ce3_autoChange.m3u8?auth_key=1790396069-0-0-b63b4a91459c77731df9ac9f20416414
+https://live.dyrur1.com/live/73220770_d26940f9dc2855fdfdf50e72283cf229_autoChange.m3u8?auth_key=1790397888-0-0-6cbacc4015e786d3412e3d4881c6f136
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80" group-title="Football",2026-09-26 06:00 | Hartford Athletic vs Louisville City FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/67172974_62cfe01aa256406b0854b836ab9b0189_autoChange.m3u8?auth_key=1790396069-0-0-6ae1cd1ce0b09b76f4455ff643c9b723
+https://live2.dyrur1.com/live/67172974_62cfe01aa256406b0854b836ab9b0189_autoChange.m3u8?auth_key=1790397887-0-0-9423b7bb35c81affc45c6c9d7ce267f8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1bd2c1e0a141eefffaf43b018e8a48d6.png!w80" group-title="Football",2026-09-26 07:00 | Bonaire vs Saint Kitts & Nevis | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220884_343238388e1118c58dbec7d9717429ff_autoChange.m3u8?auth_key=1790396069-0-0-7ee36763d4a72c1683ed599a5c032f6c
+https://live.dyrur1.com/live/73220884_343238388e1118c58dbec7d9717429ff_autoChange.m3u8?auth_key=1790397887-0-0-2d426cb3ef3e91f9c1202f601ffb456f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" group-title="Football",2026-09-26 08:00 | CLB Atlante vs Monterrey | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -27,22 +23,22 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80" group-title="Football",2026-09-26 10:00 | El Salvador vs Martinique | BLV BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80" group-title="Football",2026-09-26 10:00 | El Salvador vs Martinique | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80" group-title="Football",2026-09-26 10:00 | Club Tijuana vs Atlas | BLV BLV GIÀ LÀNG
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80" group-title="Football",2026-09-26 10:00 | Club Tijuana vs Atlas | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/14830711_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Football",2026-09-26 12:00 | Seoul Knights vs Wonju Dongbu Promy | BLV BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80" group-title="Football",2026-09-26 13:00 | Trung Quốc U23 vs Thái Lan U23 | BLV BLV SAMURAI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80" group-title="Football",2026-09-26 13:00 | Trung Quốc U23 vs Thái Lan U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/07808742_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Football",2026-09-26 14:30 | Mobis Phoebus vs LG Sakers | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
