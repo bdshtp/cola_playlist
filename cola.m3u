@@ -2,11 +2,7 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="Football",2026-09-27 03:30 | Mỹ vs Peru | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73600382_374c08d1d91e54af340b21513dc4fce7_autoChange.m3u8?auth_key=1790472923-0-0-ff57fa3ac49dd4224f871d69392362a6
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0ee21aceb8c7d32b06bab2f4fac42c49.png!w80" group-title="Football",2026-09-27 02:00 | Montserrat vs Quần đảo Virgin Anh | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220978_be58650e06fec54fa6127a08ab69219d_autoChange.m3u8?auth_key=1790470227-0-0-ebd540efd9cd2f9c6fc9aa7008a70744
+https://live.dyrur1.com/live/73600382_374c08d1d91e54af340b21513dc4fce7_autoChange.m3u8?auth_key=1790475018-0-0-282fae30f110d0eae1689917b9b43a77
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="Football",2026-09-27 05:50 | Cruz Azul vs Toluca | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -195,10 +191,6 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-09-28 03:00 | Golden State Valkyries vs Dallas Wings | BLV BLV ROCKSTAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png!w80" group-title="Football",2026-09-28 04:00 | Gimnasia y Tiro vs CLB Atletico Rafaela | BLV BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -207,6 +199,10 @@ https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/97885009_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-09-28 06:00 | Atlanta Dream vs Washington Mystics | BLV BLV Cozy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="Football",2026-09-28 06:00 | Haiti vs Costa Rica | BLV BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -223,14 +219,14 @@ https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-09-28 08:00 | Atlanta Dream vs Washington Mystics | BLV BLV Cozy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80" group-title="Football",2026-09-28 08:00 | Club Leon vs Juarez | BLV BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-09-28 08:00 | Golden State Valkyries vs Dallas Wings | BLV BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="Football",2026-09-28 10:10 | Necaxa vs Club America | BLV BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
