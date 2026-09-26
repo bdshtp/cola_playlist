@@ -1,28 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5e56343dada029d40a90b44e1ca3d495.png!w80" group-title="Football",2026-09-26 07:00 | Barbados vs Saint Lucia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73220868_95331d6288f764ac24867d214ab83988_autoChange.m3u8?auth_key=1790397888-0-0-c1eb1cc3b086061c32b50f75a5fb4bfe
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Football",2026-09-26 07:00 | Jamaica vs Guatemala | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220770_d26940f9dc2855fdfdf50e72283cf229_autoChange.m3u8?auth_key=1790397888-0-0-6cbacc4015e786d3412e3d4881c6f136
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/78febf9c2b8c7c5bff95797b00c90459.png!w80" group-title="Football",2026-09-26 06:00 | Hartford Athletic vs Louisville City FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/67172974_62cfe01aa256406b0854b836ab9b0189_autoChange.m3u8?auth_key=1790397887-0-0-9423b7bb35c81affc45c6c9d7ce267f8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1bd2c1e0a141eefffaf43b018e8a48d6.png!w80" group-title="Football",2026-09-26 07:00 | Bonaire vs Saint Kitts & Nevis | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220884_343238388e1118c58dbec7d9717429ff_autoChange.m3u8?auth_key=1790397887-0-0-2d426cb3ef3e91f9c1202f601ffb456f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" group-title="Football",2026-09-26 08:00 | CLB Atlante vs Monterrey | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/72055192_af68ba3f31fa9fcd281cc7869ae2805e_autoChange.m3u8?auth_key=1790399342-0-0-b61add5240e633aaede862bb3e03381d
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80" group-title="Football",2026-09-26 08:00 | Honduras vs Suriname | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/73220766_6d324422a7730eb22dcda2ae4bd576c3_autoChange.m3u8?auth_key=1790399342-0-0-1dd69d59d3e15b6002007fecf2a9bca5
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5e56343dada029d40a90b44e1ca3d495.png!w80" group-title="Football",2026-09-26 07:00 | Barbados vs Saint Lucia | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/73220868_95331d6288f764ac24867d214ab83988_autoChange.m3u8?auth_key=1790399343-0-0-79cb022b75d568385762439f71b69fb0
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Football",2026-09-26 07:00 | Jamaica vs Guatemala | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73220770_d26940f9dc2855fdfdf50e72283cf229_autoChange.m3u8?auth_key=1790399342-0-0-4877035d1a9a5aac953aa8e0480ca675
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1bd2c1e0a141eefffaf43b018e8a48d6.png!w80" group-title="Football",2026-09-26 07:00 | Bonaire vs Saint Kitts & Nevis | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73220884_343238388e1118c58dbec7d9717429ff_autoChange.m3u8?auth_key=1790399343-0-0-746c52c22d4188414952029aa7d424dc
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80" group-title="Football",2026-09-26 10:00 | El Salvador vs Martinique | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
