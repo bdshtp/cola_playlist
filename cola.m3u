@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Football",2026-09-27 13:00 | Adelaide 36ers vs Cairns Taipans | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/13988187_6d5dac10404b149fab18e135616eb7b7_autoChange.m3u8?auth_key=1790505853-0-0-d7f044b36997a7f4c2f7c09b90bc939a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/df321578b4f5f132345d2e6b39743126.png!w80" group-title="Football",2026-09-27 14:00 | Hồng Kông vs Lào | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/74557416_289b770fa2001979b2e14275d1f566ba_autoChange.m3u8?auth_key=1790507431-0-0-06f6c7fe25688c5149df872aab296953
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Football",2026-09-27 13:00 | Adelaide 36ers vs Cairns Taipans | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/13988187_6d5dac10404b149fab18e135616eb7b7_autoChange.m3u8?auth_key=1790507432-0-0-8093424a0c77e1d778ab7997b237f0ba
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-09-27 14:30 | KCC Egis vs Incheon | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
