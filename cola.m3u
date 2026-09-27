@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/df321578b4f5f132345d2e6b39743126.png!w80" group-title="Football",2026-09-27 14:00 | Hồng Kông vs Lào | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74557416_289b770fa2001979b2e14275d1f566ba_autoChange.m3u8?auth_key=1790509158-0-0-b4ffd8f52df1e520d4d5f3e933490c1d
+https://live.dyrur1.com/live/74557416_289b770fa2001979b2e14275d1f566ba_autoChange.m3u8?auth_key=1790511046-0-0-0b2c66e1795c4318804084cf80a96d59
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Football",2026-09-27 13:00 | Adelaide 36ers vs Cairns Taipans | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/13988187_6d5dac10404b149fab18e135616eb7b7_autoChange.m3u8?auth_key=1790509158-0-0-a4667be63f7e747238954672ebbae42f
+https://live3.dyrur1.com/live/13988187_6d5dac10404b149fab18e135616eb7b7_autoChange.m3u8?auth_key=1790509792-0-0-17d183e53e061ca14c6035c57aba364b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-09-27 14:30 | KCC Egis vs Incheon | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14499223_94d83268ad8980aad9603758eda88230_autoChange.m3u8?auth_key=1790509159-0-0-43d0de7935a870697c01c1df070b1678
+https://live.dyrur1.com/live/vmqy6sn40pjigk9_bb147273927718572c01c7b1e6baf6b0_autoChange.m3u8?auth_key=1790511046-0-0-4325b61b43a4d40c72072dace68866c0
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Football",2026-09-27 15:00 | Sydney vs Illawarra Hawks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/72016784_cd4690aaaaa2642b81acd1ad0ff4a419_autoChange.m3u8?auth_key=1790511047-0-0-500623156a1801046dde160c84abda8b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80" group-title="Football",2026-09-27 17:00 | Đồng Tháp vs Thai Nguyen | BLV BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -123,10 +123,10 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" group-title="Football",2026-09-28 06:00 | CLB Columbus Crew vs Inter Miami | BLV BLV WARRIOR
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" group-title="Football",2026-09-28 06:00 | CLB Columbus Crew vs Inter Miami | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/97885009_tsc.m3u8
+https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-09-28 06:00 | Atlanta Dream vs Washington Mystics | BLV BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -303,6 +303,14 @@ https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0587c755424c4e6290e45f9c52fb7b13.png!w80" group-title="Football",2026-09-29 17:00 | Thành phố Tochigi vs Sanfrecce Hiroshima | BLV BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/90865415_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5f12aeb3876fe101ab8b486ff9ea679a.png!w80" group-title="Football",2026-09-29 17:00 | CLB Yamagata vs Yokohama F. Marinos | BLV BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b26f48bd4e40423148b0089092638919.png!w80" group-title="Football",2026-09-29 18:00 | Comoros vs Namibia | BLV BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -323,6 +331,10 @@ https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/70d5c573c693c4053f908d9d9314ce87.png!w80" group-title="Football",2026-09-29 20:00 | Nam Sudan vs Ai Cập | BLV BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c608ae76638c5ab49847ab5947b12a5.png!w80" group-title="Football",2026-09-29 22:00 | Al Khor vs Umm-Salal | BLV BLV WARRIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -339,3 +351,7 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/75800f73fa80f935216b8cfbedf77bfa.png!w80" group-title="Football",2026-09-29 23:00 | Ghana vs Gambia | BLV BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/90865415_tsc.m3u8
