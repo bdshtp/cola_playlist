@@ -1,32 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80" group-title="Football",2026-09-27 17:00 | Campuchia vs Myanmar | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74557478_ebc969f4196e06a1b94ee0367ba442fe_autoChange.m3u8?auth_key=1790523554-0-0-4875f5af81ed25c31fd79c5672c6af39
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80" group-title="Football",2026-09-27 18:35 | Trung Quốc vs New Zealand | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_autoChange.m3u8?auth_key=1790523555-0-0-6eb845cf819d487de3376fbbf8794562
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80" group-title="Football",2026-09-27 17:00 | Đồng Tháp vs Thai Nguyen | BLV BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="Football",2026-09-27 17:00 | Gangwon vs Incheon United | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73235776_df61aa92bd9ff345f07d68725ab40698_autoChange.m3u8?auth_key=1790523552-0-0-39ed7ed4e0b1cbd1f7de04a685661cb7
+https://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_autoChange.m3u8?auth_key=1790525616-0-0-6313891b8c957925280d0f74bdfba9a0
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="Football",2026-09-27 18:00 | Tân Châu Huệ Long vs Đại Liên Hoa Nghị | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/70006944_7816ba25d3de62d78746eb2152523e8a_autoChange.m3u8?auth_key=1790523551-0-0-bf8a741842bcc4acbfd8c8e35554ff2e
+https://live3.dyrur1.com/live/70006944_7816ba25d3de62d78746eb2152523e8a_autoChange.m3u8?auth_key=1790525616-0-0-ba7f554ccb0f6a8f8c95792d9062ddd9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fdf63461c00668597319a4f0db14dcee.png!w80" group-title="Football",2026-09-27 19:00 | Real Valladolid vs Cordoba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72477448_713a73ee10ae73fbdac26f60e8801b0d_autoChange.m3u8?auth_key=1790525616-0-0-7a9b1e8f07c23762cbfa9738fc8be275
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/db33359c11033fc28c9bedec0a4a89d9.png!w80" group-title="Football",2026-09-27 19:00 | Manchester Utd Nữ vs West Ham Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/73346030_a94c561da384157391168f59a135a187_autoChange.m3u8?auth_key=1790525616-0-0-f23851ecfa96e4d17cdff1f8e1b5894b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/36de6e50c9a54ca558d69ae01ded3ac8.png!w80" group-title="Football",2026-09-27 19:30 | Hanoi buffalo vs Sài Gòn Heat | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -159,10 +147,10 @@ https://live05.meung.app/live/33982309_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="Football",2026-09-28 19:00 | Cộng hòa Tajikistan vs Palestine | BLV BLV FANTA
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="Football",2026-09-28 19:00 | Cộng hòa Tajikistan vs Palestine | BLV BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/16226575_tsc.m3u8
+https://live05.meung.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="Football",2026-09-28 19:30 | Malaysia vs Indonesia | BLV BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
