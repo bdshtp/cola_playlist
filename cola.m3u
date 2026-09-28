@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-09-28 17:25 | Nhật Bản vs Venezuela | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73685536_03d01c586cba209754862875afb0ae9c_autoChange.m3u8?auth_key=1790606545-0-0-b53e7cb97ac80655ba844be7c59190c7
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80" group-title="Football",2026-09-28 16:00 | Singapore vs Bangladesh | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74557124_35596247e301ad5fd1c12dde3f94d3a2_autoChange.m3u8?auth_key=1790606546-0-0-64813fc40dfe46fd0df2d6a37b0bce49
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8a9fc46ed01d4d8aa736a356b92bc291.png!w80" group-title="Football",2026-09-28 16:00 | Tensung FC vs RTC FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74972986_15cd49e660e934c5fe834fb5810b9131_autoChange.m3u8?auth_key=1790606546-0-0-6380f3a2d3b847d6dae0e12b738aec06
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-09-28 18:00 | Hàn Quốc vs Uruguay | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/73685530_4939e894aac6c1896e88f4178ab8d75b_autoChange.m3u8?auth_key=1790608290-0-0-942b1aaa967179e708a0ba87597ace14
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-09-28 17:25 | Nhật Bản vs Venezuela | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73685536_03d01c586cba209754862875afb0ae9c_autoChange.m3u8?auth_key=1790608290-0-0-445e5716fd619f1c7fe179e269ae02d4
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="Football",2026-09-28 19:00 | Tajikistan vs Palestine | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="Football",2026-09-28 19:30 | Malaysia vs Indonesia | BLV BLV SAMURAI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="Football",2026-09-28 19:30 | Malaysia vs Indonesia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/07808742_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png!w80" group-title="Football",2026-09-28 20:00 | Graficar Beograd vs Teleoptik | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -87,10 +79,10 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Football",2026-09-29 05:30 | CLB America MG vs CLB Juventude | BLV BLV POCARI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Football",2026-09-29 05:30 | CLB America MG vs CLB Juventude | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/19919577_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="Football",2026-09-29 06:00 | Club Leon Nữ vs Club America Nữ | BLV BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
