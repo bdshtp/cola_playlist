@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/19406b9f645610fda9a0f6f27bdac710.png!w80" group-title="Football",2026-09-29 04:00 | Cuba vs Bonaire | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220886_07488af9cfd683878be7ffe1940ba803_autoChange.m3u8?auth_key=1790649558-0-0-9cb0f8cf690a09796f7cba0b38e68444
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d8775b779c58b408703f4e16b9feb26f.png!w80" group-title="Football",2026-09-29 05:00 | Suriname vs Martinique | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220774_ef336a57747ed07f36fd4aa5d6a13111_autoChange.m3u8?auth_key=1790649558-0-0-8495699093d06c7c31d93e2c85a80cdd
+https://live.dyrur1.com/live/73220774_ef336a57747ed07f36fd4aa5d6a13111_autoChange.m3u8?auth_key=1790651429-0-0-5c2f48a18ec4a8a2c1a5ea8a9930e361
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Football",2026-09-29 05:30 | CLB America MG vs CLB Juventude | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68823310_0fc711f2758d2fae84cf53e3baf97313_autoChange.m3u8?auth_key=1790649558-0-0-3e9f0cd5e0ad3736920dddf93d25abf9
+https://live.dyrur1.com/live/68823310_0fc711f2758d2fae84cf53e3baf97313_autoChange.m3u8?auth_key=1790651429-0-0-52774d2c282e5ec00b95c7445aa13cb9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="Football",2026-09-29 06:00 | Club Leon Nữ vs Club America Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/73204618_0a57a7d8420fab34dc9e35c024724297_autoChange.m3u8?auth_key=1790651429-0-0-dbf568e3a192d70988d119ef2c3d4076
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Football",2026-09-29 07:00 | Jamaica vs Honduras | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
