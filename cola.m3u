@@ -1,40 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d8775b779c58b408703f4e16b9feb26f.png!w80" group-title="Football",2026-09-29 05:00 | Suriname vs Martinique | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220774_ef336a57747ed07f36fd4aa5d6a13111_autoChange.m3u8?auth_key=1790653217-0-0-59ba9be761b81a2422e3079a65caf09a
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Football",2026-09-29 05:30 | CLB America MG vs CLB Juventude | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68823310_0fc711f2758d2fae84cf53e3baf97313_autoChange.m3u8?auth_key=1790653217-0-0-e45b806f896deb1c805aa96803f72e40
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="Football",2026-09-29 06:00 | Club Leon Nữ vs Club America Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73204618_0a57a7d8420fab34dc9e35c024724297_autoChange.m3u8?auth_key=1790653217-0-0-b6179ae12b35ab3b223e961d8b7a742e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/00a6ab569af8e8f6b99f1d1a4b4bcfbb.png!w80" group-title="Football",2026-09-29 07:00 | Saint Kitts & Nevis vs Grenada | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/15b31d721471a77f63036c45b8b63830.png!w80" group-title="Football",2026-09-29 07:00 | Saint Lucia vs Bermuda | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="Football",2026-09-29 07:00 | Jamaica vs Honduras | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73220772_b2862d8e74979a6ed36d585f07fc80fb_autoChange.m3u8?auth_key=1790655367-0-0-980fdfecb392224f0e8cd4221797f9ff
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/15b31d721471a77f63036c45b8b63830.png!w80" group-title="Football",2026-09-29 07:00 | Saint Lucia vs Bermuda | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73220872_fcd6361f134c547b2075a2aba911f9c9_autoChange.m3u8?auth_key=1790655367-0-0-1126f277f051ff2bb7b67f0a981f0030
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/00a6ab569af8e8f6b99f1d1a4b4bcfbb.png!w80" group-title="Football",2026-09-29 07:00 | Saint Kitts & Nevis vs Grenada | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/73220888_27eacb757a7aed5b72155dc4acab29de_autoChange.m3u8?auth_key=1790655367-0-0-b99a073f791053b43125af5e3bffd52e
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="Football",2026-09-29 05:30 | CLB America MG vs CLB Juventude | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/68823310_0fc711f2758d2fae84cf53e3baf97313_autoChange.m3u8?auth_key=1790655367-0-0-e8df5d654ea99f049a3ba459060b7303
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="Football",2026-09-29 06:00 | Club Leon Nữ vs Club America Nữ | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/73204618_0a57a7d8420fab34dc9e35c024724297_autoChange.m3u8?auth_key=1790655367-0-0-15cde1f8547e507a5568dde78c2a7115
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1972a91f675413d693c3946315e3f8ac.png!w80" group-title="Football",2026-09-29 08:06 | Necaxa Nữ vs Toluca Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80" group-title="Football",2026-09-29 09:00 | Guatemala vs El Salvador | BLV BLV STING
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80" group-title="Football",2026-09-29 09:00 | Guatemala vs El Salvador | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="Football",2026-09-29 13:00 | Triều Tiên Nữ vs Trung Quốc Nữ | BLV BLV WARRIOR
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="Football",2026-09-29 13:00 | Triều Tiên Nữ vs Trung Quốc Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/97885009_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80" group-title="Football",2026-09-29 16:00 | Philippines vs Pakistan | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
