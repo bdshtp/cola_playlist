@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/54803d9a444e58a28e10b6563e60fec8.png!w80" group-title="Football",2026-09-30 04:00 | French Guiana vs Sint Maarten | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220906_0edf3d09a483e741a2ae8f6f1ca218ec_autoChange.m3u8?auth_key=1790734244-0-0-9f2443d5893ce80a24f236db2160261b
+https://live.dyrur1.com/live/73220906_0edf3d09a483e741a2ae8f6f1ca218ec_autoChange.m3u8?auth_key=1790736024-0-0-0f7657c39f86bfcbc53c93e6ae686ae4
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" group-title="Football",2026-09-30 05:30 | Indiana Fever vs Las Vegas Aces | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/edq0esd39z6fekx_30d4d20a604e97515d87b20a95941428_autoChange.m3u8?auth_key=1790736024-0-0-34e6c263bf977f7c2ed8a342f4f4e3e6
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b87a20a2b24f9944084890d1a136a22f.png!w80" group-title="Football",2026-09-30 06:00 | Anguilla vs Aruba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -115,10 +115,6 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="Football",2026-10-01 06:10 | Panama vs New Zealand | BLV BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" group-title="Football",2026-10-01 07:00 | Argentina vs Bolivia | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -131,6 +127,10 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="Football",2026-10-01 13:10 | Panama vs New Zealand | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/13a16c993e82e2185b2d869cf5aa0973.png!w80" group-title="Football",2026-10-01 15:00 | Quận Crownity phía Bắc vs Southern District | BLV BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -195,3 +195,7 @@ https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png!w80" group-title="Football",2026-10-02 21:25 | Al-Shabab vs Saham | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07808742_tsc.m3u8
