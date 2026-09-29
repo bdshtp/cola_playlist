@@ -2,19 +2,15 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="Football",2026-09-29 19:30 | Thái Lan vs ĐTQG Việt Nam | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80" group-title="Football",2026-09-29 17:30 | Nhật Bản Nữ vs Hàn Quốc Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75046896_6fd056e07615637ebf8e9911fb684910_autoChange.m3u8?auth_key=1790698253-0-0-d200b139c6a7174d63ec1388c9e7686a
+https://live.dyrur1.com/live/74557138_50919cc13c915f2bc95c8fff1a238aec_autoChange.m3u8?auth_key=1790700211-0-0-6f1f38200da3ed41903eb2a6b83ba9aa
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" group-title="Football",2026-09-29 18:00 | Wuxi Wugou vs Shanghai Jiading Huilong | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74288990_ad3298f4e89a7b17fe6342540084f762_autoChange.m3u8?auth_key=1790698253-0-0-fd67f4a4a4bea7ac6a8b9da798e35b16
+https://live.dyrur1.com/live/74288990_ad3298f4e89a7b17fe6342540084f762_autoChange.m3u8?auth_key=1790700211-0-0-45246772d905e84b0245d44af7b8288f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b26f48bd4e40423148b0089092638919.png!w80" group-title="Football",2026-09-29 19:00 | Comoros vs Namibia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74372532_d6bb5931129edb230d51906ea93db08b_autoChange.m3u8?auth_key=1790698253-0-0-e52effc6d328577f35479ae08ed56ed3
+https://live.dyrur1.com/live/74372532_d6bb5931129edb230d51906ea93db08b_autoChange.m3u8?auth_key=1790700211-0-0-42c3f5acdf5f09c47894b1167f2bf967
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fac20ee3c5bc1659bc8e6ba2771c5b31.png!w80" group-title="Football",2026-09-29 20:00 | Ethiopia vs Senegal | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
