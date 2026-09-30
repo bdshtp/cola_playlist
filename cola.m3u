@@ -1,32 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="Football",2026-09-30 23:00 | Eritrea vs Nam Phi | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/74372500_743e2cb95146bb0a07d487e23894f5d5_autoChange.m3u8?auth_key=1790804472-0-0-d073b8ba06149a972e18ff574b2cc15e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80" group-title="Football",2026-09-30 23:00 | ĐTQG Lithuania vs Andorra | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73685560_50c1157acbbdd755931a9f152ca29725_autoChange.m3u8?auth_key=1790804472-0-0-39df9076e99d696d293390201e6d8d11
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80" group-title="Football",2026-10-01 00:30 | United Arab Emirates vs Qatar | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/73840448_6df2cf783197251cb77e105ac2b749ee_autoChange.m3u8?auth_key=1790804474-0-0-22d59b8fc908d6673393ad1f0f26ce88
+https://live5.dyrur1.com/live/73840448_6df2cf783197251cb77e105ac2b749ee_autoChange.m3u8?auth_key=1790806074-0-0-5421e115d2f3a178177872607f45222c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80" group-title="Football",2026-10-01 00:30 | Bahrain vs Yemen | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73840450_e0af718fb4b50573d8b946e03329fdbb_autoChange.m3u8?auth_key=1790804474-0-0-556208a7d18937b001efd393fb85c5d5
+https://live.dyrur1.com/live/73840450_e0af718fb4b50573d8b946e03329fdbb_autoChange.m3u8?auth_key=1790806074-0-0-a126536959bca709719b63258abfa083
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/09c9433cfa1c306e6b774a272da7f5a9.png!w80" group-title="Football",2026-09-30 23:45 | AS Roma Nữ vs Barcelona Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74371800_3e8252da7db40217109f3ad644d32dba_autoChange.m3u8?auth_key=1790804473-0-0-c2efc5751ff71b14226182845ad25291
+https://live.dyrur1.com/live/74371800_3e8252da7db40217109f3ad644d32dba_autoChange.m3u8?auth_key=1790806073-0-0-ce109cfa92dbcbdb484de477f62bbee5
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fabc3fa7f297e32d91291693eb8c1404.png!w80" group-title="Football",2026-09-30 23:45 | Paris FC Nữ vs Arsenal Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/74371804_b2b730c5fe926e8d1bcb87c163c0e44d_autoChange.m3u8?auth_key=1790804473-0-0-df254998f8c88846f555a427abd8dd11
+https://live2.dyrur1.com/live/74371804_b2b730c5fe926e8d1bcb87c163c0e44d_autoChange.m3u8?auth_key=1790806073-0-0-9aa572ca9ae6cc52f00b78742969fb29
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e121cced31de682c590d3305327061df.png!w80" group-title="Football",2026-09-30 23:45 | Hacken Nữ vs Juventus Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74371802_10e9691fe228d4736c16963e39647c3e_autoChange.m3u8?auth_key=1790804473-0-0-1529b653eb1829705ae81f2e3d92c493
+https://live1.dyrur1.com/live/74371802_10e9691fe228d4736c16963e39647c3e_autoChange.m3u8?auth_key=1790806073-0-0-d942415c6c12f559c4a50a013e3fefdb
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f59d8d3db21b4054ac9e83a15f7b2609.png!w80" group-title="Football",2026-10-01 01:00 | Birmingham Nữ vs Liverpool Nữ | BLV BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
