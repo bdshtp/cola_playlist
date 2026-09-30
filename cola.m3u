@@ -2,23 +2,15 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="Football",2026-09-30 07:00 | Mỹ vs Chilê | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73600390_6596552c693163caa1f8d33489a0c876_autoChange.m3u8?auth_key=1790743677-0-0-b5d593f562ad5907409103635961d023
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b87a20a2b24f9944084890d1a136a22f.png!w80" group-title="Football",2026-09-30 06:00 | Anguilla vs Aruba | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73220998_d635120c3fcf8de1676a60034c94527d_autoChange.m3u8?auth_key=1790743677-0-0-5691aea5d0bb42d89c949ac44c7a8d50
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" group-title="Football",2026-09-30 05:30 | Indiana Fever vs Las Vegas Aces | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/edq0esd39z6fekx_30d4d20a604e97515d87b20a95941428_autoChange.m3u8?auth_key=1790743658-0-0-5dd59ff166f3f95a3481fadbeac8b7fc
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="Football",2026-09-30 07:30 | New York Liberty vs Minnesota Lynx | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75047612_6bb8f12fe9acadba4f39056a8e85e2e1_autoChange.m3u8?auth_key=1790743658-0-0-38f9b10632d5e70e17713cdf1d3eb26e
+https://live.dyrur1.com/live/73600390_6596552c693163caa1f8d33489a0c876_autoChange.m3u8?auth_key=1790745117-0-0-12d71195134d6d0137230f609aef1632
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="Football",2026-09-30 08:00 | Mexico vs Peru | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73685558_afb552a110027b23af6d70cf7f233bf1_autoChange.m3u8?auth_key=1790745117-0-0-e891ebabb58a8ce8b740df8701f19ab0
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="Football",2026-09-30 07:30 | New York Liberty vs Minnesota Lynx | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/75047612_6bb8f12fe9acadba4f39056a8e85e2e1_autoChange.m3u8?auth_key=1790745117-0-0-709aa3d8340e14c37ea5ddfc89ac3b8b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cc43cae8b2c9735749cb067be62f9311.png!w80" group-title="Football",2026-09-30 09:00 | Belize vs Thánh Vincent Grenadines | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
