@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80" group-title="Football",2026-10-01 06:00 | Brooklyn FC vs Detroit | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/67172994_f75fcd231f4815d8e5bb7fde75f4bfda_autoChange.m3u8?auth_key=1790824204-0-0-d4d3858539da99b57ddf005e9b044217
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10e3c287008eed128a8c53f8f55c26bd.png!w80" group-title="Football",2026-10-01 06:00 | Miami FC vs Sporting Jax | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/67172998_b8f1df665eb945cb1fc3499e6253d294_autoChange.m3u8?auth_key=1790824202-0-0-664ecb15363894a6cc3a8b1a0c41aa56
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" group-title="Football",2026-10-01 06:00 | Washington Mystics vs Atlanta Dream | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/75047624_8846544faa41b9dcafb8221caab7bdc6_autoChange.m3u8?auth_key=1790824202-0-0-40f60d9fc7665f41ead892ad4a180388
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="Football",2026-10-01 06:30 | New York Red Bulls vs St. Louis City | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/wv78xivmyl9hokr_0cd17c540b0cece790c9d9c48f2d2d81_autoChange.m3u8?auth_key=1790826032-0-0-253d8442e8e6f800bd97117288c818b1
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10e3c287008eed128a8c53f8f55c26bd.png!w80" group-title="Football",2026-10-01 06:00 | Miami FC vs Sporting Jax | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/67172998_b8f1df665eb945cb1fc3499e6253d294_autoChange.m3u8?auth_key=1790826032-0-0-4119b798eb20a931a0865323aa7eac58
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80" group-title="Football",2026-10-01 06:00 | Brooklyn FC vs Detroit | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/67172994_f75fcd231f4815d8e5bb7fde75f4bfda_autoChange.m3u8?auth_key=1790826032-0-0-b6dae092b5a5c4550707fa77989a8ddb
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" group-title="Football",2026-10-01 06:00 | Washington Mystics vs Atlanta Dream | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live5.dyrur1.com/live/75047624_8846544faa41b9dcafb8221caab7bdc6_autoChange.m3u8?auth_key=1790826032-0-0-a3d62c848b174e4cbb2549af0ba04f96
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" group-title="Football",2026-10-01 07:00 | Argentina vs Bolivia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
