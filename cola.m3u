@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png!w80" group-title="Football",2026-10-01 09:00 | Sacramento Republic vs Las Vegas Lights | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png!w80" group-title="Football",2026-10-01 09:10 | Sacramento Republic vs Las Vegas Lights | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/67173002_c9b93381bf0f8bcdebd20280f7a8e1c6_autoChange.m3u8?auth_key=1790835108-0-0-33281bd506ce5e4176286973c76f0427
+https://live.dyrur1.com/live/67173002_c9b93381bf0f8bcdebd20280f7a8e1c6_autoChange.m3u8?auth_key=1790837011-0-0-c4b442dfd83eb3b0c8a720f213db61ad
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/58709b9e7964e03c28ebe777ef823eca.png!w80" group-title="Football",2026-10-01 08:00 | Dallas Wings vs Golden State Valkyries | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/8lk2ys629moaz73_00ab398e97ff5695bd3e19f9a32e97de_autoChange.m3u8?auth_key=1790835108-0-0-720cec127a7e736666d194f6eecc1cbc
+https://live.dyrur1.com/live/8lk2ys629moaz73_00ab398e97ff5695bd3e19f9a32e97de_autoChange.m3u8?auth_key=1790837011-0-0-fab0ced95a0a49637798c9558ef99f13
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="Football",2026-10-01 13:10 | Panama vs New Zealand | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
