@@ -2,11 +2,7 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="Football",2026-10-02 05:00 | Curacao vs Trinidad & Tobago | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220756_7d2e3c1ec524d9f77d125649db297c07_autoChange.m3u8?auth_key=1790910400-0-0-7d96845f35ac138349d605eedac385fc
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="Football",2026-10-02 04:00 | Dominica vs Guyana | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220854_3505322db4eba4577fabe39f7efe39e3_autoChange.m3u8?auth_key=1790909441-0-0-1128aa919d2a70170ab4e4c0164b4668
+https://live.dyrur1.com/live/73220756_7d2e3c1ec524d9f77d125649db297c07_autoChange.m3u8?auth_key=1790912452-0-0-a1b69c0e8d29f783f600f32474112cd9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" group-title="Football",2026-10-02 07:00 | Cộng hòa Dominican vs Haiti | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
