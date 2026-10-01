@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="Football",2026-10-02 04:00 | Dominica vs Guyana | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220854_3505322db4eba4577fabe39f7efe39e3_autoChange.m3u8?auth_key=1790905405-0-0-f6a271dbd9433d0459900929f9c44aaf
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" group-title="Football",2026-10-02 03:00 | Quần đảo Virgin Anh vs Montserrat | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220982_1012782f125d249a06053aed07ec13a6_autoChange.m3u8?auth_key=1790905405-0-0-c2f8f38f778255153d4c9d3b754bbe0b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="Football",2026-10-02 05:00 | Curacao vs Trinidad & Tobago | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73220756_7d2e3c1ec524d9f77d125649db297c07_autoChange.m3u8?auth_key=1790907027-0-0-2871ec4567385a7b9ed2b21218a614e4
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="Football",2026-10-02 04:00 | Dominica vs Guyana | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73220854_3505322db4eba4577fabe39f7efe39e3_autoChange.m3u8?auth_key=1790907027-0-0-ce48eb81689c52f60bcea37ae6201f28
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" group-title="Football",2026-10-02 07:00 | Cộng hòa Dominican vs Haiti | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
