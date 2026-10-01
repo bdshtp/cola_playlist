@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png!w80" group-title="Football",2026-10-01 15:00 | Khaan Khuns-Erchim vs Central Stallions | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75104340_6fedb6804d64884a0af963adb24d9b49_autoChange.m3u8?auth_key=1790860380-0-0-9e7dad2dd6eb83787da71578821cdc39
+https://live.dyrur1.com/live/75104340_6fedb6804d64884a0af963adb24d9b49_autoChange.m3u8?auth_key=1790861971-0-0-2b28671ffda5930f8c1587d9b332628c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" group-title="Football",2026-10-01 16:30 | Tasmania JackNgười Nhảy vs Melbourne Tigers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-10-01 17:10 | Đội tuyển Bóng đá Quốc gia Nhật Bản vs Ecuador | BLV 
+https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_autoChange.m3u8?auth_key=1790861970-0-0-905540e6aeeb0b2bfd744e4d372d9dd6
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-10-01 17:10 | Nhật Bản vs Ecuador | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
@@ -15,7 +15,7 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80" group-title="Football",2026-10-01 19:30 | Indonesia vs Đội tuyển quốc gia Bangladesh | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80" group-title="Football",2026-10-01 19:30 | Indonesia vs Bangladesh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
