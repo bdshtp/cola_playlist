@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-10-02 18:00 | Hàn Quốc vs Venezuela | BLV BLV REVIVE
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-10-02 18:00 | Hàn Quốc vs Venezuela | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/33982309_tsc.m3u8
+https://live.dyrur1.com/live/73685578_6c2c7ed8e44bcbfc68952c2be91ab446_autoChange.m3u8?auth_key=1790959656-0-0-1a776f8279b41101a2ac1a3939f90e34
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" group-title="Football",2026-10-02 18:30 | Perth Wildcats vs South East Melbourne | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72016794_9b2d7a701c3cadd8fcdcee6545bda380_autoChange.m3u8?auth_key=1790957619-0-0-fdd12c2d3c516aeeb59cc9e80f645d0d
+https://live.dyrur1.com/live/72016794_9b2d7a701c3cadd8fcdcee6545bda380_autoChange.m3u8?auth_key=1790959677-0-0-3964794c897d2a43d1a7d56f7e67d765
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6051d2f0d56acc4f5f8faffdb57f9f99.png!w80" group-title="Football",2026-10-02 19:00 | Dejan FC vs Persipura Jayapura | BLV BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
