@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="Football",2026-10-02 16:35 | Việt Nam vs Pakistan | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="Football",2026-10-02 16:00 | Việt Nam vs Pakistan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74557140_3087b08c267501c511a615e48c3d0f48_autoChange.m3u8?auth_key=1790948443-0-0-446f4878405f0f05efb996fe4b63b88c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-02 16:30 | Illawarra Hawks vs Adelaide 36ers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72016792_fd31b78dfc13441191ec3034afbe1533_autoChange.m3u8?auth_key=1790948444-0-0-bb88142025a8f06c4079580c55d93fa6
+https://live.dyrur1.com/live/74557140_3087b08c267501c511a615e48c3d0f48_autoChange.m3u8?auth_key=1790950261-0-0-5a356ef49947f23a2b0cd99186ebd5ec
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="Football",2026-10-02 16:40 | Thái Lan vs Philippines | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74557142_0be1c565d9fec3e175e131c37818e73e_autoChange.m3u8?auth_key=1790948443-0-0-f1527e38aee8d1d3f57e27cfb0c1d0fc
+https://live.dyrur1.com/live/wv78xivoyj1uokr_f8a36dfe1a076c5252c15e0e5eded8c3_autoChange.m3u8?auth_key=1790950263-0-0-ea195b880e8821f2102b59e0e17e1408
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-02 16:30 | Illawarra Hawks vs Adelaide 36ers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72016792_fd31b78dfc13441191ec3034afbe1533_autoChange.m3u8?auth_key=1790950262-0-0-c0191db888d94e1285e3894672f17886
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/895a263ae5237d0edbaf850a907a59b0.png!w80" group-title="Football",2026-10-02 17:00 | Nurnberg vs Ingolstadt | BLV BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
