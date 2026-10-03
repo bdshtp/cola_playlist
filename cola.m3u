@@ -2,27 +2,27 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80" group-title="Football",2026-10-03 13:00 | Trung Quốc U23 vs Uzbekistan U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75174568_8d0bf8ab106d4f4b8677b5fb18253e00_autoChange.m3u8?auth_key=1791026255-0-0-fd0a52c93e821a08a582c742053f12ea
+https://live.dyrur1.com/live/75174568_8d0bf8ab106d4f4b8677b5fb18253e00_autoChange.m3u8?auth_key=1791027610-0-0-293bd56879962e75246c1a8a9732a1da
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="Football",2026-10-03 14:00 | Machida vs Kyoto Sanga | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72596892_8a16e3ae8865786f34d08943a0fd786a_autoChange.m3u8?auth_key=1791026256-0-0-d4791c4f13cba753fff62d82eb2644d5
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-10-03 14:30 | Anyang KGC vs Mobis Phoebus | BLV BLV ROCKSTAR
+https://live.dyrur1.com/live/72596892_8a16e3ae8865786f34d08943a0fd786a_autoChange.m3u8?auth_key=1791027610-0-0-824fbf05c1224362c4cca9d832f4866a
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-10-03 14:30 | Anyang KGC vs Mobis Phoebus | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
+https://live.dyrur1.com/live/73657422_1c5f4e84effbf86126527fdc2a477ef2_autoChange.m3u8?auth_key=1791027611-0-0-07194657a1835caf9517e03557e1409f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="Football",2026-10-03 14:30 | Brisbane Bullets vs Tasmania JackNgười Nhảy | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3b748d71ceee359ab6cdd2b169d617a9.png!w80" group-title="Football",2026-10-03 15:00 | Ulsan Citizen vs Siheung City | BLV BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/18812304_tsc.m3u8
+https://live.dyrur1.com/live/72016796_32c9d4ff880b6caf62bf1797b0d81f33_autoChange.m3u8?auth_key=1791027611-0-0-558d877ddccc0da5922b2e5f5fd75b16
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/68bbaa087749b718f6399542f3f51e6d.png!w80" group-title="Football",2026-10-03 15:00 | Oita Trinita vs CLB Yamagata | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3b748d71ceee359ab6cdd2b169d617a9.png!w80" group-title="Football",2026-10-03 15:00 | Ulsan Citizen vs Siheung City | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Football",2026-10-03 16:30 | Melbourne Tigers vs Cairns Taipans | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -259,10 +259,18 @@ https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" group-title="Football",2026-10-05 06:00 | Aruba vs Anguilla | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" group-title="Football",2026-10-05 07:00 | Costa Rica vs Haiti | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f83a93401d7a60595338bae0337d344c.png!w80" group-title="Football",2026-10-05 08:15 | Llaneros FC vs CLB America de Cali | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80" group-title="Football",2026-10-05 09:00 | Nicaragua vs Cộng hòa Dominican | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -283,14 +291,14 @@ https://live05.meung.app/live/08552895_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f7acabd411274fcf65ce2070ed568a.png!w80" group-title="Football",2026-10-05 19:00 | Uganda vs D.R. Congo | BLV BLV PEPSI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80" group-title="Football",2026-10-05 20:00 | Indonesia vs Thái Lan | BLV BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f7acabd411274fcf65ce2070ed568a.png!w80" group-title="Football",2026-10-05 20:00 | Uganda vs D.R. Congo | BLV BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80" group-title="Football",2026-10-05 20:30 | Ukraine U21 vs Albania U21 | BLV BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
