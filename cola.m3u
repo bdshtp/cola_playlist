@@ -2,20 +2,20 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" group-title="Football",2026-10-05 07:00 | Costa Rica vs Haiti | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220760_9fdf4a63e805ae0d51ad4d42f0807aee_autoChange.m3u8?auth_key=1791173562-0-0-88b15ba84d1ac67c274af2aa4a5a777d
+https://live.dyrur1.com/live/73220760_9fdf4a63e805ae0d51ad4d42f0807aee_autoChange.m3u8?auth_key=1791175830-0-0-2f443775e90d2576bc553e6becf6fa17
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" group-title="Football",2026-10-05 06:00 | Aruba vs Anguilla | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73221002_2299b6584343c442316bc1d051959e20_autoChange.m3u8?auth_key=1791173562-0-0-565bbcfefb2d05767c2f41011778c5b2
+https://live2.dyrur1.com/live/73221002_2299b6584343c442316bc1d051959e20_autoChange.m3u8?auth_key=1791175830-0-0-dc596a7ece04a3148922037f455c19fb
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/578175c1a0691907824154179e179ade.png!w80" group-title="Football",2026-10-05 07:30 | Estudiantes Rio Cuarto vs Racing Club | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73265362_fe2c21ad5f246704cd02bbec2412e598_autoChange.m3u8?auth_key=1791175830-0-0-7b903ec2d1bb8e72f7dfd5e1d5a84766
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-05 06:00 | Los Angeles Clippers vs Golden State Warriors | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74247686_75e8954951fc4ab1ffb1377b7943ebcb_autoChange.m3u8?auth_key=1791173562-0-0-49498ccf4264ad0cbdf21921d7528111
+https://live1.dyrur1.com/live/74247686_75e8954951fc4ab1ffb1377b7943ebcb_autoChange.m3u8?auth_key=1791175830-0-0-b8dd7703ffd577d81751451875ec166c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Football",2026-10-05 06:00 | Denver Nuggets vs Utah Jazz | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/578175c1a0691907824154179e179ade.png!w80" group-title="Football",2026-10-05 07:30 | Estudiantes Rio Cuarto vs Racing Club | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
