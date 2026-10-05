@@ -2,27 +2,19 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80" group-title="Football",2026-10-05 20:00 | Indonesia vs Thái Lan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/75234248_c0fd4ae0857afd21b13c3ff5fea65097_autoChange.m3u8?auth_key=1791224163-0-0-c2b4eae886dbee445cf99d6e98ef630f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f7acabd411274fcf65ce2070ed568a.png!w80" group-title="Football",2026-10-05 20:00 | Uganda vs D.R. Congo | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74931230_70b7e8ace1ea7b49c31b328016a38deb_autoChange.m3u8?auth_key=1791224163-0-0-1b144d29664b47ac875140921967b023
+https://live1.dyrur1.com/live/75234248_c0fd4ae0857afd21b13c3ff5fea65097_autoChange.m3u8?auth_key=1791227664-0-0-09004ed3e701568040102735c1f1729e
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80" group-title="Football",2026-10-05 20:30 | Ukraine U21 vs Albania U21 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/o17pji46nrlhy7j_73d0ab427994b8c499ca2a56ae5ed2a1_autoChange.m3u8?auth_key=1791224164-0-0-bf5bcba73f8a19cce9257a45ad3bae40
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fbdd77210d6beb40c3bd1bd026f63ed.png!w80" group-title="Football",2026-10-05 22:00 | Mauritius vs Sri Lanka | BLV BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/78905744_tsc.m3u8
+https://live5.dyrur1.com/live/o17pji46nrlhy7j_73d0ab427994b8c499ca2a56ae5ed2a1_autoChange.m3u8?auth_key=1791227663-0-0-5ee49468547fcfab7d382db2cad2fa21
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="Football",2026-10-05 23:00 | Đảo Síp vs Latvia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80" group-title="Football",2026-10-05 23:00 | Serbia U21 vs ĐTQG U21 Nga | BLV BLV ROCKSTAR
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80" group-title="Football",2026-10-05 23:00 | Serbia U21 vs ĐTQG U21 Nga | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" group-title="Football",2026-10-05 23:30 | Thụy Điển U21 vs Bắc Macedonia U21 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -71,22 +63,22 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80" group-title="Football",2026-10-06 06:00 | Detroit Pistons vs Phoenix suns | BLV BLV ROCKSTAR
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/3f82122a48e98eaccc5e71307eba801a.png!w80" group-title="Football",2026-10-06 06:00 | Detroit Pistons vs Phoenix suns | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Football",2026-10-06 06:00 | Philadelphia 76ers vs New York Knicks | BLV BLV Cozy
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Football",2026-10-06 06:00 | Philadelphia 76ers vs New York Knicks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87379114_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/29739453e451f4a6df866a1b87facf3f.png!w80" group-title="Football",2026-10-06 07:00 | Grenada vs Bonaire | BLV BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="Football",2026-10-06 07:00 | Milwaukee Bucks vs Minnesota Timberwolves | BLV BLV POCARI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="Football",2026-10-06 07:00 | Milwaukee Bucks vs Minnesota Timberwolves | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/19919577_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80" group-title="Football",2026-10-06 07:00 | Guatemala vs Suriname | BLV BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -99,10 +91,10 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-06 09:00 | Sacramento Kings vs Los Angeles Lakers | BLV BLV 247
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-06 09:00 | Sacramento Kings vs Los Angeles Lakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/90865415_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80" group-title="Football",2026-10-06 09:00 | Honduras vs Jamaica | BLV BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
