@@ -1,40 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80" group-title="Football",2026-10-06 01:45 | Pháp vs Bỉ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/68931486_5876f86d76c33ac5749ed4d24e7b9935_autoChange.m3u8?auth_key=1791240529-0-0-048eda4ac5817ab5c883b8aaa660668a
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="Football",2026-10-06 01:45 | ĐTQG Ý vs Thổ nhĩ kỳ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/68931490_4d24706c9babc273864f63af5bbad960_autoChange.m3u8?auth_key=1791240529-0-0-5c7870622e1651895b8c6287ed3acb71
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" group-title="Football",2026-10-06 01:45 | CLB Romania vs Thụy Điển | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/68932624_84b7b67d438d5dec5bb8d8014ef83e5b_autoChange.m3u8?auth_key=1791240529-0-0-53d994417bb1cc91cf5e26bd4bbef5f8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80" group-title="Football",2026-10-06 01:45 | Ukraine vs Hungary | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/68932764_34d90c4165837f26234ffa5566af14e2_autoChange.m3u8?auth_key=1791240529-0-0-b2d40c44a6fb9e9e9c18c5854d48926b
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80" group-title="Football",2026-10-06 01:45 | Bosnia Herzegovina vs Ba Lan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68932622_5fb4c1d911555ce5a4af52010ed4ce92_autoChange.m3u8?auth_key=1791240529-0-0-fd6a322d06c9b94a1e87a6a3a47a889f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" group-title="Football",2026-10-06 01:45 | Bắc Ireland vs Georgia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/68932762_1e321823784e8cb9ab2499d67bffbaa3_autoChange.m3u8?auth_key=1791240529-0-0-66685f42ce4e94fec262ab3cc9524277
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80" group-title="Football",2026-10-06 01:45 | Montenegro vs CLB Armenia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/68932420_3d5e8a816b03b13a1478afd3bfdb2e55_autoChange.m3u8?auth_key=1791240529-0-0-3422cd1de056d9f424232cecd27d7d6b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png!w80" group-title="Football",2026-10-06 02:45 | Dep. Riestra vs Central Cordoba SDE | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73265354_da5512dda6d70ee8349dd26e8737f815_autoChange.m3u8?auth_key=1791250194-0-0-4a0592cc67773d5189b1c3448b1de130
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/19406b9f645610fda9a0f6f27bdac710.png!w80" group-title="Football",2026-10-06 04:00 | Cuba vs Saint Kitts & Nevis | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73220894_cf73bfbe10e8864b1cdd70e970bf2d69_autoChange.m3u8?auth_key=1791251027-0-0-0713f9aa66727f90fa4686e13d4e327d
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/414440d40757c0f0ad4d6bf00a62f667.png!w80" group-title="Football",2026-10-06 05:00 | Martinique vs El Salvador | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
