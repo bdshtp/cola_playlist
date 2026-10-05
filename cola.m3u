@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80" group-title="Football",2026-10-05 13:30 | Ecuador vs Panama | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_autoChange.m3u8?auth_key=1791202493-0-0-f41d963582112670fdf977b75cd279dd
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-05 14:30 | Incheon vs Anyang KGC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73657430_eb21964a4e5d639b5cf6fe5720860aa7_autoChange.m3u8?auth_key=1791202492-0-0-515d23b4044a35f418630cf0d44eddd0
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="Football",2026-10-05 16:00 | Malaysia vs Việt Nam | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-05 14:30 | Incheon vs Anyang KGC | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/73657430_eb21964a4e5d639b5cf6fe5720860aa7_autoChange.m3u8?auth_key=1791204365-0-0-511223b238a481f3e5cb03e2e4a1bdfe
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-10-05 17:30 | Nhật Bản vs New Zealand | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -27,10 +23,10 @@ https://live05.meung.app/live/08552895_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f7acabd411274fcf65ce2070ed568a.png!w80" group-title="Football",2026-10-05 20:00 | Uganda vs D.R. Congo | BLV BLV PEPSI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f7acabd411274fcf65ce2070ed568a.png!w80" group-title="Football",2026-10-05 20:00 | Uganda vs D.R. Congo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/59444581_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5de6f7a36339ef5bedc3dc8741a1e222.png!w80" group-title="Football",2026-10-05 20:30 | Ukraine U21 vs Albania U21 | BLV BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
