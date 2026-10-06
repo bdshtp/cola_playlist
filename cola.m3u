@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80" group-title="Football",2026-10-06 23:00 | Nga vs Nigeria | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/74981540_f044504612c97650345d61a674d77e01_autoChange.m3u8?auth_key=1791323001-0-0-6c6bfeca1f9d9d01ada4c3afd1c84da3
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80" group-title="Football",2026-10-07 00:00 | Jordan vs Venezuela | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/75232868_a45ce5f533e14c9ce7c260bb969bc4c4_autoChange.m3u8?auth_key=1791322999-0-0-79802bd35dfb8cb8cd6b18343302f45e
+https://live4.dyrur1.com/live/75232868_a45ce5f533e14c9ce7c260bb969bc4c4_autoChange.m3u8?auth_key=1791324746-0-0-0441c14485936ab2bca5bc116d79c076
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80" group-title="Football",2026-10-07 00:00 | ĐTQG Algeria vs Niger | BLV BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="Football",2026-10-06 23:00 | Đức U21 vs Georgia U21 | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/58209043_7bd47ae2efd87b949f3fea7d323c1315_autoChange.m3u8?auth_key=1791323001-0-0-62529a85b4058a730ebe87abc0f85f3c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80" group-title="Football",2026-10-06 23:30 | ĐTQG U21 Portugal vs Cộng hòa Séc U21 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/58208465_eadadf4c671c1f0221184551eca61211_autoChange.m3u8?auth_key=1791323001-0-0-5c39b3d193d9979de228b44dc301c7a8
+https://live3.dyrur1.com/live/58208465_eadadf4c671c1f0221184551eca61211_autoChange.m3u8?auth_key=1791324748-0-0-471c2281a80681f3655e5b5ccca2bc88
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80" group-title="Football",2026-10-06 23:30 | Đội tuyển U21 Đan Mạch vs Bỉ U21 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/58209263_60f9486fca49dbf3564ffbe17370da17_autoChange.m3u8?auth_key=1791323001-0-0-cb4e1a2e0ebe35d84cd8c6a2e33bb35f
+https://live1.dyrur1.com/live/58209263_60f9486fca49dbf3564ffbe17370da17_autoChange.m3u8?auth_key=1791324748-0-0-8ce3215e2d230fbf86928c65b910f121
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="Football",2026-10-07 01:45 | Croatia vs Tây Ban Nha | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
