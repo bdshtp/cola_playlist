@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80" group-title="Football",2026-10-06 09:00 | Honduras vs Jamaica | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73220784_1e47062bd21b4b8ab276e860e1a4d1b8_autoChange.m3u8?auth_key=1791270683-0-0-0ad64e18687a9b0e8653fe2912c60e4f
+https://live1.dyrur1.com/live/73220784_1e47062bd21b4b8ab276e860e1a4d1b8_autoChange.m3u8?auth_key=1791272684-0-0-f52126123b791b60ab44ece960f41e5a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-06 09:00 | Sacramento Kings vs Los Angeles Lakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/74558120_e68cb562ae4464d60575c4d531ca4f30_autoChange.m3u8?auth_key=1791270683-0-0-0a9dbec69b902f69c1fb9db6b4012bd7
+https://live2.dyrur1.com/live/74558120_e68cb562ae4464d60575c4d531ca4f30_autoChange.m3u8?auth_key=1791272684-0-0-57fbc56405d65b326c28341c38866198
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80" group-title="Football",2026-10-06 14:00 | Changchun Xidu vs Guangzhou Dandelion | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -247,3 +247,27 @@ https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6ad4e821a96f050ba29f431fbf57801e.png!w80" group-title="Football",2026-10-08 00:00 | Zamalek vs ZED FC | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/78905744_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8dee40fb1b26ee38a0d8e8a8333f89a8.png!w80" group-title="Football",2026-10-08 00:00 | Ceramica Cleopatra vs El Masry | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d390f3b4be2499face8eb4af0e73140e.png!w80" group-title="Football",2026-10-08 02:00 | Guabira (Bol) vs The Strongest | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80" group-title="Football",2026-10-08 05:30 | Bragantino vs CLB Mirassol | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80" group-title="Football",2026-10-08 18:30 | Lion City vs Cong An Ha Noi FC | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="Football",2026-10-08 19:00 | CLB Johor Darul Takzim vs Vikingur Reykjavik Nữ | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/78905744_tsc.m3u8
