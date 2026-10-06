@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8cb3522da182ff9ea5925bbd8975b203.png!w80" group-title="Football",2026-10-07 04:00 | Thánh Vincent Grenadines vs Sint Maarten | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220916_bb7d91b22c9c785245c0fb16fb62f716_autoChange.m3u8?auth_key=1791340900-0-0-99977896e7b85ab36ee69516f7ae648f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" group-title="Football",2026-10-07 06:00 | Argentina vs Benin | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/74996592_b60f972023d07d7c62c060c396a0182d_autoChange.m3u8?auth_key=1791341868-0-0-8712f01ab4edea173e9615857dd823fa
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80" group-title="Football",2026-10-07 06:45 | Colombia vs Peru | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -111,6 +107,10 @@ https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e5dc58845ec4d74525de5bf71bd21e61.png!w80" group-title="Football",2026-10-08 04:00 | Leones vs Barranquilla FC | BLV BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e62f69a9de87796972eb59d19c27e59c.png!w80" group-title="Football",2026-10-08 05:00 | Coquimbo Unido vs Cobreloa | BLV BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -119,6 +119,10 @@ https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fb9a4cf4290646122b3afe17bd914737.png!w80" group-title="Football",2026-10-08 05:30 | Remo Belem (PA) vs CLB Gremio | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b44aef0db79a96caff676333b2e5ff7b.png!w80" group-title="Football",2026-10-08 06:00 | CLB Vitoria BA vs CLB Chapecoense SC | BLV BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
