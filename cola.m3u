@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80" group-title="Football",2026-10-06 09:00 | Honduras vs Jamaica | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73220784_1e47062bd21b4b8ab276e860e1a4d1b8_autoChange.m3u8?auth_key=1791272684-0-0-f52126123b791b60ab44ece960f41e5a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-06 09:00 | Sacramento Kings vs Los Angeles Lakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/74558120_e68cb562ae4464d60575c4d531ca4f30_autoChange.m3u8?auth_key=1791272684-0-0-57fbc56405d65b326c28341c38866198
+https://live2.dyrur1.com/live/74558120_e68cb562ae4464d60575c4d531ca4f30_autoChange.m3u8?auth_key=1791274247-0-0-fdb262a9c5c7ddaf1945d17b14bd3a88
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80" group-title="Football",2026-10-06 14:00 | Changchun Xidu vs Guangzhou Dandelion | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
