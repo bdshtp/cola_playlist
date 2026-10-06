@@ -2,7 +2,11 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0011800200177bdd6d5197b2bd13e8d9.png!w80" group-title="Football",2026-10-06 14:00 | Changchun Xidu vs Guangzhou Dandelion | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/74455056_4c07ca7981750c694c91f962a8dfb9ba_autoChange.m3u8?auth_key=1791284961-0-0-c9282527ffbe0bd0541fa39746fb29ae
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png!w80" group-title="Football",2026-10-06 14:30 | Beijing Technology vs Chengdu Rongcheng B | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80" group-title="Football",2026-10-06 14:30 | Qingdao Red Lions vs Wuhan Three Towns B | BLV BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -11,10 +15,6 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3f0164c40c878bc710d0e7f83c6f5d71.png!w80" group-title="Football",2026-10-06 14:30 | Beijing Technology vs Chengdu Rongcheng B | BLV BLV MOUNTAIN DEW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80" group-title="Football",2026-10-06 15:30 | Lam Dong vs Sông Lam Nghệ An | BLV BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
