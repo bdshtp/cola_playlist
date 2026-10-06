@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Football",2026-10-06 17:00 | Busan KTF Sonicboom vs LG Sakers | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-10-06 18:00 | Hàn Quốc vs Uzbekistan | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73657432_62293b6bff178aaaebfa192fc215a9ac_autoChange.m3u8?auth_key=1791297705-0-0-ab3446f384e23e88cf739dea0a640056
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-10-06 18:00 | Hàn Quốc vs Uzbekistan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Football",2026-10-06 18:00 | Bình Phước vs Đồng Tháp | BLV BLV MONSTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75915087_tsc.m3u8
+https://live05.meung.app/live/33982309_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80" group-title="Football",2026-10-06 18:00 | PVF CAND vs Huế | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live5.dyrur1.com/live/73550056_ec02509ceabaea53b72e3d1716c079ab_autoChange.m3u8?auth_key=1791299397-0-0-b5fc4011f1d7b7e02589f4da53cbf94c
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Football",2026-10-06 18:00 | Bình Phước vs Đồng Tháp | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/wv78xivopgvuokr_2fba38c9cb3f22df3a0148b9f3ef4cdd_autoChange.m3u8?auth_key=1791299397-0-0-267a21ff5a38135741eac41ac5220162
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Football",2026-10-06 17:00 | Busan KTF Sonicboom vs LG Sakers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/73657432_62293b6bff178aaaebfa192fc215a9ac_autoChange.m3u8?auth_key=1791299399-0-0-1c77d299e839515ff54ae4a0d9b63274
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" group-title="Football",2026-10-06 18:00 | Wuxi Wugou vs Suzhou Dongwu | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/69456618_b9bc08d8ed69e53b4fdc712a67d0d5da_autoChange.m3u8?auth_key=1791299397-0-0-274c8776c7147e667f3fdd28fe54eef1
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aa8cfda1c890f28a3a62fff6f1c6f6a0.png!w80" group-title="Football",2026-10-06 18:00 | Changchun Yatai vs Diên Biên Hải Lan Giang | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/69456624_f6e85b3a3e5fc1766daa2843f0267d3f_autoChange.m3u8?auth_key=1791299397-0-0-e18aabfba91362796f10eebc647e7a20
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80" group-title="Football",2026-10-06 18:30 | Nantong Zhiyun vs Shanghai Jiading Huilong | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
