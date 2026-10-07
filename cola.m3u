@@ -1,40 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80" group-title="Football",2026-10-07 17:00 | CLB Tokyo vs Shonan Bellmare | BLV BLV MONSTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-07 17:00 | KCC Egis vs Incheon | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73657434_efcac9f52f56a8c704e10c74fa36a18d_autoChange.m3u8?auth_key=1791387796-0-0-76101284d6e7856d21b75ae85857a2fc
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" group-title="Football",2026-10-07 17:00 | Yokohama F. Marinos vs Đại học Kyoto Sangyo | BLV BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80" group-title="Football",2026-10-07 17:00 | Kawasaki Frontale vs Tegevajaro Miyazaki | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14453660_6d6d5449914887deadbbabcdc30d90d8_autoChange.m3u8?auth_key=1791387799-0-0-ee03e794d1c5ffc1bc8095c527a1290a
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="Football",2026-10-07 18:00 | Thanh niên Thâm Quyến vs Quảng Châu E-Power FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69456634_28aacd07ccfea9b19979ded923b7af17_autoChange.m3u8?auth_key=1791387797-0-0-6ee2c4e18c3e1244ced74f867e39996a
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4453da947baa45c05d9f5b80c79c8aac.png!w80" group-title="Football",2026-10-07 18:30 | Nanjing City vs Tân Châu Huệ Long | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/69456660_3456cdd6a27d67d8bfd0c851311fb595_autoChange.m3u8?auth_key=1791387798-0-0-91608f49d6119f17b3ed954f0041b95a
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w80" group-title="Football",2026-10-07 18:30 | Dongguan Guanlian vs Câu lạc bộ bóng đá Quảng Tây Hengchen | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/69456656_33aa23e7daaa46d3be8d3c5a6eed746f_autoChange.m3u8?auth_key=1791387798-0-0-66016bf671773ff1f61437bfda879853
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Football",2026-10-07 19:00 | Buriram vs Pusamania Borneo FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80" group-title="Football",2026-10-07 19:00 | Ratchaburi vs Thành phố Hồ Chí Minh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_autoChange.m3u8?auth_key=1791389562-0-0-52a8236c61bb811f2894ffcee90f4b8f
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="Football",2026-10-07 18:00 | Thanh niên Thâm Quyến vs Quảng Châu E-Power FC | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/69456634_28aacd07ccfea9b19979ded923b7af17_autoChange.m3u8?auth_key=1791389564-0-0-892d38efa1b2124e40b0d2222ea843bf
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4453da947baa45c05d9f5b80c79c8aac.png!w80" group-title="Football",2026-10-07 18:30 | Nanjing City vs Tân Châu Huệ Long | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/69456660_3456cdd6a27d67d8bfd0c851311fb595_autoChange.m3u8?auth_key=1791389561-0-0-0e44543bca02d2af32fe653cfae0e854
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w80" group-title="Football",2026-10-07 18:30 | Dongguan Guanlian vs Câu lạc bộ bóng đá Quảng Tây Hengchen | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/69456656_33aa23e7daaa46d3be8d3c5a6eed746f_autoChange.m3u8?auth_key=1791389561-0-0-c759801350d45f8a64a7de09339dd60a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" group-title="Football",2026-10-07 20:00 | Kuching City FC vs CLB Tampines | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
