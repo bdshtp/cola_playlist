@@ -2,24 +2,28 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80" group-title="Football",2026-10-07 19:00 | Ratchaburi vs Thành phố Hồ Chí Minh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_autoChange.m3u8?auth_key=1791389562-0-0-52a8236c61bb811f2894ffcee90f4b8f
+https://live3.dyrur1.com/live/73085404_e4e80f0f5791e167eed324305bbd92ae_autoChange.m3u8?auth_key=1791391612-0-0-bcad1c9528a17d83bdd48048f242fb6e
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="Football",2026-10-07 18:00 | Thanh niên Thâm Quyến vs Quảng Châu E-Power FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69456634_28aacd07ccfea9b19979ded923b7af17_autoChange.m3u8?auth_key=1791389564-0-0-892d38efa1b2124e40b0d2222ea843bf
+https://live.dyrur1.com/live/69456634_28aacd07ccfea9b19979ded923b7af17_autoChange.m3u8?auth_key=1791391612-0-0-faf17985b72b47963d5bae01c0a8fa90
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4453da947baa45c05d9f5b80c79c8aac.png!w80" group-title="Football",2026-10-07 18:30 | Nanjing City vs Tân Châu Huệ Long | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/69456660_3456cdd6a27d67d8bfd0c851311fb595_autoChange.m3u8?auth_key=1791389561-0-0-0e44543bca02d2af32fe653cfae0e854
+https://live2.dyrur1.com/live/69456660_3456cdd6a27d67d8bfd0c851311fb595_autoChange.m3u8?auth_key=1791391613-0-0-5f534ac6dd7c2daf950eafd37356b03d
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w80" group-title="Football",2026-10-07 18:30 | Dongguan Guanlian vs Câu lạc bộ bóng đá Quảng Tây Hengchen | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/69456656_33aa23e7daaa46d3be8d3c5a6eed746f_autoChange.m3u8?auth_key=1791389561-0-0-c759801350d45f8a64a7de09339dd60a
+https://live1.dyrur1.com/live/69456656_33aa23e7daaa46d3be8d3c5a6eed746f_autoChange.m3u8?auth_key=1791391613-0-0-98d6ee10044d444d177eeff2549a05b0
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" group-title="Football",2026-10-07 20:00 | Kuching City FC vs CLB Tampines | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72597050_37b5780797dfe24df29f8d3166911517_autoChange.m3u8?auth_key=1791391613-0-0-efe383e8135cc583b976989871c938fe
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80" group-title="Football",2026-10-07 21:00 | Asyut Petroleum vs Al Ahly | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c750c05518db78eeabc97fb11574fed.png!w80" group-title="Football",2026-10-07 21:00 | Pyramids vs CLB Olympic El Qanal | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
