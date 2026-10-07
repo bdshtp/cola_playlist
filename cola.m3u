@@ -1,28 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" group-title="Football",2026-10-07 06:30 | Argentina vs Benin | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74996592_b60f972023d07d7c62c060c396a0182d_autoChange.m3u8?auth_key=1791350831-0-0-7ab538ae62fdb030d17d378297007a90
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80" group-title="Football",2026-10-07 06:45 | Colombia vs Peru | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74298606_da63bdb7d769010273b5e1c988a1d5d1_autoChange.m3u8?auth_key=1791351637-0-0-3b3cb5a16eb2b325052bb4f496516498
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="Football",2026-10-07 07:00 | Mỹ vs Canada | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73600474_c1ebd9f425edbd3be56fb64782e63e6a_autoChange.m3u8?auth_key=1791351839-0-0-4fa7686ee7a0d9b9325d2b7c69c04ea4
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="Football",2026-10-07 07:30 | Chicago Fire vs Vancouver Whitecaps | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/ndqmliw8y9vcrkv_dc7dd44e91c5622fb65c8d95dccba81b_autoChange.m3u8?auth_key=1791351839-0-0-7bf8df2a420c29686ee42c7c1c0db6b7
+https://live.dyrur1.com/live/ndqmliw8y9vcrkv_dc7dd44e91c5622fb65c8d95dccba81b_autoChange.m3u8?auth_key=1791353327-0-0-ad1a43f4b6077a61d8f91f4aec67bfb7
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/54803d9a444e58a28e10b6563e60fec8.png!w80" group-title="Football",2026-10-07 09:00 | French Guiana vs Belize | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/73220914_823ea0470c444fc742a3af99dc3bcdb0_autoChange.m3u8?auth_key=1791353326-0-0-18428483cc9ab58bf2f98b2212e606f3
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Football",2026-10-07 09:00 | Golden State Warriors vs Los Angeles Lakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/73323514_2b94a7f668cea570b7db25be5e2639b2_autoChange.m3u8?auth_key=1791353327-0-0-75dd478c313b83e964759ce14837264f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="Football",2026-10-07 09:30 | Mexico vs Chilê | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
