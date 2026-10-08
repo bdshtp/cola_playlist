@@ -1,32 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80" group-title="Football",2026-10-08 16:00 | Phong Phú Hà Nam Nữ vs Hà Nội Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75265722_722921bef6425aae11c2dddb4c14d66a_autoChange.m3u8?auth_key=1791470701-0-0-68a09927fdf58c004786d29dabcc170c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80" group-title="Football",2026-10-08 16:00 | Hồ Chí Minh Nữ vs TKS Việt Nam Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14282000_2f03a8b2167ae5809614f96f5543cf2e_autoChange.m3u8?auth_key=1791470700-0-0-97f9b2c67a58de2a306e9ad10744ea84
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Football",2026-10-08 17:00 | Wonju Dongbu Promy vs LG Sakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/73657436_690fcebe1bcc5117cc42f5017a19eeae_autoChange.m3u8?auth_key=1791470702-0-0-50efaf2be0bb24433a606c4809da3c20
+https://live3.dyrur1.com/live/73657436_690fcebe1bcc5117cc42f5017a19eeae_autoChange.m3u8?auth_key=1791472313-0-0-cd28ea8c2e535178ab472ab826211521
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="Football",2026-10-08 17:00 | Shakhtar Karagandy vs Akademiya Ontustik | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/69854894_7ccb1513105e8000c4ebcf7973acb7c8_autoChange.m3u8?auth_key=1791470701-0-0-bb53db67eee21569fac9d9fa043c8062
+https://live1.dyrur1.com/live/69854894_7ccb1513105e8000c4ebcf7973acb7c8_autoChange.m3u8?auth_key=1791472314-0-0-12a3bfa9a925b5c0ef1ba6c6b05958e2
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6e1508c9ed47664bfe25e353a37e4c50.png!w80" group-title="Football",2026-10-08 17:00 | FK Yelimay Semey B vs FK Arys | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69854892_00e9463a37470916bdee0e345458122a_autoChange.m3u8?auth_key=1791470701-0-0-3a6e26cb36b78a0df8cde5c8843ee4b4
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0b4f03fc5a3a1cdf5b96c476ef0c9f35.png!w80" group-title="Football",2026-10-08 18:00 | FK Aktobe II vs Tobol Kostanai B | BLV BLV ROCKSTAR
+https://live.dyrur1.com/live/69854892_00e9463a37470916bdee0e345458122a_autoChange.m3u8?auth_key=1791472314-0-0-cd53c5a76bc0b7d39e3d468ebe20090e
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0b4f03fc5a3a1cdf5b96c476ef0c9f35.png!w80" group-title="Football",2026-10-08 18:00 | FK Aktobe II vs Tobol Kostanai B | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
+https://live.dyrur1.com/live/69854886_1233d82b630b450cf98ba69ceb1223d0_autoChange.m3u8?auth_key=1791472314-0-0-b7e595875fa5ae8ead9cf1496fa96fa6
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/651ba39aae3985527e69ba4511a29fb5.png!w80" group-title="Football",2026-10-08 18:00 | FK Kaspiy Aktau B vs Astana B | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/69854888_4647d6e8d7bc4a4936dac7ffbde0f7bb_autoChange.m3u8?auth_key=1791472314-0-0-9b8e4b8fb4836eeeb5677b198b2c1d8d
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80" group-title="Football",2026-10-08 18:30 | Lion City vs Cong An Ha Noi FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -59,10 +51,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/56484f26eac26f8e279ea2172c48632d.png!w80" group-title="Football",2026-10-08 21:00 | Al Ittihad Alexandria vs CLB Wadi Degla | BLV BLV REVIVE
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/56484f26eac26f8e279ea2172c48632d.png!w80" group-title="Football",2026-10-08 21:00 | Al Ittihad Alexandria vs CLB Wadi Degla | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/33982309_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80" group-title="Football",2026-10-08 21:45 | Al Shamal vs Al Duhail | BLV BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.meung.app/live/33982309_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="Football",2026-10-10 19:00 | Rayo Vallecano vs Athletic Bilbao | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80" group-title="Football",2026-10-10 20:00 | CLB Genoa vs ACF Fiorentina | BLV BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/02456966_tsc.m3u8
