@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80" group-title="Football",2026-10-08 18:30 | Lion City vs Cong An Ha Noi FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72597088_96756003774adad49b61e195228f0f26_autoChange.m3u8?auth_key=1791479791-0-0-9b2643b8bace0ee124df7fb51bc7353c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e8ff74bbde41ecfd522e50ad4dd8e7b5.png!w80" group-title="Football",2026-10-08 18:30 | FC Sabail vs Karvan Evlakh | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73730282_b307b36df4d2f1641c2479ff542273d0_autoChange.m3u8?auth_key=1791479803-0-0-9ee95ec9e4f6e3c85b19b39db7a363a7
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="Football",2026-10-08 19:00 | CLB Johor Darul Takzim vs Vikingur Reykjavik Nữ | BLV BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -14,19 +6,19 @@ https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png!w80" group-title="Football",2026-10-08 19:00 | Port FC vs CLB Persib Bandung | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/72597084_563f17a3a77782c2a36c91ed3d7ce12c_autoChange.m3u8?auth_key=1791479791-0-0-7fc650d6c5c71ac71f0a4e76bf4d9ef6
+https://live4.dyrur1.com/live/72597084_563f17a3a77782c2a36c91ed3d7ce12c_autoChange.m3u8?auth_key=1791481531-0-0-97ac4c4e96df605ea31a00aa12089d43
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80" group-title="Football",2026-10-08 19:15 | Thể Công - Viettel vs Hồng Lĩnh Hà Tĩnh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14360778_22d75c31a012d5dbe76fe86ab94779d8_autoChange.m3u8?auth_key=1791479790-0-0-9d6f851956844acb6523dc104def8ee5
+https://live.dyrur1.com/live/14360778_22d75c31a012d5dbe76fe86ab94779d8_autoChange.m3u8?auth_key=1791481532-0-0-4d71d74a7f231833d03d5baf20a32e17
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80" group-title="Football",2026-10-08 20:10 | CLB Al Ahli vs Dubai Hoa Kỳ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74606376_6050e7f473e07ad7a1f3ee992115bff7_autoChange.m3u8?auth_key=1791479791-0-0-607159cd54e55dae67afdd18c79256e1
+https://live.dyrur1.com/live/74606376_6050e7f473e07ad7a1f3ee992115bff7_autoChange.m3u8?auth_key=1791481532-0-0-0cf7ad0bbb20c5d4367307609c28edee
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80" group-title="Football",2026-10-08 20:10 | Al Ain vs Ittihad Kalba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74606374_57740bf91e39e2cd662f21ed7affe31b_autoChange.m3u8?auth_key=1791479791-0-0-46fef3ab6ec65a0d0b24bbb1668a13ed
+https://live.dyrur1.com/live/74606374_57740bf91e39e2cd662f21ed7affe31b_autoChange.m3u8?auth_key=1791481532-0-0-77b571253460720ba1e2f6d95d295c4b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80" group-title="Football",2026-10-08 21:00 | Arab Contractors vs El Gouna | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0459eff25f56626beed63c97e0e67dcf.png!w80" group-title="Football",2026-10-10 20:50 | CLB Al Hazm vs NEOM Sports Club | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="Football",2026-10-10 21:00 | Chelsea vs Câu lạc bộ bóng đá Bournemouth | BLV BLV HỔ VẰN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07428422_tsc.m3u8
