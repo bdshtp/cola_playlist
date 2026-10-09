@@ -1,40 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80" group-title="Football",2026-10-09 21:55 | Al Fateh vs Al Ahli SC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73215752_3222bbacd3d4bf276a78d359b2eac83a_autoChange.m3u8?auth_key=1791578724-0-0-53003853438fdc60e665a32151fcb24e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png!w80" group-title="Football",2026-10-09 21:45 | Qatar SC vs Al Rayyan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/jek33i84jzpu9ko_0c685f4f3ce0a18501ef5c384dbfec19_autoChange.m3u8?auth_key=1791578645-0-0-2729f14cc2d237f72c5700027b678f88
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1102270dc5201968f3eeffbc20da56bc.png!w80" group-title="Football",2026-10-09 22:00 | SJK vs CLB Lahti | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74299652_ec7a1fc924613b698b0002fcb4a3b7fe_autoChange.m3u8?auth_key=1791578724-0-0-66ef9e6048b5f12327d341c7c63d3d24
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0d34b3c5bdf01947c5d8e3e36cc82962.png!w80" group-title="Football",2026-10-09 22:00 | Corvinul Hunedoara vs CS Voluntari | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72388024_bcdaa9cbc8a41a2274fe539b8132708e_autoChange.m3u8?auth_key=1791578724-0-0-a17ea6048d4e2691c78e1f84487abaf4
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-09 23:30 | Heidenheimer vs CLB Kaiserslautern | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72513890_899ac7bf2996d993c51ab97ae9ec8bfd_autoChange.m3u8?auth_key=1791578723-0-0-f69ee380f47cf1ff1695de889eec0abd
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" group-title="Football",2026-10-09 23:30 | Braunschweig vs CLB Holstein Kiel | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72513902_8ca7e7075166b375eecf360b7d52bc98_autoChange.m3u8?auth_key=1791578723-0-0-46f5ebd2b1f035c661128ea2db705f7d
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" group-title="Football",2026-10-09 23:30 | Rostov vs Akron Togliatti | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/72334348_9bc99e0e1f1b4a1509b11b8e70a574d0_autoChange.m3u8?auth_key=1791578724-0-0-6197a621d22d749ad8061277c480c10a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Football",2026-10-10 00:00 | Galatasaray vs Kasimpasa | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" group-title="Football",2026-10-10 00:00 | CLB Al Sadd vs Al Arabi | BLV BLV MOUNTAIN DEW
+https://live4.dyrur1.com/live/72723244_78760864c1a6f759a4b909278107e94c_autoChange.m3u8?auth_key=1791580258-0-0-b9e62efdd8cffbf7be736656ca8d4cd2
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-09 23:30 | Heidenheimer vs CLB Kaiserslautern | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87547578_tsc.m3u8
+https://live1.dyrur1.com/live/72513890_899ac7bf2996d993c51ab97ae9ec8bfd_autoChange.m3u8?auth_key=1791580257-0-0-76612384b85b36e4a4c59992545ca6a4
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" group-title="Football",2026-10-09 23:30 | Braunschweig vs CLB Holstein Kiel | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72513902_8ca7e7075166b375eecf360b7d52bc98_autoChange.m3u8?auth_key=1791580257-0-0-d86045b337767b2dabeeb4cd9e9709c6
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" group-title="Football",2026-10-09 23:30 | Rostov vs Akron Togliatti | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/72334348_9bc99e0e1f1b4a1509b11b8e70a574d0_autoChange.m3u8?auth_key=1791580257-0-0-0f82f90c090c933e54fe8ac851ad673f
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" group-title="Football",2026-10-10 00:00 | CLB Al Sadd vs Al Arabi | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/69759igpymlagk2_be2ffb0c719734d2d075b2f144e54b56_autoChange.m3u8?auth_key=1791580256-0-0-c4dcce2078c1f726df5c3364528a831e
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ee5b1bcc98e7232350988a477974fb26.png!w80" group-title="Football",2026-10-10 00:45 | Moreirense vs Gil Vicente | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +383,19 @@ https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80" group-title="Football",2026-10-11 20:00 | Crystal Palace vs Câu lạc bộ Bóng đá Nottingham Forest | BLV BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80" group-title="Football",2026-10-11 20:00 | S.S. Lazio vs A.C. Monza | BLV BLV HỔ VẰN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/262691204102d2200797f0ac34efb316.png!w80" group-title="Football",2026-10-11 20:00 | CLB Hull City vs Everton | BLV BLV REVIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/887b7663a0d47031528921d9972ae3a6.png!w80" group-title="Football",2026-10-11 20:30 | 1. FC Köln vs Borussia Mönchengladbach | BLV BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/14707124_tsc.m3u8
