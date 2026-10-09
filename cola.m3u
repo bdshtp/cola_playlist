@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="Football",2026-10-09 15:30 | CLB Persik Kediri vs CLB Madura United | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73576650_174f6a2d1a0d2e88872bafd4ee60022a_autoChange.m3u8?auth_key=1791553487-0-0-8044617afa84321affb78c889d767676
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-09 15:30 | Illawarra Hawks vs Tasmania JackNgười Nhảy | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72016808_6d4e4945e3db33c7dffb084caf3b2d13_autoChange.m3u8?auth_key=1791553487-0-0-c3fbb13be01bc74dbf801cdd8fd819d8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="Football",2026-10-09 17:00 | Kashima Antlers vs Gamba Osaka | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="Football",2026-10-09 17:00 | Kashiwa Reysol vs Vissel Kobe | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80" group-title="Football",2026-10-09 18:00 | Ratchaburi vs Sukhothai | BLV BLV AQUA
+https://live3.dyrur1.com/live/72149760_a6107e864a28e60230f76a21851b8576_autoChange.m3u8?auth_key=1791555184-0-0-ca1adf9b7178669bae3bded94cb701b2
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="Football",2026-10-09 15:30 | CLB Persik Kediri vs CLB Madura United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/18812304_tsc.m3u8
+https://live1.dyrur1.com/live/73576650_174f6a2d1a0d2e88872bafd4ee60022a_autoChange.m3u8?auth_key=1791555183-0-0-4fee4f212c74b397a07dbea356d47b19
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="Football",2026-10-09 17:00 | Kashima Antlers vs Gamba Osaka | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/72149754_ec1af09d16d89a9fde54c8ae8f0fb283_autoChange.m3u8?auth_key=1791555184-0-0-4741dc317a23dab4e7c70ec9ab443409
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-09 15:30 | Illawarra Hawks vs Tasmania JackNgười Nhảy | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72016808_6d4e4945e3db33c7dffb084caf3b2d13_autoChange.m3u8?auth_key=1791555183-0-0-05d992cde56a2f92413a7f691533de2f
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80" group-title="Football",2026-10-09 18:00 | Ratchaburi vs Sukhothai | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80" group-title="Football",2026-10-09 18:35 | Qingdao Hainiu FC vs Beijing Guoan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
