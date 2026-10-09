@@ -2,15 +2,15 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80" group-title="Football",2026-10-09 12:00 | Daejeon vs CLB Jeonbuk Hyundai Motors | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/67817894_ad3f63590c04c570c72473e5cddee012_autoChange.m3u8?auth_key=1791539059-0-0-6a0b1d045198a2b0882465c13a39df7b
+https://live1.dyrur1.com/live/67817894_ad3f63590c04c570c72473e5cddee012_autoChange.m3u8?auth_key=1791540969-0-0-9b78495b516fc207a6b688072e21bb77
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1865239eb652f9778782fef6ee1a071c.png!w80" group-title="Football",2026-10-09 12:00 | Suwon FC vs Hwaseong | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/68046766_b336ee8a43ede3109ca6b69ca954cd98_autoChange.m3u8?auth_key=1791539059-0-0-7f7e68ba45674950302dc7700a6f603e
+https://live2.dyrur1.com/live/68046766_b336ee8a43ede3109ca6b69ca954cd98_autoChange.m3u8?auth_key=1791540969-0-0-8a3fff70c7c4985380207b7fc55ac985
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Football",2026-10-09 12:00 | Busan KTF Sonicboom vs Goyang Carrot Jumpers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/73657438_a241bf2bb66b5684265aef00b1a7fa12_autoChange.m3u8?auth_key=1791539059-0-0-883c9f578e9bfd8f7b779df22f8419c7
+https://live4.dyrur1.com/live/73657438_a241bf2bb66b5684265aef00b1a7fa12_autoChange.m3u8?auth_key=1791540969-0-0-83e576ce728cbdc55545e7083841dd40
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80" group-title="Football",2026-10-09 14:30 | Incheon United vs CLB Pohang Steelers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -331,3 +331,23 @@ https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a5caa04e895b6b33ba8e816522795c30.png!w80" group-title="Football",2026-10-11 00:00 | Maritimo vs Porto | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80" group-title="Football",2026-10-11 00:00 | CLB Toronto  vs CLB Montreal Impact | BLV BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/14707124_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80" group-title="Football",2026-10-11 09:30 | Los Angeles FC vs Vancouver Whitecaps | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80" group-title="Football",2026-10-11 12:00 | Gwangju FC vs CLB Ulsan Hyundai  | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/db58fdf26d9c934236772a9721fa750b.png!w80" group-title="Football",2026-10-11 23:30 | Rubin Kazan vs Dynamo Moscow | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
