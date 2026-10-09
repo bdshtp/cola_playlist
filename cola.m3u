@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="Football",2026-10-09 07:30 | Palmeiras vs Bahia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/66887044_d2aabbdd7f62ebc4ab039c237c92f2cd_autoChange.m3u8?auth_key=1791526314-0-0-b537a2e0b273e290fdf5bd743c6662a0
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="Football",2026-10-09 07:30 | Fluminense RJ vs Coritiba | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/66887038_7e3a2403a0d24517d0612d18d83bc286_autoChange.m3u8?auth_key=1791526314-0-0-e4cf3456e197d655165c520c68b013f7
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" group-title="Football",2026-10-09 07:00 | San Antonio Spurs vs Atlanta Hawks | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/527rjsw28l3h4ke_4cf651b1711a1f6c8dd9bff74450d84b_autoChange.m3u8?auth_key=1791526314-0-0-2e64d8297605626f72d95ea0d684c867
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/96f56d32d59119eb9bf3cab69e9a19f8.png!w80" group-title="Football",2026-10-09 08:00 | Alebrijes de Oaxaca vs Correcaminos | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72661696_87c0ec2fe8551bc8f4bbece1963394c6_autoChange.m3u8?auth_key=1791526314-0-0-66afbbcecc3420fc8f3154cdec83a95e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" group-title="Football",2026-10-09 09:30 | Los Angeles Lakers vs Sacramento Kings | BLV 
+https://live.dyrur1.com/live/72661696_87c0ec2fe8551bc8f4bbece1963394c6_autoChange.m3u8?auth_key=1791528174-0-0-d34f7c66a07948f733c65635dc7ef752
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" group-title="Football",2026-10-09 09:45 | Los Angeles Lakers vs Sacramento Kings | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73864154_aeb0c2bce58db45464593dc844bee55c_autoChange.m3u8?auth_key=1791528174-0-0-bc52c048110369b40728c67aef4c7501
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Football",2026-10-09 12:00 | Busan KTF Sonicboom vs Goyang Carrot Jumpers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -31,18 +19,18 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80" group-title="Football",2026-10-09 14:30 | Incheon United vs CLB Pohang Steelers | BLV BLV HỔ VẰN
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80" group-title="Football",2026-10-09 14:30 | Incheon United vs CLB Pohang Steelers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/07428422_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" group-title="Football",2026-10-09 14:30 | Seoul Samsung Thunders vs Anyang KGC | BLV BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="Football",2026-10-09 14:30 | Gangwon vs Bucheon FC 1995 | BLV BLV GIÀ LÀNG
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="Football",2026-10-09 14:30 | Gangwon vs Bucheon FC 1995 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/14830711_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-09 15:30 | Illawarra Hawks vs Tasmania JackNgười Nhảy | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
