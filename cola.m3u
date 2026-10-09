@@ -1,36 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Football",2026-10-10 00:00 | Galatasaray vs Kasimpasa | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/72723244_78760864c1a6f759a4b909278107e94c_autoChange.m3u8?auth_key=1791582190-0-0-5d46aa7fd1535c99fbdadd4e4b473a0f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-09 23:30 | Heidenheimer vs CLB Kaiserslautern | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72513890_899ac7bf2996d993c51ab97ae9ec8bfd_autoChange.m3u8?auth_key=1791582189-0-0-ad69a15ed54fdec4965aeacdb5058c60
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" group-title="Football",2026-10-09 23:30 | Braunschweig vs CLB Holstein Kiel | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72513902_8ca7e7075166b375eecf360b7d52bc98_autoChange.m3u8?auth_key=1791582189-0-0-354aff23e14fbe34730ed6d22ea122c9
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" group-title="Football",2026-10-09 23:30 | Rostov vs Akron Togliatti | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/72334348_9bc99e0e1f1b4a1509b11b8e70a574d0_autoChange.m3u8?auth_key=1791582189-0-0-ad6d4941eeb7d9e531b655aa1caeec9b
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" group-title="Football",2026-10-10 00:00 | CLB Al Sadd vs Al Arabi | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/69759igpymlagk2_be2ffb0c719734d2d075b2f144e54b56_autoChange.m3u8?auth_key=1791582192-0-0-f88ddd5616a8c3cad83f609ce8ca905f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ee5b1bcc98e7232350988a477974fb26.png!w80" group-title="Football",2026-10-10 00:45 | Moreirense vs Gil Vicente | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72530958_9d4984b4befd1d101aba20798ac77e35_autoChange.m3u8?auth_key=1791582188-0-0-767dd32b666a2618bba302cf3c4b58d9
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png!w80" group-title="Football",2026-10-10 01:00 | PSV Eindhoven vs SC Heerenveen | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="Football",2026-10-10 01:00 | Al-Nassr vs Al Draih | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/73215762_d551e44d6354196bdad65409ba8778f9_autoChange.m3u8?auth_key=1791583987-0-0-070ac6a7c379264ee9f5945db6654839
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png!w80" group-title="Football",2026-10-10 01:00 | PSV Eindhoven vs SC Heerenveen | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72041158_065e9b6b41af36f96102673c71749e61_autoChange.m3u8?auth_key=1791583986-0-0-e70da0a6d68e9f580530a4ed7d56425f
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Football",2026-10-10 00:00 | Galatasaray vs Kasimpasa | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/72723244_78760864c1a6f759a4b909278107e94c_autoChange.m3u8?auth_key=1791583986-0-0-3e2a457b0ede2c0f10d7980aa4984ae9
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-09 23:30 | Heidenheimer vs CLB Kaiserslautern | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/72513890_899ac7bf2996d993c51ab97ae9ec8bfd_autoChange.m3u8?auth_key=1791583986-0-0-3fef4d2712d8e47d36d54153ff3e3d8a
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0a38b45c20a019398526a4944553f8e6.png!w80" group-title="Football",2026-10-09 23:30 | Braunschweig vs CLB Holstein Kiel | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72513902_8ca7e7075166b375eecf360b7d52bc98_autoChange.m3u8?auth_key=1791583986-0-0-937f2c937a7faa8d2f9f49e6c261a813
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" group-title="Football",2026-10-09 23:30 | Rostov vs Akron Togliatti | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/72334348_9bc99e0e1f1b4a1509b11b8e70a574d0_autoChange.m3u8?auth_key=1791583986-0-0-a8356eed25468eb873ac3d06a93e3d51
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" group-title="Football",2026-10-10 00:00 | CLB Al Sadd vs Al Arabi | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/69759igpymlagk2_be2ffb0c719734d2d075b2f144e54b56_autoChange.m3u8?auth_key=1791583985-0-0-e1b2f7fc86b12eb924656b043828ebc4
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ee5b1bcc98e7232350988a477974fb26.png!w80" group-title="Football",2026-10-10 00:45 | Moreirense vs Gil Vicente | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72530958_9d4984b4befd1d101aba20798ac77e35_autoChange.m3u8?auth_key=1791583986-0-0-aa09692dc830c0e418c65d3d8d1ec354
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w80" group-title="Football",2026-10-10 01:30 | Borussia Dortmund vs SV Werder Bremen | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
