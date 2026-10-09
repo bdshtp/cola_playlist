@@ -1,36 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80" group-title="Football",2026-10-09 18:00 | Ratchaburi vs Sukhothai | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72942510_2e41ba8352ad4f694684489e0350f648_autoChange.m3u8?auth_key=1791564596-0-0-45eaf207411364c1e438aba25ae598dc
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80" group-title="Football",2026-10-09 18:35 | Qingdao Hainiu FC vs Beijing Guoan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/68995388_2711350897023c8c43b6376a4508b5c6_autoChange.m3u8?auth_key=1791564597-0-0-96253d0ba19370a4bef2170cf4ccaf30
+https://live1.dyrur1.com/live/68995388_2711350897023c8c43b6376a4508b5c6_autoChange.m3u8?auth_key=1791566123-0-0-114a0a10537f28e762abcb30f7141b96
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80" group-title="Football",2026-10-09 18:35 | Shenzhen Peng City vs Henan Songshan Longmen | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68995380_2048cb1e2c9c7a84785885164e246818_autoChange.m3u8?auth_key=1791564597-0-0-1492d3012ca53ca97107eaf548729047
+https://live.dyrur1.com/live/68995380_2048cb1e2c9c7a84785885164e246818_autoChange.m3u8?auth_key=1791566131-0-0-2bb67673bf42fdaf11f1f8123e4c2d05
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="Football",2026-10-09 19:00 | Dallas Mavericks vs Houston Rockets | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73323616_88cdcc2dc579d33e42bf3117e7a45d12_autoChange.m3u8?auth_key=1791564597-0-0-f2ef45671fd4504b267df9a479701dbf
+https://live.dyrur1.com/live/73323616_88cdcc2dc579d33e42bf3117e7a45d12_autoChange.m3u8?auth_key=1791566123-0-0-99733e7e32c8a383fc76a9d7c7ad2ad9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cc1aef5e69e8d01ba3d3712f24040347.png!w80" group-title="Football",2026-10-09 19:00 | Zhejiang Professional vs Shanghai Port | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/68995382_6bf8d5166fcc03f395833355f805bdc0_autoChange.m3u8?auth_key=1791564597-0-0-733055e23d35e9ca0ad953d969c929da
+https://live1.dyrur1.com/live/68995382_6bf8d5166fcc03f395833355f805bdc0_autoChange.m3u8?auth_key=1791566132-0-0-78c575750c60f5dd6d65403bda460fda
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80" group-title="Football",2026-10-09 19:00 | Adhyaksa FC Banten vs Persebaya | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/73576652_c40b092ce9b5621b50451fc92125ed37_autoChange.m3u8?auth_key=1791564597-0-0-269567f84907d00f330b6b3f40657437
+https://live5.dyrur1.com/live/73576652_c40b092ce9b5621b50451fc92125ed37_autoChange.m3u8?auth_key=1791566124-0-0-d32b8ce101156a50ec123e81e3d436dc
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a707913a6243a0bf393035cbdbfbccf0.png!w80" group-title="Football",2026-10-09 19:30 | Veres-Rivne vs Câu lạc bộ bóng đá Shakhtar Donetsk | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72409716_302f969637cb9fe25817491ac07d48a9_autoChange.m3u8?auth_key=1791564595-0-0-c5b923781d452a7f40ef7fa0043d6df4
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80" group-title="Football",2026-10-09 20:10 | Al Wahda vs CLB Al Dhafra | BLV BLV STING
+https://live.dyrur1.com/live/72409716_302f969637cb9fe25817491ac07d48a9_autoChange.m3u8?auth_key=1791566120-0-0-1cc94a1dde7e562830826db6cb9cfb3c
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80" group-title="Football",2026-10-09 20:10 | Al Wahda vs CLB Al Dhafra | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/14707124_tsc.m3u8
+https://live1.dyrur1.com/live/74606382_37e98df58f71d4ae9526b5c21f7c85cf_autoChange.m3u8?auth_key=1791566121-0-0-8af945148f36d2a47b5400a147284acc
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png!w80" group-title="Football",2026-10-09 20:50 | Al Kholood vs Al Qadisiya | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80" group-title="Football",2026-10-11 15:30 | Malut United vs Pusamania Borneo FC | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/18812304_tsc.m3u8
