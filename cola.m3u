@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80" group-title="Football",2026-10-10 08:30 | Las Vegas Aces vs Golden State Valkyries | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/75243944_f6d922e37cf694a7a19f68dcef02a5e5_autoChange.m3u8?auth_key=1791618289-0-0-c5aa06e20b17b5a1b40535aa64f45361
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80" group-title="Football",2026-10-10 10:00 | Tigres vs Toluca | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72055214_05a89bfef837a53edb5d207eccf6fdbb_autoChange.m3u8?auth_key=1791618290-0-0-d4976a08bff55b9cbfcd7ee8ce56f589
+https://live.dyrur1.com/live/72055214_05a89bfef837a53edb5d207eccf6fdbb_autoChange.m3u8?auth_key=1791619785-0-0-98e7d3e9f781a20b53c64ba3c50d7122
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-10 12:00 | KCC Egis vs Wonju Dongbu Promy | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="Football",2026-10-12 00:45 | CLB San Lorenzo vs Dep. Riestra | BLV BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/02456966_tsc.m3u8
