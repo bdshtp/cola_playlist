@@ -2,23 +2,15 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="Football",2026-10-10 15:30 | Arema Malang vs Bhayangkara Solo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73576656_e01077a16655d65eac39815244d43a2a_autoChange.m3u8?auth_key=1791637824-0-0-cbe278851c9a756fe12e0722b3dc8099
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="Football",2026-10-10 14:30 | Gimcheon Sangmu FC vs FC Anyang | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/67817902_16567fd5182c283914fbaee21ec43b75_autoChange.m3u8?auth_key=1791637827-0-0-b4c90d2b64bdcb447b314c9dfe5030db
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Football",2026-10-10 14:30 | Mobis Phoebus vs Incheon | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/73657444_b6929ce554b8915bf2af781ee11f5732_autoChange.m3u8?auth_key=1791637827-0-0-6006fba9eb869134159235b398b6231d
+https://live2.dyrur1.com/live/73576656_e01077a16655d65eac39815244d43a2a_autoChange.m3u8?auth_key=1791639792-0-0-f9ae91e8e7af4a5321082e3e7d58e1e9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80" group-title="Football",2026-10-10 15:30 | South East Melbourne vs Melbourne Tigers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72016810_8dd28d3d51a1af5edaceb67c26742d63_autoChange.m3u8?auth_key=1791637824-0-0-4c8e2802a7c2f1d9defec865794a2639
+https://live1.dyrur1.com/live/72016810_8dd28d3d51a1af5edaceb67c26742d63_autoChange.m3u8?auth_key=1791639792-0-0-fcf2f8d3d6cffa40a7fb260f3431f639
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" group-title="Football",2026-10-10 15:50 | South Melbourne vs Melbourne Victory | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74788148_6ad1a104d3a31e3fbadf8bf4a06aa6c4_autoChange.m3u8?auth_key=1791637825-0-0-e0dc23ab596f458877a1fff76ba220e9
+https://live.dyrur1.com/live/74788148_6ad1a104d3a31e3fbadf8bf4a06aa6c4_autoChange.m3u8?auth_key=1791639793-0-0-dd2db9fadc7ddf5f9dc1e1a42ce07d28
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80" group-title="Football",2026-10-10 17:00 | Kyoto Sanga vs Machida | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80" group-title="Football",2026-10-12 03:30 | CLB Gremio vs CLB Sport Club Internacional | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="Football",2026-10-12 03:30 | Palmeiras vs CLB Corinthians Paulista | BLV BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/90865415_tsc.m3u8
