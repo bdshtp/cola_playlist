@@ -1,36 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="Football",2026-10-10 18:30 | Arsenal vs CLB Leeds United | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/72221292_4582650d434f72862a1f8e87cccccf93_autoChange.m3u8?auth_key=1791646914-0-0-f221b17da475449026925295d08399ff
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/df2ae58b9e658494b940b0bd782901b8.png!w80" group-title="Football",2026-10-10 17:00 | Hoàng Anh Gia Lai vs SHB Đà Nẵng | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80" group-title="Football",2026-10-10 18:00 | CLB XM Hai Phong vs Đông Á Thanh Hóa | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80" group-title="Football",2026-10-10 18:00 | CLB XM Hai Phong vs Đông Á Thanh Hóa | BLV BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14360780_e92066ed96e14496f2dae2a63b464f93_autoChange.m3u8?auth_key=1791644981-0-0-f76177fe8470a81d957d8cd0c7f61731
+https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80" group-title="Football",2026-10-10 18:00 | Nam Định vs Phu Dong Ninh Binh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14360781_bb84e9d2f7bf42b05a135c41da77b268_autoChange.m3u8?auth_key=1791644981-0-0-d5bb665339b6bf349478339ae1bf9bdc
+https://live.dyrur1.com/live/14360781_bb84e9d2f7bf42b05a135c41da77b268_autoChange.m3u8?auth_key=1791646905-0-0-3f81821df626611499c105de24d773ff
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80" group-title="Football",2026-10-10 17:00 | Kyoto Sanga vs Machida | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72149768_0b6b90ef5198a9c5c8889e5898a4834f_autoChange.m3u8?auth_key=1791644979-0-0-90a663c78df9db18b5750ce1bd44db20
+https://live1.dyrur1.com/live/72149768_0b6b90ef5198a9c5c8889e5898a4834f_autoChange.m3u8?auth_key=1791646905-0-0-f1ba627b9c8e0b07d329a029ee11c0ef
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80" group-title="Football",2026-10-10 17:30 | Perth Wildcats vs New Zealand Breakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13988172_61f8ab516ac9f4a6cd527e7df3e4f2a8_autoChange.m3u8?auth_key=1791644980-0-0-dbee9df2398c386cfc0246cfaabd05ae
+https://live.dyrur1.com/live/13988172_61f8ab516ac9f4a6cd527e7df3e4f2a8_autoChange.m3u8?auth_key=1791646919-0-0-367a3fb3b5a44d5a181cac6f4108c6fe
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e4dba0e2b72f3f545ece098b91b811a1.png!w80" group-title="Football",2026-10-10 18:00 | CLB Magdeburg vs Hannover 96 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72513900_b7dbad4900c5c3c6f5b12a2c99ac9187_autoChange.m3u8?auth_key=1791644979-0-0-aecf868dbab7a54b1e17bc44f8fa23f0
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="Football",2026-10-10 18:30 | Arsenal vs CLB Leeds United | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/72513900_b7dbad4900c5c3c6f5b12a2c99ac9187_autoChange.m3u8?auth_key=1791646919-0-0-6881fcc36bca6b6b8521bae37702feb0
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="Football",2026-10-10 18:35 | Shanghai Shenhua vs Câu lạc bộ bóng đá Yuxi Yukun | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/68995386_54f0bc1e7b1cbc8b8d519d2389a611c1_autoChange.m3u8?auth_key=1791646918-0-0-9b9317301495fd094a25e6f53a1ad844
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="Football",2026-10-10 19:00 | Rayo Vallecano vs Athletic Bilbao | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
