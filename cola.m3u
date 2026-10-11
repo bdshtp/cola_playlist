@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80" group-title="Football",2026-10-11 13:00 | Tokyo Verdy vs Sanfrecce Hiroshima | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72149764_b9ae8b4bbb5168d9119cad090558e921_autoChange.m3u8?auth_key=1791718999-0-0-4812132cdc988e97315e376e25e8fd2c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80" group-title="Football",2026-10-11 14:00 | Kawasaki Frontale vs Nagoya Grampus | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72149766_61ad90f8bcb82e2e56ad6271897f447b_autoChange.m3u8?auth_key=1791718999-0-0-37b82ae8f11e616799160391a846466f
+https://live1.dyrur1.com/live/72149766_61ad90f8bcb82e2e56ad6271897f447b_autoChange.m3u8?auth_key=1791720548-0-0-04141ee32d75c6f132db92f002a23884
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/588b1053c1a8f3c518e8b1f15f30a61a.png!w80" group-title="Football",2026-10-11 14:00 | Diên Biên Hải Lan Giang vs Nantong Zhiyun | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13658838_c2276437b9b91e4ab70f6758b9bf5526_autoChange.m3u8?auth_key=1791718998-0-0-13b52d3c6d80051e09585f87ae74c596
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-11 13:00 | Illawarra Hawks vs Cairns Taipans | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72016816_fd7359dcebedb4266e9bb60c60044a8d_autoChange.m3u8?auth_key=1791718999-0-0-afce7303cbc8d8e46e56ce7abfb2a37f
+https://live2.dyrur1.com/live/13658838_c2276437b9b91e4ab70f6758b9bf5526_autoChange.m3u8?auth_key=1791720550-0-0-6c2f36445f5e3119407e9d40a99fa670
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80" group-title="Football",2026-10-11 15:30 | Malut United vs Pusamania Borneo FC | BLV BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/14707124_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80" group-title="Football",2026-10-13 22:00 | Serbia Nữ vs Phần Lan Nữ | BLV BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80" group-title="Football",2026-10-13 23:00 | CLB Al Sadd vs Al Hilal | BLV BLV GIÀ LÀNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/14830711_tsc.m3u8
