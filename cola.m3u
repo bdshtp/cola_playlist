@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d874c6a14447ac110695b300849ca7c.png!w80" group-title="Football",2026-10-11 08:40 | Colorado Rapids vs San Jose Earthquakes | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/66299634_d231150532104ef0e7f0e68f41a6a81b_autoChange.m3u8?auth_key=1791702709-0-0-185faa3df312b4c14e215f01982369e7
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80" group-title="Football",2026-10-11 09:40 | Los Angeles FC vs Vancouver Whitecaps | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/zrkn6i4epx5uwql_5aaae343b582bcf67ccaafdac651a3a6_autoChange.m3u8?auth_key=1791702709-0-0-875f0bb2c3bb604ffd58be3c8494896d
+https://live.dyrur1.com/live/zrkn6i4epx5uwql_5aaae343b582bcf67ccaafdac651a3a6_autoChange.m3u8?auth_key=1791704527-0-0-c3b58316acc5f6ef0e3a6c3964d938c7
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="Football",2026-10-11 09:30 | Phoenix suns vs San Antonio Spurs | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/o17p8syg5y9uykj_bab2e822001b6caad1228e817908ae50_autoChange.m3u8?auth_key=1791702709-0-0-4967be58ccac3e3db2ac7a21c2026c94
+https://live.dyrur1.com/live/o17p8syg5y9uykj_bab2e822001b6caad1228e817908ae50_autoChange.m3u8?auth_key=1791704527-0-0-75668ac771c2358f5c947fdbe21e58e1
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Football",2026-10-11 11:00 | Sydney vs Adelaide 36ers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
