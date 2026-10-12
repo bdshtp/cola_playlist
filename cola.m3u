@@ -1,40 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/78dd333913352de8fc4e8b0834636245.png!w80" group-title="Football",2026-10-12 20:45 | CLB Pakhtakor vs Al Qadisiya | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14379433_5f0409c96e1121c79d60d8b13bfdad31_autoChange.m3u8?auth_key=1791834293-0-0-53c0d8831cf719b310570510d64b6903
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1e888ca542d892600d3b2818d1c40e22.png!w80" group-title="Football",2026-10-12 21:15 | Burgos CF vs Granada | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14091236_6874bd5f8e6c408fac473450700de5e5_autoChange.m3u8?auth_key=1791834293-0-0-2f51d6f33304d4cd62b1e75486bd3fe5
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80" group-title="Football",2026-10-12 21:00 | Arab Contractors vs ZED FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14278077_89adc6ee17eb9d8208183737ae5ab486_autoChange.m3u8?auth_key=1791834293-0-0-add9b135208083352096744f49f5b462
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/53f4bc55c48cd39be78fa4fa69645f31.png!w80" group-title="Football",2026-10-12 21:00 | FC tương lai vs Enppi | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14278078_29b1c09aea1831c3b3493ec3fbcbb7eb_autoChange.m3u8?auth_key=1791834293-0-0-6e4fd41550cebac807dc36c957d07f59
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80" group-title="Football",2026-10-12 22:00 | CLB Vaasa VPS vs CLB Gnistan Helsinki | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14407806_16b1ae8485e3330daed98b9f4b863687_autoChange.m3u8?auth_key=1791834294-0-0-e5333ea67b18b6435ba400a3d8f089b0
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f5d0b3f174168088f64f65b47af718fa.png!w80" group-title="Football",2026-10-12 22:00 | SCM Pitesti vs CFR | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14075630_ec07135fe613b77a98d506e55e8a3e8e_autoChange.m3u8?auth_key=1791834294-0-0-86c3deea7e9d44fabdfddc8b8b75b311
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="Football",2026-10-12 23:00 | CLB AC Oulu vs HJK | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bf2316e90a47ed6d1181458350b0714b.png!w80" group-title="Football",2026-10-12 23:00 | Tractor vs Al Shamal | BLV BLV SAMURAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" group-title="Football",2026-10-12 23:00 | Al Wasl vs Al Ahli SC | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bf2316e90a47ed6d1181458350b0714b.png!w80" group-title="Football",2026-10-12 23:00 | Tractor vs Al Shamal | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/14338676_d825ec9e0c590a94d8fc58465470f3bc_autoChange.m3u8?auth_key=1791835902-0-0-06d38c6e799257da3bc668b22fa68999
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80" group-title="Football",2026-10-12 22:00 | CLB Vaasa VPS vs CLB Gnistan Helsinki | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/l6kegi8l4petv75_aa634ab7debd9ed0bd8cba1a45017562_autoChange.m3u8?auth_key=1791835904-0-0-ebe36c0bf51400beb5a64a6a987a1a73
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f5d0b3f174168088f64f65b47af718fa.png!w80" group-title="Football",2026-10-12 22:00 | SCM Pitesti vs CFR | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/9gklzi1dpzefm7x_1bd228b411ba4e18bcd55f162450c9dc_autoChange.m3u8?auth_key=1791835904-0-0-f1b7be41069b3968e6a4db3e719dc5d1
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="Football",2026-10-12 23:00 | CLB AC Oulu vs HJK | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14407807_80805ab667fccd052ca458feff06406f_autoChange.m3u8?auth_key=1791835905-0-0-d5ddcedfdca7ebe648ad3e5bb6afafde
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80" group-title="Football",2026-10-12 23:30 | Atalanta B.C. vs CLB Venezia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -47,14 +31,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/983e56ee1d89379148cbb1d28384b6af.png!w80" group-title="Football",2026-10-13 00:00 | Elfsborg vs Halmstad | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-13 00:00 | CLB Eyupspor vs Goztepe | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-13 00:00 | CLB Eyupspor vs Goztepe | BLV BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/16226575_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c750c05518db78eeabc97fb11574fed.png!w80" group-title="Football",2026-10-13 00:00 | Pyramids vs Ceramica Cleopatra | BLV BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -95,10 +75,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/abd59f62f69ef9f59a8121c3baadd882.png!w80" group-title="Football",2026-10-13 02:15 | Famalicao vs Alverca | BLV BLV SODA
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/abd59f62f69ef9f59a8121c3baadd882.png!w80" group-title="Football",2026-10-13 02:15 | Famalicao vs Alverca | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/02456966_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="Football",2026-10-13 04:30 | Gimnasia Mendoza vs CLB Newells Old Boys | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
