@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="Football",2026-10-14 02:00 | Atlético Madrid vs Manchester United | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14387787_c520062ab4d78c10fa8664dfe56e809f_autoChange.m3u8?auth_key=1791937838-0-0-9b770aff561631b21261213a31fe244f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="Football",2026-10-14 02:00 | Arsenal vs Lille OSC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/14387786_9be9c036130afda1860011e70dd133e3_autoChange.m3u8?auth_key=1791937838-0-0-8c41135922fdab778f7721fc92879436
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Football",2026-10-14 02:00 | Galatasaray vs FC Barcelona | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14387788_89854c7489d2f5fbf72167c7fd94fe1b_autoChange.m3u8?auth_key=1791937838-0-0-dcadf328337350097ae312977691a55a
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa0840e0cb77fd66f104fa932302a72.png!w80" group-title="Football",2026-10-14 02:00 | Viking FK vs FC Bayern München | BLV BLV SPRITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="Football",2026-10-14 02:00 | Inter Milan vs Club Brugge | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14387794_b07791e07846810ddafc74c93ba1c7b2_autoChange.m3u8?auth_key=1791937835-0-0-88394289a69ed324bded7804faacb23d
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80" group-title="Football",2026-10-14 02:00 | Villarreal vs Napoli | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14387791_d877c2c9b7de79c7c5ffc25f0ddc1657_autoChange.m3u8?auth_key=1791937838-0-0-69311ca16d7768e845c9be2ce4d7ae4c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80" group-title="Football",2026-10-14 02:00 | RB Leipzig vs PSV Eindhoven | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14387789_163611cf1396b4d13f63a179f8848dc7_autoChange.m3u8?auth_key=1791937838-0-0-b1e89855d226c31a9c42cf3d73d3a4e1
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e76b7c07aa13158e4041c101a87578dc.png!w80" group-title="Football",2026-10-14 01:45 | Bristol City vs Blackburn Rovers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14069044_89cefbae1dbda3d94f9ff12f24314f99_autoChange.m3u8?auth_key=1791937835-0-0-474f863fad3fc7021360013d3c790fe5
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0ae228b68fbaf8bb4accc5fafe482a43.png!w80" group-title="Football",2026-10-14 01:45 | Millwall vs CLB Swansea City | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14069041_31befe8f97c1c94fca9ab5133f005880_autoChange.m3u8?auth_key=1791937835-0-0-411a073083db5098ab79b22bf842b18b
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80" group-title="Football",2026-10-14 01:45 | Wolverhampton Wanderers vs Bolton Wanderers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14069039_7773558efcd7d78781e856c55c327625_autoChange.m3u8?auth_key=1791937835-0-0-79d53e4ea0fb2752980144f512e6a56d
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6a4f2c8cdb5a0e6516d7dea8e17f320b.png!w80" group-title="Football",2026-10-14 02:00 | CLB Stoke City vs CLB Middlesbrough | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14069040_98103ff3d435b47e194ea560f3fe54d5_autoChange.m3u8?auth_key=1791937835-0-0-4c87db95310dec3331d2589f1d917d07
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="Football",2026-10-14 06:00 | Orlando Magic vs Cleveland Cavaliers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
