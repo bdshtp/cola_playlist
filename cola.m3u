@@ -1,12 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5d33f831f779428858138d28c9dd4480.png!w80" group-title="Football",2026-10-14 23:45 | LASK Linz vs Liverpool | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14387799_4cec9359ea86e282140656670cfebc5a_autoChange.m3u8?auth_key=1792011712-0-0-c1d0add222a581b04998e5be193a8021
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/44073f2d2c979a9388f98505ac3b754d.png!w80" group-title="Football",2026-10-14 23:45 | Feyenoord vs Calcio Como | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14387798_bd0de50e2c761f004a195a6bd3dfd183_autoChange.m3u8?auth_key=1792011712-0-0-8200ffd266a66bf6218ad5d6980e498a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dfb637acd761b88a27e200393e29319f.png!w80" group-title="Football",2026-10-14 22:30 | Akhmat Grozny vs Dynamo Moscow | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69759ig418pigk2_6ee3213aab4b85af27ae6ca8a155e9b5_autoChange.m3u8?auth_key=1792008190-0-0-58554513f0dea5624296e618ef5f8209
+https://live.dyrur1.com/live/69759ig418pigk2_6ee3213aab4b85af27ae6ca8a155e9b5_autoChange.m3u8?auth_key=1792011713-0-0-03fbec1dcd51a1f99c94c86c9c7979e2
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/440da1fad5d16ada9a9742bf5d14c98e.png!w80" group-title="Football",2026-10-14 23:00 | Al-Taawoun vs Al Rayyan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14346232_fe2cddc045de8f5b84f4a3c9a466a863_autoChange.m3u8?auth_key=1792008187-0-0-d859a7490f7555eb887a1d6a854f48be
+https://live2.dyrur1.com/live/14346232_fe2cddc045de8f5b84f4a3c9a466a863_autoChange.m3u8?auth_key=1792011715-0-0-f72a60104de44e52c9ce86d5d94e6159
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4e9422ab24a8dff2521be20e1c129f20.png!w80" group-title="Football",2026-10-14 23:00 | Al-Muharraq vs Gol Gohar | BLV BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -15,14 +23,6 @@ https://live05.zhwpg.app/live/14707124_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5d33f831f779428858138d28c9dd4480.png!w80" group-title="Football",2026-10-14 23:45 | LASK Linz vs Liverpool | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/44073f2d2c979a9388f98505ac3b754d.png!w80" group-title="Football",2026-10-14 23:45 | Feyenoord vs Calcio Como | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png!w80" group-title="Football",2026-10-15 01:45 | Norwich City vs Southampton | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
