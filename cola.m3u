@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="Football",2026-10-14 06:00 | Orlando Magic vs Cleveland Cavaliers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14208456_78ee98249703d7d060310790a33abbd1_autoChange.m3u8?auth_key=1791949717-0-0-ee126c49b2ef84c7cac48f700f3cbe6f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="Football",2026-10-14 06:00 | Toronto Raptors vs New York Knicks | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14302451_b09b6e099783d4cd2f3bfc201984f526_autoChange.m3u8?auth_key=1791949717-0-0-025e463d8762545466727ffeced3e1a3
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80" group-title="Football",2026-10-14 07:00 | Oklahoma City Thunder vs Indiana Pacers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14302452_4e83bfd0c73e8155be7f01f955469c4c_autoChange.m3u8?auth_key=1791949717-0-0-78eebe1da6b3911efcfa2b223ed7ffaa
+https://live.dyrur1.com/live/14302452_4e83bfd0c73e8155be7f01f955469c4c_autoChange.m3u8?auth_key=1791951912-0-0-b858ff4863536852af97fb2c8e0d3d01
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="Football",2026-10-14 06:00 | Orlando Magic vs Cleveland Cavaliers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14208456_78ee98249703d7d060310790a33abbd1_autoChange.m3u8?auth_key=1791951912-0-0-aa85230787272dd5189efc8011f3875f
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="Football",2026-10-14 06:00 | Toronto Raptors vs New York Knicks | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14302451_b09b6e099783d4cd2f3bfc201984f526_autoChange.m3u8?auth_key=1791951912-0-0-6dab4c86a1465c984d59849fffc26841
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80" group-title="Football",2026-10-14 07:30 | Boca Juniors vs Vasco | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/14471810_8738f3fad233d6a52866f667c7b40f43_autoChange.m3u8?auth_key=1791951912-0-0-ea835e5bb86d124673c254e11b7a82dc
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80" group-title="Football",2026-10-14 08:30 | CLB Millonarios vs CLB Once Caldas | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
