@@ -1,32 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="Football",2026-10-15 19:15 | Pathum United vs Adelaide United | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14346238_6def726cd9978d2172593a47f2ca8d5d_autoChange.m3u8?auth_key=1792087442-0-0-bf07ef26be27ab44e9198e623dce4bcf
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80" group-title="Football",2026-10-15 19:15 | Kuching City FC vs CLB Kitchee | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14346237_59e18f23d382db245feae4a9412bddfd_autoChange.m3u8?auth_key=1792087442-0-0-7cdf42dafb0ae057a72fa7d85cb3bb93
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80" group-title="Football",2026-10-15 19:15 | CLB Tampines vs Machida | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14346240_fcdbe8d62bfd6f3da945a2c8a82f7034_autoChange.m3u8?auth_key=1792087442-0-0-375ec4ad57f43cbc55d1e45bd216de5b
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png!w80" group-title="Football",2026-10-15 19:15 | Svay Rieng vs Shanghai Shenhua | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14346239_4969b54f3e5f6ac981e748627e6cf480_autoChange.m3u8?auth_key=1792087442-0-0-1540c8165b156972fd4d58d0f878e6e4
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80" group-title="Football",2026-10-15 20:40 | Al Faisaly Harmah vs Al Kholood | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14426925_9c559b53fcc6ecf0dc2b5472b9ef8990_autoChange.m3u8?auth_key=1792087441-0-0-fb6463772b8b20e00c2cf39f31e6ae64
+https://live.dyrur1.com/live/14426925_9c559b53fcc6ecf0dc2b5472b9ef8990_autoChange.m3u8?auth_key=1792090894-0-0-4e2469a70c3e96a8c219c375ff162221
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/33e85da76004bba7d123e7749b69e5b2.png!w80" group-title="Football",2026-10-15 21:00 | Mardin BB vs Fatih Karagumruk | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14143529_1d1b259f16f81533a0d726efbd18323b_autoChange.m3u8?auth_key=1792087441-0-0-338127475016f8d093e980a1447b49a2
+https://live1.dyrur1.com/live/14143529_1d1b259f16f81533a0d726efbd18323b_autoChange.m3u8?auth_key=1792090894-0-0-fab588ffa4fa57bc008e64bdabe02fcf
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png!w80" group-title="Football",2026-10-15 21:50 | Al Khaleej vs CLB Al Fayha | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14426924_48c5387e9a04049b797754aa5502436f_autoChange.m3u8?auth_key=1792090894-0-0-69c93e33843cc5f14b97045b451a9a7d
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0459eff25f56626beed63c97e0e67dcf.png!w80" group-title="Football",2026-10-15 22:15 | CLB Al Hazm vs Al Fateh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +383,19 @@ https://live05.zhwpg.app/live/18812304_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d2effcf26ee8deeab5ab7f4e53740583.png!w80" group-title="Football",2026-10-17 21:00 | CLB Torquay United vs CLB Oxford City | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b7fabb9879b6213a626dcd42ff0c2c19.png!w80" group-title="Football",2026-10-17 21:00 | CLB Macclesfield Town vs Người du mục Anstey | BLV BLV POCARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Football",2026-10-17 21:00 | Câu lạc bộ bóng đá thành phố Manchester  vs CLB Ipswich Town | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png!w80" group-title="Football",2026-10-17 21:00 | Birmingham City vs Câu lạc bộ bóng đá Queens Park Rangers | BLV BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/14707124_tsc.m3u8
