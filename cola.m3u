@@ -2,27 +2,23 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7e9f03a408f176192cac0fbe6185f2d6.png!w80" group-title="Football",2026-10-16 23:45 | Al-Shahaniya vs Al Arabi | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14192216_cae42f7cecf6e3c90c4b5fec38b6b214_autoChange.m3u8?auth_key=1792185440-0-0-9e158855017780cfefb48f734f4f2e18
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/25a7ebe2fc19902b896b3a184ef420c9.png!w80" group-title="Football",2026-10-16 22:45 | Bani Yas vs Al Wasl | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/l6kegir92reiv75_fc1d68e5b55d0fc8fb8e868e3567bf98_autoChange.m3u8?auth_key=1792185441-0-0-85affcc0d3243605a6883b8feb792b32
+https://live.dyrur1.com/live/14192216_cae42f7cecf6e3c90c4b5fec38b6b214_autoChange.m3u8?auth_key=1792187274-0-0-2e8c54bab18c477d22b3d38c59bebeaf
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/958847e6fef63efb5913d460746ba5b7.png!w80" group-title="Football",2026-10-16 23:00 | KS Wieczysta Kraków vs Rakow | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/jr7owip89rytgq0_ecb8497db761924b01d8b61d3016eb4d_autoChange.m3u8?auth_key=1792185443-0-0-f6cba3fc6b2a27a3dff80be503d1ad77
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="Football",2026-10-16 23:30 | CLB Holstein Kiel vs Hertha BSC | BLV BLV SAMURAI
+https://live2.dyrur1.com/live/jr7owip89rytgq0_ecb8497db761924b01d8b61d3016eb4d_autoChange.m3u8?auth_key=1792187275-0-0-9b90fd217dc41c7f8d94ee2f1ae2fb9d
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="Football",2026-10-16 23:30 | CLB Holstein Kiel vs Hertha BSC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/07808742_tsc.m3u8
+https://live.dyrur1.com/live/14099464_3de74966d6ad1a68c344d3f7adc31b6c_autoChange.m3u8?auth_key=1792187274-0-0-9badd2a33a22c4588210925f10fa9e10
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3623712f3a18880ded3e0a4034b31525.png!w80" group-title="Football",2026-10-16 23:30 | Energie Cottbus vs Nurnberg | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14099713_97f4dd1997a54f50a1af27ac5ae646f3_autoChange.m3u8?auth_key=1792185440-0-0-e34fdc78f50960e48b8a36d190d47a2e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0b26f795a6fa9cbfdc9a8d99983854a9.png!w80" group-title="Football",2026-10-17 00:00 | Horsens vs Randers FC | BLV BLV FANTA
+https://live4.dyrur1.com/live/14099713_97f4dd1997a54f50a1af27ac5ae646f3_autoChange.m3u8?auth_key=1792187205-0-0-a44d4a4c2ee5732c31d9be09ce9c9c1c
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0b26f795a6fa9cbfdc9a8d99983854a9.png!w80" group-title="Football",2026-10-17 00:00 | Horsens vs Randers FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/16226575_tsc.m3u8
+https://live2.dyrur1.com/live/13972135_fbf08b25f898b3fe829bf2a3f845ea47_autoChange.m3u8?auth_key=1792187274-0-0-0526c28f796d689641370711c263ed95
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80" group-title="Football",2026-10-17 01:30 | Eintracht Frankfurt vs 1. FC Köln | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.zhwpg.app/live/16226575_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/526150064f4f983d670deb33fa6385b6.png!w80" group-title="Football",2026-10-18 20:00 | Angers SCO vs Olympique de Marseille | BLV BLV TEPPY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/33860426_tsc.m3u8
