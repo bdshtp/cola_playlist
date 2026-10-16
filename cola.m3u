@@ -1,28 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80" group-title="Football",2026-10-16 18:30 | Tanjong Pagar vs Hougang | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14219332_be1767f44b8235d0f375ad9ad431aa48_autoChange.m3u8?auth_key=1792166023-0-0-db06de948e6e373bff969068d36e49ac
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80" group-title="Football",2026-10-16 18:35 | Henan Songshan Longmen vs Tianjin Jinmen Tiger | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13599175_c295607f129410476c0d3ad284be5fc8_autoChange.m3u8?auth_key=1792166023-0-0-ef4b9d7523e5530c9acaf26f59575c72
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-16 17:00 | Goyang Carrot Jumpers vs Mobis Phoebus | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14300959_b8825941133f4666bf1042cc32b1d972_autoChange.m3u8?auth_key=1792166026-0-0-854f421299a3a8ffa7bdc851fb11bf0e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png!w80" group-title="Football",2026-10-16 19:00 | Ayutthaya Utd vs Lamphun Warrior | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14176635_622004bca41c2b1bac7a40b8ca0189ac_autoChange.m3u8?auth_key=1792166023-0-0-e51541f1d43bccce29612aad196e1ca8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/320ff18ba51acdf34c92311dec8186a7.png!w80" group-title="Football",2026-10-16 19:00 | CLB Madura United vs Bhayangkara Solo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14302331_f6dd589ca7d7e4cd07c5214fec8f62b9_autoChange.m3u8?auth_key=1792166024-0-0-435514e12a9a1af93e1f8f8f54e6fb4b
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80" group-title="Football",2026-10-16 19:00 | Malut United vs Bali United | BLV BLV FANTA
+https://live3.dyrur1.com/live/14302331_f6dd589ca7d7e4cd07c5214fec8f62b9_autoChange.m3u8?auth_key=1792168430-0-0-1cfdb9a5820a2214b7d994f44b67b065
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ce40238fcc9edbc84f02db7c6f6b4dc6.png!w80" group-title="Football",2026-10-16 19:00 | Ayutthaya Utd vs Lamphun Warrior | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/16226575_tsc.m3u8
+https://live1.dyrur1.com/live/14176635_622004bca41c2b1bac7a40b8ca0189ac_autoChange.m3u8?auth_key=1792168430-0-0-f727b32785041c4e664687af46d63141
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2a0ed6cd242323e53d426715a55aedc0.png!w80" group-title="Football",2026-10-16 19:00 | Malut United vs Bali United | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14302332_693f50ed395b1a2ffe9f335661312a17_autoChange.m3u8?auth_key=1792168430-0-0-7ead2c42220855d5bd265006bc043c17
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80" group-title="Football",2026-10-16 18:35 | Henan Songshan Longmen vs Tianjin Jinmen Tiger | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/13599175_c295607f129410476c0d3ad284be5fc8_autoChange.m3u8?auth_key=1792168429-0-0-617374f54bba1672a99db5c72d138396
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80" group-title="Football",2026-10-16 18:30 | Tanjong Pagar vs Hougang | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14219332_be1767f44b8235d0f375ad9ad431aa48_autoChange.m3u8?auth_key=1792168429-0-0-e7a0db53da7a3b8d2f45d9450cb374ae
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8872919405e0076fb753ae6492a0a2db.png!w80" group-title="Football",2026-10-16 20:05 | CLB Al Dhafra vs Dubai Hoa Kỳ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.zhwpg.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="Football",2026-10-18 14:00 | Machida vs Avispa Fukuoka | BLV BLV GIÀ LÀNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/14830711_tsc.m3u8
