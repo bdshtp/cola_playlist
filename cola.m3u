@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80" group-title="Football",2026-10-17 02:00 | Dep. La Coruna vs CLB Levante | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14467303_0df2ea9331d62081aed31676cd484672_autoChange.m3u8?auth_key=1792198172-0-0-3ad9e36438c2acc3904d8e7e3a369c35
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80" group-title="Football",2026-10-17 05:00 | Defensa y Justicia vs Instituto | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
