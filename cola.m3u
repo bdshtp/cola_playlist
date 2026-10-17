@@ -1,44 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="Football",2026-10-17 17:00 | Kashiwa Reysol vs Nagoya Grampus | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14058372_57b7c6298a5c69bc1e1b23e7c5fd1663_autoChange.m3u8?auth_key=1792250249-0-0-a28b1daecfe757d5f2bdbd84761ad67e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png!w80" group-title="Football",2026-10-17 17:00 | Đông Á Thanh Hóa vs Nam Định | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14360784_afd9c5f34e59e84571a60ef9017264ef_autoChange.m3u8?auth_key=1792250206-0-0-d8b66e88859446e31177125899ca9728
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="Football",2026-10-17 18:00 | SHB Đà Nẵng vs CLB XM Hai Phong | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14360785_9e763a270afdd3d4c09c2824013dd0dc_autoChange.m3u8?auth_key=1792250238-0-0-2b00a4a6b19d1dec1456e5ad1c614447
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" group-title="Football",2026-10-17 18:00 | VfL Wolfsburg vs Heidenheimer | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14099715_0819f1acc61420694f02cfeff365c8c3_autoChange.m3u8?auth_key=1792250234-0-0-4f4b6cdd2cfe49ef3a14edc06d27a4ab
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80" group-title="Football",2026-10-17 18:00 | Dalian Yingbo vs Shenzhen Peng City | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13599176_e4cdccb1b17ba004b84c7e7fb92d400d_autoChange.m3u8?auth_key=1792250226-0-0-b574ce5c375b4ac62fe49abc12ff85c1
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="Football",2026-10-17 18:00 | Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14360786_bfd42e12e297d813e91b555c3154c4f2_autoChange.m3u8?auth_key=1792250238-0-0-3e4e95e655158d90e81b2d2becba4f9c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="Football",2026-10-17 18:30 | Everton vs Chelsea | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80" group-title="Football",2026-10-17 18:35 | Câu lạc bộ bóng đá Yuxi Yukun vs Câu lạc bộ bóng đá Tongliangloong Trùng Khánh | BLV 
+https://live1.dyrur1.com/live/14040126_2e498c1c891ca300d9fb5a0ef323bc66_autoChange.m3u8?auth_key=1792252257-0-0-712a03958feff83e2bec6a8e8108a9a3
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="Football",2026-10-17 17:00 | Kashiwa Reysol vs Nagoya Grampus | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/14058372_57b7c6298a5c69bc1e1b23e7c5fd1663_autoChange.m3u8?auth_key=1792252264-0-0-4f854e8d5ba8b3743ba9e8a7aff3e11a
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png!w80" group-title="Football",2026-10-17 17:00 | Đông Á Thanh Hóa vs Nam Định | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/ndkz6i3562ptxq3_62b1abc6aec8f0b434014d1e53c1e539_autoChange.m3u8?auth_key=1792252261-0-0-26ece2e4c8bd6247be363be992cfeb0e
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="Football",2026-10-17 18:00 | SHB Đà Nẵng vs CLB XM Hai Phong | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/14360785_9e763a270afdd3d4c09c2824013dd0dc_autoChange.m3u8?auth_key=1792252264-0-0-26e021a06abf8d7517f58f27c2e1fdf1
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" group-title="Football",2026-10-17 18:00 | VfL Wolfsburg vs Heidenheimer | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/14099715_0819f1acc61420694f02cfeff365c8c3_autoChange.m3u8?auth_key=1792252265-0-0-4129a5c510c0a1b608bed9fe66ddd00a
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80" group-title="Football",2026-10-17 18:00 | Dalian Yingbo vs Shenzhen Peng City | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/13599176_e4cdccb1b17ba004b84c7e7fb92d400d_autoChange.m3u8?auth_key=1792252155-0-0-7037cb6d0febf2e76bb06ea1a913e344
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="Football",2026-10-17 18:00 | Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/14360786_bfd42e12e297d813e91b555c3154c4f2_autoChange.m3u8?auth_key=1792252264-0-0-3ee6b9081c32bbc6ae55172ee442aa33
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80" group-title="Football",2026-10-17 18:35 | Yuxi Yukun vs Tongliangloong Trùng Khánh | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/13599178_addf353463e5dfda5496f19454f315b0_autoChange.m3u8?auth_key=1792252264-0-0-426fd42b646d9efd20d72adda09843d7
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80" group-title="Football",2026-10-17 18:35 | Qingdao Hainiu FC vs Shenyang Urban FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live5.dyrur1.com/live/13599177_6f876fa7025d96a8dd6b3d4911cdd6b7_autoChange.m3u8?auth_key=1792252264-0-0-e4aa1af2a11117b170e30429ef04b395
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80" group-title="Football",2026-10-17 19:00 | Shandong Taishan vs Zhejiang Professional | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/13599179_a09e39cb0fdf690635f8f84f576288a1_autoChange.m3u8?auth_key=1792252263-0-0-ee5f9c2196194f4925d0294d94c72b9f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80" group-title="Football",2026-10-17 19:00 | CLB Espanyol vs Atlético Madrid | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
