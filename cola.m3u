@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-17 13:00 | Cerezo Osaka vs Kawasaki Frontale | BLV BLV SAMURAI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-17 13:00 | Cerezo Osaka vs Kawasaki Frontale | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80" group-title="Football",2026-10-17 12:00 | Sanfrecce Hiroshima vs Kyoto Sanga | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14058376_eb1919140c291311c760ee818229f76f_autoChange.m3u8?auth_key=1792232522-0-0-112408dcdcc5a3e51d156d3dcb4aa438
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Football",2026-10-17 12:00 | Wonju Dongbu Promy vs Seoul Samsung Thunders | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14300961_5850646219f6b1348447309a7d84da7d_autoChange.m3u8?auth_key=1792232542-0-0-94d09503ae50a674905c4644f0fecbce
+https://live1.dyrur1.com/live/14058369_f820d423d7ccf9f234ad3bf5238aebf8_autoChange.m3u8?auth_key=1792235196-0-0-0efb53b8b21c60f1199d5fc4b4a9875a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d7c8728e57f2aec43b46422d3d37ab9e.png!w80" group-title="Football",2026-10-17 13:00 | CLB Macarthur vs CLB Perth Glory | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14170330_10c02933ea7aab7111e26d62e2a2780b_autoChange.m3u8?auth_key=1792232524-0-0-afeab9539a098ab248aeed6562da95a8
+https://live.dyrur1.com/live/14170330_10c02933ea7aab7111e26d62e2a2780b_autoChange.m3u8?auth_key=1792235133-0-0-c18b54d3351aff97705f88b26bd8ee52
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ead844240532c4e12d3eb45d2087924.png!w80" group-title="Football",2026-10-17 14:00 | Mito Hollyhock vs Urawa Reds | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14058374_5631f1049abd64a4dc0e35a1f260f89e_autoChange.m3u8?auth_key=1792235189-0-0-10c3de1d93e8c4451780ff16abedf621
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/588b1053c1a8f3c518e8b1f15f30a61a.png!w80" group-title="Football",2026-10-17 14:00 | Diên Biên Hải Lan Giang vs Dongguan Guanlian | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/13658843_e9e9c04230a9e20e9595261ab5b47a26_autoChange.m3u8?auth_key=1792235168-0-0-eb5f77e40dd73a4d8272a06d756863bb
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80" group-title="Football",2026-10-17 14:30 | CLB Ulsan Hyundai vs Bucheon FC 1995 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.zhwpg.app/live/07808742_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d22de494a1ff648e90892c249c5aed12.png!w80" group-title="Football",2026-10-19 01:00 | CLB NEC Nijmegen vs Fortuna Sittard | BLV BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80" group-title="Football",2026-10-19 01:45 | Olympique Lyonnais vs OGC Nice | BLV BLV SPRITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/75748097_tsc.m3u8
