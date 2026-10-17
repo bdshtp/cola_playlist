@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80" group-title="Football",2026-10-17 11:00 | Auckland FC vs Clb Melbourne city | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-17 13:00 | Cerezo Osaka vs Kawasaki Frontale | BLV BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14170329_e3c93bf3f7018cf9189c8dfa33c8ede2_autoChange.m3u8?auth_key=1792230449-0-0-7acf9d0e3dfb8569a4ed2f2134c50876
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80" group-title="Football",2026-10-17 11:00 | Shimizu S-Pulse vs Gamba Osaka | BLV BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Football",2026-10-17 12:00 | Wonju Dongbu Promy vs Seoul Samsung Thunders | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14300961_5850646219f6b1348447309a7d84da7d_autoChange.m3u8?auth_key=1792230450-0-0-84f9afbb553e6ce46d8a8c725dac7700
+https://live05.zhwpg.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80" group-title="Football",2026-10-17 12:00 | Sanfrecce Hiroshima vs Kyoto Sanga | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14058376_eb1919140c291311c760ee818229f76f_autoChange.m3u8?auth_key=1792230450-0-0-8c91bd2fc963b6def42c08c42f132977
+https://live.dyrur1.com/live/14058376_eb1919140c291311c760ee818229f76f_autoChange.m3u8?auth_key=1792232522-0-0-112408dcdcc5a3e51d156d3dcb4aa438
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Football",2026-10-17 12:00 | Wonju Dongbu Promy vs Seoul Samsung Thunders | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14300961_5850646219f6b1348447309a7d84da7d_autoChange.m3u8?auth_key=1792232542-0-0-94d09503ae50a674905c4644f0fecbce
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d7c8728e57f2aec43b46422d3d37ab9e.png!w80" group-title="Football",2026-10-17 13:00 | CLB Macarthur vs CLB Perth Glory | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-17 13:00 | Cerezo Osaka vs Kawasaki Frontale | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14170330_10c02933ea7aab7111e26d62e2a2780b_autoChange.m3u8?auth_key=1792232524-0-0-afeab9539a098ab248aeed6562da95a8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ead844240532c4e12d3eb45d2087924.png!w80" group-title="Football",2026-10-17 14:00 | Mito Hollyhock vs Urawa Reds | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.zhwpg.app/live/33860426_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0bbce158fb187362aefb912cefc731c4.png!w80" group-title="Football",2026-10-19 00:00 | Kifisias vs Aris Thessaloniki | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="Football",2026-10-19 00:45 | Racing Club vs Independiente | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/18812304_tsc.m3u8
