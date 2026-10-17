@@ -2,55 +2,47 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Football",2026-10-17 21:00 | Manchester City vs CLB Ipswich Town | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14040129_f4a16a3c2f38b2a78046cbae524f3634_autoChange.m3u8?auth_key=1792261017-0-0-12222b5669d74feda1a55e0fbe5b9fa9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="Football",2026-10-17 21:00 | Brentford vs Liverpool | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/14040124_39213a25de2e6dde38da15fcfa74ac81_autoChange.m3u8?auth_key=1792261018-0-0-9404212d52af46753a3f6483d94d2a58
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="Football",2026-10-17 21:00 | Fulham vs CLB Hull City | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/54d8cca610fda7b60925116c3b2aacdb.png!w80" group-title="Football",2026-10-17 21:00 | CLB Swansea City vs West Ham United | BLV BLV AQUA
+https://live4.dyrur1.com/live/14040127_3880b1ead216bc1a45403a914768771a_autoChange.m3u8?auth_key=1792261018-0-0-2d1c94fc65c529f4c8ac73c92828f930
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/54d8cca610fda7b60925116c3b2aacdb.png!w80" group-title="Football",2026-10-17 21:00 | CLB Swansea City vs West Ham United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png!w80" group-title="Football",2026-10-17 21:00 | Birmingham City vs Queens Park Rangers | BLV BLV STING
+https://live.dyrur1.com/live/14069056_f22ce0bfdc75ffdeee630753665e31da_autoChange.m3u8?auth_key=1792261032-0-0-44592cc2ad0ba1d4c688412d3190b459
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2acb7fc9250a5b52c5e6248039d25d2e.png!w80" group-title="Football",2026-10-17 21:00 | Birmingham City vs Queens Park Rangers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/14707124_tsc.m3u8
+https://live.dyrur1.com/live/14069064_a02b138fcc300cc4506e58f325f419ea_autoChange.m3u8?auth_key=1792261031-0-0-b4daa089065eeb654e65cc57ff20b8e7
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="Football",2026-10-17 20:30 | 1. FC Union Berlin vs Borussia Dortmund | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14099021_ccbf65b19f13f8458e3a52e711bbdff7_autoChange.m3u8?auth_key=1792259584-0-0-27ee4ccfb01ae3baab4ef7ddc4825c9e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80" group-title="Football",2026-10-17 19:00 | CLB Espanyol vs Atlético Madrid | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14090740_9665d33034ce8d54d881eb37171732c9_autoChange.m3u8?auth_key=1792259574-0-0-f64136fdd81c81976b61a045236788ae
+https://live.dyrur1.com/live/14099021_ccbf65b19f13f8458e3a52e711bbdff7_autoChange.m3u8?auth_key=1792261030-0-0-490ab51259e903d3dea2a2cc00b62873
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80" group-title="Football",2026-10-17 20:00 | CLB Venezia vs S.S.C. Napoli | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13978104_29702c94f05a4f7bf90ef730ecd03776_autoChange.m3u8?auth_key=1792259583-0-0-9fbeae0ca334e6ac5ccac88aa5b0c236
+https://live.dyrur1.com/live/13978104_29702c94f05a4f7bf90ef730ecd03776_autoChange.m3u8?auth_key=1792261028-0-0-e75c832784d1b638546bd4738a1e8c4c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80" group-title="Football",2026-10-17 20:30 | FC Schalke 04 vs 1. FSV Mainz 05 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14099020_dae742ea90e525051918a8eb52638326_autoChange.m3u8?auth_key=1792259584-0-0-45837e0a3d27ae6af606d022a8894e0e
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80" group-title="Football",2026-10-17 19:00 | Shandong Taishan vs Zhejiang Professional | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13599179_a09e39cb0fdf690635f8f84f576288a1_autoChange.m3u8?auth_key=1792259564-0-0-92cfd7e9135e8ad55080eb1054d0b90a
+https://live1.dyrur1.com/live/14099020_dae742ea90e525051918a8eb52638326_autoChange.m3u8?auth_key=1792261030-0-0-f13beeaf21e0ff958baf65a081f17ec6
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80" group-title="Football",2026-10-17 20:30 | CLB Elversberg vs FC Augsburg | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14099017_5db431c3f1d9749a87f92a7833893800_autoChange.m3u8?auth_key=1792259572-0-0-74153406887a5b5ad4a54d3bd205ce61
+https://live4.dyrur1.com/live/14099017_5db431c3f1d9749a87f92a7833893800_autoChange.m3u8?auth_key=1792261014-0-0-e9a66021d89fa1d8457485a13faa00f2
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80" group-title="Football",2026-10-17 20:30 | Hamburger SV vs VfB Stuttgart | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14099019_77505f088c9c4414376e40b0a63c2f5a_autoChange.m3u8?auth_key=1792259584-0-0-c6b89531723cd236a9550ad86aedd695
+https://live2.dyrur1.com/live/14099019_77505f088c9c4414376e40b0a63c2f5a_autoChange.m3u8?auth_key=1792261030-0-0-659e910ce7416166c437378ebc51a2d6
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80" group-title="Football",2026-10-17 21:15 | Câu lạc bộ bóng đá Villarreal vs Elche | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14090746_543511dada1810f62cef7c9b88301952_autoChange.m3u8?auth_key=1792261022-0-0-d590d292ed499b202531dcf2b3a57a3f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/998db478bf7c06d5817bf846987a0d0a.png!w80" group-title="Football",2026-10-17 22:15 | RC Strasbourg vs Paris Saint-Germain | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.zhwpg.app/live/59444581_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/33860426_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/74c37787bcf9656e1372913981f69859.png!w80" group-title="Football",2026-10-19 22:00 | Universitaea Cluj vs SCM Pitesti | BLV BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2b0b85fcec97994a4758002512957d7a.png!w80" group-title="Football",2026-10-19 22:05 | CLB Al Fayha vs Al Ahli SC | BLV BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/82054853_tsc.m3u8
