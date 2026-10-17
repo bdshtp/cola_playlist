@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80" group-title="Football",2026-10-18 03:40 | Minnesota United vs Thành phố St. Louis SC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13375482_b36b70045f6d514d3a471516b5f76f89_autoChange.m3u8?auth_key=1792290729-0-0-419105818165f5dccd7eb2cb0cce4625
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80" group-title="Football",2026-10-18 04:00 | Botafogo RJ vs CLB Chapecoense SC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/13391493_598b03a8e9ea51b5b54de0818a4c6eea_autoChange.m3u8?auth_key=1792291768-0-0-aec768df397d437aae549f620d6401a1
+https://live4.dyrur1.com/live/13391493_598b03a8e9ea51b5b54de0818a4c6eea_autoChange.m3u8?auth_key=1792292208-0-0-fcf7105075f7c1055944221719e87fd1
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d87cf3b426597f02435e2c72e8def93.png!w80" group-title="Football",2026-10-18 06:00 | Atl. Tucuman vs CLB Rosario Central | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/13397555_3ba5c9efaee70ce46b2ddd5703522da5_autoChange.m3u8?auth_key=1792293177-0-0-c82a5d23e85b27b014410b3e909eb32c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80" group-title="Football",2026-10-18 06:30 | Atlanta Utd vs Inter Miami | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -127,30 +123,30 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="Football",2026-10-18 20:00 | CLB Leeds United vs Manchester United | BLV BLV C2
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="Football",2026-10-18 20:00 | CLB Leeds United vs Manchester United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/526150064f4f983d670deb33fa6385b6.png!w80" group-title="Football",2026-10-18 20:00 | Angers SCO vs Olympique de Marseille | BLV BLV TEPPY
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/526150064f4f983d670deb33fa6385b6.png!w80" group-title="Football",2026-10-18 20:00 | Angers SCO vs Olympique de Marseille | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/33860426_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" group-title="Football",2026-10-18 20:00 | Brighton & Hove Albion FC vs Crystal Palace | BLV BLV HỔ VẰN
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" group-title="Football",2026-10-18 20:00 | Brighton & Hove Albion FC vs Crystal Palace | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="Football",2026-10-18 20:00 | ACF Fiorentina vs Calcio Como | BLV BLV STING
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="Football",2026-10-18 20:00 | ACF Fiorentina vs Calcio Como | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="Football",2026-10-18 20:00 | Câu lạc bộ bóng đá Bournemouth vs Sunderland | BLV BLV 7UP
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="Football",2026-10-18 20:00 | Câu lạc bộ bóng đá Bournemouth vs Sunderland | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="Football",2026-10-18 20:30 | Bayer 04 Leverkusen vs SC Freiburg | BLV BLV SODA
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="Football",2026-10-18 20:30 | Bayer 04 Leverkusen vs SC Freiburg | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/02456966_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80" group-title="Football",2026-10-18 21:15 | Celta Vigo vs Alaves | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
