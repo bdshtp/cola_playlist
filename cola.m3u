@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="Football",2026-10-17 23:30 | Câu lạc bộ bóng đá Newcastle United vs Aston Villa | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="Football",2026-10-17 23:30 | Câu lạc bộ bóng đá Newcastle United vs Aston Villa | BLV BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14040130_3debc9db99ffb74d24714d9ff44e47e4_autoChange.m3u8?auth_key=1792273648-0-0-801b875f168f0693527b55fefc4bdfcd
+https://live05.zhwpg.app/live/08552895_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80" group-title="Football",2026-10-17 23:30 | Real Betis Balompié vs FC Barcelona | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14090737_c049888da0896d5e540aa904c9fb9f54_autoChange.m3u8?auth_key=1792273624-0-0-0135c4cc129b4fe2c7354f9163d203f0
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="Football",2026-10-17 23:30 | FC Bayern München vs RB Leipzig | BLV 
+https://live3.dyrur1.com/live/14090737_c049888da0896d5e540aa904c9fb9f54_autoChange.m3u8?auth_key=1792275269-0-0-c992f6e1f55e5735236adee5460e8a14
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="Football",2026-10-17 23:30 | FC Bayern München vs RB Leipzig | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14099012_afbbd392ef8f2c4129c9b43e6fe0b1b7_autoChange.m3u8?auth_key=1792273648-0-0-7090dbe985b9fd69918f3b529bc810b6
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c31f023a2cc8adbcc3e24344d81b9609.png!w80" group-title="Football",2026-10-17 23:00 | Bologna F.C. 1909 vs Inter Milan | BLV 
+https://live05.zhwpg.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ddb080ae05cb88519794aff16a819ff1.png!w80" group-title="Football",2026-10-17 23:45 | Lusail city fc vs Al Shamal | BLV BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/oj7x9ixjrl9c47g_be1fce86701f314a0f3167362165dd1b_autoChange.m3u8?auth_key=1792273649-0-0-f45763549947a5511589c3015c311b69
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="Football",2026-10-17 23:00 | Fenerbahce vs Alanyaspor | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/edq09iljn1xueqx_2b7787aae3ed9eaa75c3b90d5d6af111_autoChange.m3u8?auth_key=1792273649-0-0-ec4654de19a07cbbb6648c5bb91a1517
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ddb080ae05cb88519794aff16a819ff1.png!w80" group-title="Football",2026-10-17 23:45 | Lusail city fc vs Al Shamal | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14192217_11362092828fa00b017e704820810137_autoChange.m3u8?auth_key=1792273648-0-0-6e7016567e8474cae689b1288f6b5521
+https://live05.zhwpg.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/574f1ee560e8835e605176cac36a87db.png!w80" group-title="Football",2026-10-18 01:30 | CLB Philadelphia Union vs Charlotte FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
