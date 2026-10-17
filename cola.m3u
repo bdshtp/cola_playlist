@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80" group-title="Football",2026-10-18 04:00 | Botafogo RJ vs CLB Chapecoense SC | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80" group-title="Football",2026-10-18 06:40 | Atlanta Utd vs Inter Miami | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/13391493_598b03a8e9ea51b5b54de0818a4c6eea_autoChange.m3u8?auth_key=1792292208-0-0-fcf7105075f7c1055944221719e87fd1
+https://live5.dyrur1.com/live/13375483_10015e0bf6d9431daad4cc7d16529964_autoChange.m3u8?auth_key=1792295170-0-0-593295605d7f5d0d586f3d8b0a7950d6
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2d87cf3b426597f02435e2c72e8def93.png!w80" group-title="Football",2026-10-18 06:00 | Atl. Tucuman vs CLB Rosario Central | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13397555_3ba5c9efaee70ce46b2ddd5703522da5_autoChange.m3u8?auth_key=1792293177-0-0-c82a5d23e85b27b014410b3e909eb32c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80" group-title="Football",2026-10-18 06:30 | Atlanta Utd vs Inter Miami | BLV 
+https://live1.dyrur1.com/live/13397555_3ba5c9efaee70ce46b2ddd5703522da5_autoChange.m3u8?auth_key=1792295168-0-0-e70f744ca215f2d6c3deb86438f90a71
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80" group-title="Football",2026-10-18 06:40 | New York City vs Los Angeles FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80" group-title="Football",2026-10-18 06:30 | New York City vs Los Angeles FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/g6763i5r98vio7r_0f02e4c6e7d8a04d73c59d2206f40c3d_autoChange.m3u8?auth_key=1792295168-0-0-660f345b3cbdfb9c8c433044bd399692
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/90c95cd154f9b016cbf26854770b8401.png!w80" group-title="Football",2026-10-18 07:30 | Austin FC vs Vancouver Whitecaps | BLV BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
