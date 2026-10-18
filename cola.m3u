@@ -1,44 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="Football",2026-10-18 22:30 | Câu lạc bộ Bóng đá Nottingham Forest vs Arsenal | BLV 
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="Football",2026-10-18 22:30 | Nottingham Forest vs Arsenal | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/8lk2dirpl99hz73_69dfb15c8e00a1f8f91566904ee9f9b5_autoChange.m3u8?auth_key=1792356863-0-0-285232d53d3e982887ed88611275a54e
+https://live5.dyrur1.com/live/8lk2dirpl99hz73_69dfb15c8e00a1f8f91566904ee9f9b5_autoChange.m3u8?auth_key=1792358298-0-0-6f0a3bf7d1af6dbe43ddfd5c7660023f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" group-title="Football",2026-10-18 23:00 | AC Milan vs Atalanta B.C. | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13978095_7b5630af7af91a97552996fb3afdb402_autoChange.m3u8?auth_key=1792356863-0-0-bedeeb0e66796a39d5b94bb3439e5d28
+https://live1.dyrur1.com/live/13978095_7b5630af7af91a97552996fb3afdb402_autoChange.m3u8?auth_key=1792358297-0-0-559325d345af51ea8fb0da978ddfbba8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9c7c68ee0cad47be69a9d57e43261484.png!w80" group-title="Football",2026-10-18 23:30 | Malaga vs Real Sociedad | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14090742_a150cdb26bce0015c8cc1a6338e33a4c_autoChange.m3u8?auth_key=1792356829-0-0-36e74caeff654cb54c3232cd10222b56
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b593727321793084b1f7804aebedc31a.png!w80" group-title="Football",2026-10-18 22:15 | FC Lorient vs AS Monaco | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/xvkjoi8yxwws879_e924ab28d3fcbe384fff1ddbc570b379_autoChange.m3u8?auth_key=1792356863-0-0-8fd62c432c2c49406b45acb12eb7a73a
+https://live.dyrur1.com/live/14090742_a150cdb26bce0015c8cc1a6338e33a4c_autoChange.m3u8?auth_key=1792358297-0-0-d3a799a53942c74e8b0c105c262aa7bb
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80" group-title="Football",2026-10-18 22:15 | Paris FC vs Stade Rennais | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/zrkn6i4gnyzfwql_8244ecd675a520e2dc2a6bc4d58e9e25_autoChange.m3u8?auth_key=1792356863-0-0-0f62b2e435bc67e942b70ff586f7da40
+https://live5.dyrur1.com/live/zrkn6i4gnyzfwql_8244ecd675a520e2dc2a6bc4d58e9e25_autoChange.m3u8?auth_key=1792358299-0-0-d85483fb4870405e52ec514a1ff3bb43
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png!w80" group-title="Football",2026-10-18 22:15 | Le Havre vs AJ Auxerre | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/g6763i5o2zoso7r_3b9881f2f9383ef2b16d61ebb6c2b895_autoChange.m3u8?auth_key=1792356863-0-0-72aca0bf082acaee9f8ea661edca4e62
+https://live3.dyrur1.com/live/g6763i5o2zoso7r_3b9881f2f9383ef2b16d61ebb6c2b895_autoChange.m3u8?auth_key=1792357632-0-0-e1b839501a2d15659acc86d197c3cbc2
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80" group-title="Football",2026-10-18 22:30 | Borussia Mönchengladbach vs TSG 1899 Hoffenheim | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/527r3i4zm3gh47e_7c94c979b61c1823af62dc2d72b98d0a_autoChange.m3u8?auth_key=1792356863-0-0-540dcbd0dd6f59c0855699ee037dfb8c
+https://live.dyrur1.com/live/527r3i4zm3gh47e_7c94c979b61c1823af62dc2d72b98d0a_autoChange.m3u8?auth_key=1792358298-0-0-1a6e7a86f8f079268d25207bc8cd554b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f0d939fe86baa9686d9f9f1aa34bc191.png!w80" group-title="Football",2026-10-18 23:00 | Basaksehir vs Gaziantep Buyuksehir Belediyesi | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14139720_3605920fe3fda03bae0dc79a2af07116_autoChange.m3u8?auth_key=1792356863-0-0-5707d9728bbd2d5ad81998f72eaef6b8
+https://live3.dyrur1.com/live/14139720_3605920fe3fda03bae0dc79a2af07116_autoChange.m3u8?auth_key=1792358297-0-0-b5d87ec515ace60d696b13fc6f5cccdf
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/629b6f983d0ca3c33f2c4b50b3449314.png!w80" group-title="Football",2026-10-18 23:00 | FC Copenhagen vs Câu lạc bộ AGF Aarhus | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13972134_884de3ea2b8d0060aa76af6f6a149c15_autoChange.m3u8?auth_key=1792356863-0-0-c32399bfe341347c9d60be7b05d19a66
+https://live2.dyrur1.com/live/13972134_884de3ea2b8d0060aa76af6f6a149c15_autoChange.m3u8?auth_key=1792358297-0-0-07c07ddb141d46685744a8e3f3eb2868
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80" group-title="Football",2026-10-18 23:45 | CLB Al Gharafa vs Al Rayyan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14585784_ed0881256f26303b3e4ab975dd6a8459_autoChange.m3u8?auth_key=1792356829-0-0-cea25b5ead528ba0220793b60c1d4707
+https://live.dyrur1.com/live/14585784_ed0881256f26303b3e4ab975dd6a8459_autoChange.m3u8?auth_key=1792358297-0-0-fa2d4ea510e1aa7075a4633bf7609736
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="Football",2026-10-19 00:45 | Racing Club vs Independiente | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
