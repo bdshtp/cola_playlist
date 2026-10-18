@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80" group-title="Football",2026-10-18 08:00 | Toluca vs Atletico San Luis | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13994982_9dfd32162e25af43235570990c657891_autoChange.m3u8?auth_key=1792304712-0-0-7692fbde2eeb61f32a44dff6434c684c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="Football",2026-10-18 09:00 | Wellington Phoenix vs Melbourne Victory | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14170332_bf8727506387f82170860813d8f2135e_autoChange.m3u8?auth_key=1792304710-0-0-ce037fb80ba7918158c33010d4f28385
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Football",2026-10-18 09:30 | CLB LA Galaxy vs San Diego FC | BLV 
+https://live2.dyrur1.com/live/14170332_bf8727506387f82170860813d8f2135e_autoChange.m3u8?auth_key=1792306611-0-0-9350b939800f3f3101f1ecf98cdd2e11
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="Football",2026-10-18 09:40 | San Jose Earthquakes vs CLB Nashville | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13375491_eed5f9e3914878c71b96c9db155664ec_autoChange.m3u8?auth_key=1792304711-0-0-34de34ab91c54cba9c6139d2a232d3b4
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="Football",2026-10-18 09:30 | San Jose Earthquakes vs CLB Nashville | BLV 
+https://live.dyrur1.com/live/13375493_7038ee7dd002322329332400af5d6045_autoChange.m3u8?auth_key=1792306612-0-0-b1a1b63ff442864a97639d48ad6f3f6b
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80" group-title="Football",2026-10-18 08:00 | Toluca vs Atletico San Luis | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13375493_7038ee7dd002322329332400af5d6045_autoChange.m3u8?auth_key=1792304711-0-0-94dc71be7360227f7684c86c9b35ebd9
+https://live1.dyrur1.com/live/13994982_9dfd32162e25af43235570990c657891_autoChange.m3u8?auth_key=1792306532-0-0-9d81beb8f05f76a4f9a365c97d1b21e8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Football",2026-10-18 09:40 | CLB LA Galaxy vs San Diego FC | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/13375491_eed5f9e3914878c71b96c9db155664ec_autoChange.m3u8?auth_key=1792306612-0-0-d0fe38761aadcf8b417bade06bc372b2
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="Football",2026-10-18 10:10 | Cruz Azul vs Juarez | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
