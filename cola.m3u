@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80" group-title="Football",2026-10-18 15:30 | Đồng Tâm Long An vs Khánh Hòa | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14360406_4c0ead53daf025f90b9e9521df80f6f2_autoChange.m3u8?auth_key=1792332937-0-0-c98773ddd8fe8282b83d548b9c78dbd2
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80" group-title="Football",2026-10-18 17:00 | Wuhan Three Towns vs Shanghai Shenhua | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/13599180_b704f1eebe48719aa7136b6905ed1230_autoChange.m3u8?auth_key=1792332933-0-0-49e761018ffd8c762a300d580cf038a2
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80" group-title="Football",2026-10-18 17:30 | Udinese Calcio vs U.S. Lecce | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80" group-title="Football",2026-10-18 18:00 | Beijing Guoan vs Qingdao West Coast | BLV 
+https://live2.dyrur1.com/live/13978103_7074425e64b088ae81f6c5cafc3b05a8_autoChange.m3u8?auth_key=1792335133-0-0-002d52cd7ab5efa84555dd614d5e3881
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80" group-title="Football",2026-10-18 17:00 | Wuhan Three Towns vs Shanghai Shenhua | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live4.dyrur1.com/live/13599180_b704f1eebe48719aa7136b6905ed1230_autoChange.m3u8?auth_key=1792335131-0-0-b2e3e7a14efaea1bffe74e6efd5a5002
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80" group-title="Football",2026-10-18 18:00 | Phu Dong Ninh Binh vs Hoàng Anh Gia Lai | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -23,6 +15,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80" group-title="Football",2026-10-18 18:00 | Beijing Guoan vs Qingdao West Coast | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/13599181_14bfe4d65f2ed00a277e6aa9bb029f86_autoChange.m3u8?auth_key=1792335128-0-0-ad10a475152d8c14073d4be3027d978e
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" group-title="Football",2026-10-18 18:30 | CLB Bielefeld vs VfL Osnabruck | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
