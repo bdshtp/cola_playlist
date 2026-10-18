@@ -1,28 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png!w80" group-title="Football",2026-10-18 11:55 | Fagiano Okayama vs Vissel Kobe | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14058375_e021a811709ca3693ff3cf3f757b3102_autoChange.m3u8?auth_key=1792319081-0-0-41797456fc2b5a4da9cb38215ea2615c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="Football",2026-10-18 12:00 | CLB Jeonbuk Hyundai Motors vs Jeju Utd | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13461109_73f69e47f3e713673be63b53da8f46eb_autoChange.m3u8?auth_key=1792319081-0-0-0d70260ce10c3caef3f5ef37fa70ab65
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Football",2026-10-18 12:00 | Seoul Knights vs Goyang Carrot Jumpers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14300963_fcf5243f59390beaeaeeb768da01c38a_autoChange.m3u8?auth_key=1792319081-0-0-b6502f704eaf122391161e52894e5c3f
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80" group-title="Football",2026-10-18 12:00 | Daejeon vs Gwangju FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/13461110_196bafa54067eadb9d08c071b253e9ad_autoChange.m3u8?auth_key=1792318686-0-0-0ebdd15afaf4e857cd9679d0ddcb676c
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Football",2026-10-18 13:00 | Melbourne Tigers vs Illawarra Hawks | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13988163_0a637eb8a189f49c16742f87b5f7b804_autoChange.m3u8?auth_key=1792319080-0-0-b2399b100f5d04a9d87b3c94253c4425
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="Football",2026-10-18 14:00 | Machida vs Avispa Fukuoka | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14058373_356635c914dade3bb76b6c6402aa06e8_autoChange.m3u8?auth_key=1792321628-0-0-1fce47d51433e4d7024898f6f62fd211
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Football",2026-10-18 12:00 | Seoul Knights vs Goyang Carrot Jumpers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/14300963_fcf5243f59390beaeaeeb768da01c38a_autoChange.m3u8?auth_key=1792321629-0-0-b39676ddfd4fcca92da70f372056a1ff
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80" group-title="Football",2026-10-18 12:00 | Daejeon vs Gwangju FC | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/13461110_196bafa54067eadb9d08c071b253e9ad_autoChange.m3u8?auth_key=1792321629-0-0-5970765b2826bc487a895b026124f498
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="Football",2026-10-18 12:00 | CLB Jeonbuk Hyundai Motors vs Jeju Utd | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/13461109_73f69e47f3e713673be63b53da8f46eb_autoChange.m3u8?auth_key=1792321629-0-0-62baf54fd3b0e8795838fad2dd98bb70
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Football",2026-10-18 13:00 | Melbourne Tigers vs Illawarra Hawks | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/13988163_0a637eb8a189f49c16742f87b5f7b804_autoChange.m3u8?auth_key=1792321631-0-0-8da155d95fae53db979cb98a901e6df8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80" group-title="Football",2026-10-18 14:30 | CLB Seoul vs Gimcheon Sangmu FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.zhwpg.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/440da1fad5d16ada9a9742bf5d14c98e.png!w80" group-title="Football",2026-10-20 22:10 | Al-Taawoun vs Al Qadisiya | BLV BLV TEPPY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/33860426_tsc.m3u8
