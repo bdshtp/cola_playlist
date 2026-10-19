@@ -1,36 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80" group-title="Football",2026-10-19 23:30 | A.C. Monza vs CLB Cagliari | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13978101_a6484f804e3add2907c6edc4624c0a73_autoChange.m3u8?auth_key=1792446866-0-0-eb1970b1681938ec13af8ce362887b9f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/07a555616afab7be32e00150eacf4197.png!w80" group-title="Football",2026-10-20 01:00 | Al Hilal vs CLB Al Hazm | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14426913_88e036c22a089bce50730159a12d71bf_autoChange.m3u8?auth_key=1792446865-0-0-8e26fa4ac565b04c977d8b712daaef45
+https://live2.dyrur1.com/live/14426913_88e036c22a089bce50730159a12d71bf_autoChange.m3u8?auth_key=1792448854-0-0-43d22a717714f39c249bd6c302873b07
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png!w80" group-title="Football",2026-10-20 01:00 | Al-Shabab vs Al Faisaly Harmah | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14426912_0852288fb418d82fb7221de502ef4007_autoChange.m3u8?auth_key=1792446865-0-0-fabcd12a31792184a84d8f05ba5aeda8
+https://live1.dyrur1.com/live/14426912_0852288fb418d82fb7221de502ef4007_autoChange.m3u8?auth_key=1792448854-0-0-129531c431503a3a08496092d3a6748c
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9dc9c8f928d5cafdc90a747fe0439c2d.png!w80" group-title="Football",2026-10-20 00:00 | CLB Trabzonspor vs Besiktas JK | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14139724_3ba19eb179a1a5ee67181528b3101eaf_autoChange.m3u8?auth_key=1792446865-0-0-8523482de06d00f6400cb0b451aae7bc
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f5ff010dcc2e753de549a98ba989e356.png!w80" group-title="Football",2026-10-19 23:30 | CLB Rodina Moskva vs Gazovik Orenburg | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72334374_34c58fff5e9490197aa8849c903d2d4c_autoChange.m3u8?auth_key=1792446866-0-0-40161c189f3db5f0ba6920241a4a1080
+https://live3.dyrur1.com/live/14139724_3ba19eb179a1a5ee67181528b3101eaf_autoChange.m3u8?auth_key=1792448855-0-0-db3923f050504e6fd083515e0d1af1d4
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/93cb3602a997b8de2f0a671f32ff5c6f.png!w80" group-title="Football",2026-10-19 23:50 | Al-Raed vs Al-Saqer | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14228422_09748669d8da0faa0bf3b36ba5631066_autoChange.m3u8?auth_key=1792446866-0-0-ff082180eab136360a0c685d42624f25
+https://live.dyrur1.com/live/14228422_09748669d8da0faa0bf3b36ba5631066_autoChange.m3u8?auth_key=1792448856-0-0-1567bbe405c1fd433122dcc8a34d4585
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f896ac253c19008aeabfb49c3ef044db.png!w80" group-title="Football",2026-10-20 00:00 | Bursaspor vs CLB Pendikspor | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14143535_6086d6d7c2ac31e1afff89cade63a980_autoChange.m3u8?auth_key=1792446866-0-0-55a3687f407b0be26f1e07eca892ea07
+https://live2.dyrur1.com/live/14143535_6086d6d7c2ac31e1afff89cade63a980_autoChange.m3u8?auth_key=1792448856-0-0-b0ff1a292dd0d860b951a8eba93efeb9
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c5beffcdc88a77f8494e85108b306062.png!w80" group-title="Football",2026-10-20 00:00 | Viborg vs Midtjylland | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13972139_072d9d1d32946ccae7ab98ce4e54b8ca_autoChange.m3u8?auth_key=1792446865-0-0-26cee87286bb9f760dace37c137ca2a4
+https://live2.dyrur1.com/live/13972139_072d9d1d32946ccae7ab98ce4e54b8ca_autoChange.m3u8?auth_key=1792448855-0-0-c5e4190fc57ed42637a05cf5d486a82b
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/996f2181c782adc5cbf1e0a98c0fe9b6.png!w80" group-title="Football",2026-10-20 01:45 | Rodez AF Nữ vs Montpellier HSC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -63,10 +55,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png!w80" group-title="Football",2026-10-20 07:15 | Dep. Riestra vs Union de Santa Fe | BLV BLV MONSTER
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png!w80" group-title="Football",2026-10-20 07:15 | Dep. Riestra vs Union de Santa Fe | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/75915087_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9fbd48de1577477753873c539c3ab106.png!w80" group-title="Football",2026-10-20 08:05 | Dep. Pasto vs CLB Alianza Petrolera | BLV BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
