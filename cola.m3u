@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80" group-title="Football",2026-10-19 06:15 | Belgrano vs River Plate | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13397559_273d62a5502675e3bd64ab8430de7b2c_autoChange.m3u8?auth_key=1792386629-0-0-f94a0475d0b0ca934962c1e821977d8a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80" group-title="Football",2026-10-19 08:00 | Monterrey vs Pachuca | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13999822_d9e734e879094fc95992bb3460f0178d_autoChange.m3u8?auth_key=1792386629-0-0-35ebb518429fb6b978c95ae662033add
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b997a2811a0caed43ff38b631a708420.png!w80" group-title="Football",2026-10-19 08:10 | CLB Deportivo Cali vs Junior | BLV 
+https://live1.dyrur1.com/live/13999822_d9e734e879094fc95992bb3460f0178d_autoChange.m3u8?auth_key=1792389676-0-0-2e23dab31ef71683d9dc64f92eeeb8b7
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b997a2811a0caed43ff38b631a708420.png!w80" group-title="Football",2026-10-19 08:20 | CLB Deportivo Cali vs Junior | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/13975499_9255d221ecb10ddc1f0643d4c9ecc728_autoChange.m3u8?auth_key=1792389676-0-0-4314736075c13a8e189b7e35dc5705f8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a812559c6be7a54bd172038ff1ccebec.png!w80" group-title="Football",2026-10-19 12:00 | Amtat FC vs Khovd Western | BLV BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
