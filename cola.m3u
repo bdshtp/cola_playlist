@@ -1,36 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80" group-title="Football",2026-10-21 17:00 | CLB Tokyo vs Kashiwa Reysol | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14058380_42d39662194bc748af2240bc1f066247_autoChange.m3u8?auth_key=1792594868-0-0-7602d815ab7b9b911ff2cec6588f1a03
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80" group-title="Football",2026-10-21 17:00 | Kawasaki Frontale vs Vissel Kobe | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14058381_4c66a6076df26b0e0a78cf0fee4af15d_autoChange.m3u8?auth_key=1792594867-0-0-c0341a673a80d2fc0e784a20484c2815
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80" group-title="Football",2026-10-21 17:00 | Shimizu S-Pulse vs Machida | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14058385_661deca2473039a71ff7ddc72fda82a4_autoChange.m3u8?auth_key=1792594867-0-0-9cbff6b295bbffd94775d6ac92d2fae3
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" group-title="Football",2026-10-21 17:00 | Seoul Samsung Thunders vs KCC Egis | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14300971_042bf057a334b5b7c854635050f7a818_autoChange.m3u8?auth_key=1792594867-0-0-cb5f025e5925bfd43414730fc5e2381f
+https://live3.dyrur1.com/live/14058381_4c66a6076df26b0e0a78cf0fee4af15d_autoChange.m3u8?auth_key=1792598338-0-0-1165f17103e6415bf07a1a263d9fc0d5
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80" group-title="Football",2026-10-21 17:30 | Urawa Reds vs Chiba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14058386_2b0317d36d745e23e9144f80ff64dc4e_autoChange.m3u8?auth_key=1792594870-0-0-d67233334ac389fc9151bcfb1430cc22
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ac1c5afe89adf0b9c98c2d09e66ad24f.png!w80" group-title="Football",2026-10-21 18:00 | Como U19 vs Manchester United U19 | BLV BLV REDBULL
+https://live.dyrur1.com/live/14058386_2b0317d36d745e23e9144f80ff64dc4e_autoChange.m3u8?auth_key=1792598371-0-0-6a776b312b49a4ed06db6187c55fa13b
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ac1c5afe89adf0b9c98c2d09e66ad24f.png!w80" group-title="Football",2026-10-21 18:00 | Como U19 vs Manchester United U19 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/49572724_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/d1d77f07287fe840a7e77459e5bd1bfc.png!w80" group-title="Football",2026-10-21 18:35 | Zhejiang Chouzhou vs Shandong Hi-Speed | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14397010_8488cb4b78e6b0bdc55c58e98ee523f8_autoChange.m3u8?auth_key=1792598351-0-0-73cd5abb65ed0ea940d91036313aaccf
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/8265cde14b18d7e3716bb1e0b0aed623.png!w80" group-title="Football",2026-10-21 18:35 | Qingdao Guoxin Aquatic Products vs Liaoning Bengang | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14472788_98af62d159d95aa201a12670b9ea0243_autoChange.m3u8?auth_key=1792598352-0-0-6967bd20384af0ae9ebba28e20eb3d39
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80" group-title="Football",2026-10-21 19:00 | Persija Jakarta vs Arema Malang | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -38,7 +22,7 @@ https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ada208e7101560665bdcb350110f7fe3.png!w80" group-title="Football",2026-10-21 19:00 | Lille U19 vs Galatasaray U19 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14397012_1c3507d3540d8792039ce9c7818b7c1e_autoChange.m3u8?auth_key=1792598352-0-0-42e8a212a04ba4ff24c1bf8bd16ca917
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/91e49a523ef52f9b264ce8c5a56d432b.png!w80" group-title="Football",2026-10-21 19:30 | Hang Yuen vs Manila Digger FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
