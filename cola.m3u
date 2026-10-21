@@ -1,32 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80" group-title="Football",2026-10-22 02:00 | FC Bayern München vs Arsenal | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/14387898_a793c496d86b72b3d937cd4a54f970f5_autoChange.m3u8?auth_key=1792627173-0-0-181d807f70b1470ad9dcb7a29d9432ae
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80" group-title="Football",2026-10-22 02:00 | Real Madrid CF vs RB Leipzig | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14387900_78d7b4ed6543267b86d3afcc7d30ac29_autoChange.m3u8?auth_key=1792627173-0-0-8bf2a522d837a4535b1304019c5571d6
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="Football",2026-10-22 02:00 | Inter Milan vs Câu lạc bộ bóng đá Shakhtar Donetsk | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14387899_f3729aab55f77dc03153d369e0c128e0_autoChange.m3u8?auth_key=1792627173-0-0-742827f6b7ebcf9c80a8c51c9e32ac56
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="Football",2026-10-22 02:00 | Aston Villa vs Viking FK | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14387896_1c169e3d205285df326c5e6779e21da8_autoChange.m3u8?auth_key=1792627173-0-0-c85f591ffd051d1326d16d706397927d
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80" group-title="Football",2026-10-22 02:00 | Real Betis Balompié vs Feyenoord | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14387901_f85e23ea1a6e159fb9114cf5f64807da_autoChange.m3u8?auth_key=1792627173-0-0-d985ed5e8f589f10a4f91ea5edccc8a8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png!w80" group-title="Football",2026-10-22 02:00 | Club Brugge vs RC Lens | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14387897_d892789d8116c250a369da8b9ab5df2d_autoChange.m3u8?auth_key=1792627173-0-0-767794b7baaef6fcf51d3688db3c8f8a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="Football",2026-10-22 02:00 | Sporting vs LASK Linz | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14387902_94c6fdd4fe78168a79bc35c13a633495_autoChange.m3u8?auth_key=1792627173-0-0-94e0544a2563cdeafe4f5561be15407a
+https://live.dyrur1.com/live/14387902_94c6fdd4fe78168a79bc35c13a633495_autoChange.m3u8?auth_key=1792630633-0-0-7f90935cd8d10d04d6a7aa3f21c9ebc1
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bb5004650a388d73f47cc3ca08623cc8.png!w80" group-title="Football",2026-10-22 05:00 | Montevideo City vs CLB Atletico Mineiro | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -131,10 +107,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80" group-title="Football",2026-10-22 21:45 | Al Fateh vs Al-Shabab | BLV BLV PEPSI
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80" group-title="Football",2026-10-22 21:45 | Al Fateh vs Al-Shabab | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/59444581_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d49ab93fbac0f4602293bac98b94d9c0.png!w80" group-title="Football",2026-10-22 23:45 | Lech Poznan vs Sunderland | BLV BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
