@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png!w80" group-title="Football",2026-10-21 21:00 | Ghazl El Mahallah vs Al Ittihad Alexandria | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14278091_dbfc4e13390ae18133c7294befff8d9c_autoChange.m3u8?auth_key=1792609537-0-0-27b1bc72133673005c6bac83757743f1
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="Football",2026-10-21 21:00 | Real Madrid U19 vs RB Leipzig U19 | BLV BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/76c56d76cefccd88dd35f10b6704da34.png!w80" group-title="Football",2026-10-21 21:00 | Inter Milan Youth vs Shakhtar Donetsk U19 | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14397011_e69149a20140a817cb8f41ad66967f8d_autoChange.m3u8?auth_key=1792609537-0-0-ab0aa7bcf01449290590f5fa03aacb5a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/112d2346959358934a9daf50169ba7b4.png!w80" group-title="Football",2026-10-21 22:00 | Al Anwar SA vs Al Wehda | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14228427_9687f71ab8943e2b58214ddfebb2841c_autoChange.m3u8?auth_key=1792609536-0-0-5580aef72c1ed390ca52db17481368d4
+https://live2.dyrur1.com/live/xvkjoi8w41du879_11de68f0790f32c8e4d661b90ec91483_autoChange.m3u8?auth_key=1792612925-0-0-63ace4a28542761d2a01bae16548970a
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80" group-title="Football",2026-10-21 23:45 | Calcio Como vs Manchester United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -63,14 +51,14 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live.ftlcbx.com/live/ezk96i3gz0ea1kn_0a1d73c76ae88204f4e8d4695bd04905_autoChange.m3u8?auth_key=1788666844-0-0-97786e2d337ba7889835f41ef59618ab
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Football",2026-10-22 06:00 | Washington Wizards vs Milwaukee Bucks | BLV BLV ROCKSTAR
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Football",2026-10-22 06:00 | Washington Wizards vs Milwaukee Bucks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" group-title="Football",2026-10-22 06:30 | Miami Heat vs Minnesota Timberwolves | BLV BLV Cozy
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" group-title="Football",2026-10-22 06:30 | Miami Heat vs Minnesota Timberwolves | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/87379114_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-10-22 07:00 | Atlanta Dream vs Golden State Valkyries | BLV BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
