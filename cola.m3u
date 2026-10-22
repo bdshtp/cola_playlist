@@ -2,19 +2,7 @@
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2552214027525015c3545cff636f5e03.png!w80" group-title="Football",2026-10-22 10:10 | Santos Laguna vs U.N.A.M.- Pumas | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13999813_61b6307af8e6c06191d3f30fdc1817be_autoChange.m3u8?auth_key=1792656161-0-0-14b2d025686adf29ea8d1c5da1bf16b2
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="Football",2026-10-22 09:00 | Portland Trail Blazers vs Phoenix suns | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14315698_ea3a6643025d202cb320d1b3b82f854d_autoChange.m3u8?auth_key=1792656161-0-0-868207a659f35ca7c277896577e37696
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" group-title="Football",2026-10-22 09:00 | Los Angeles Lakers vs Golden State Warriors | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14304083_4db2925463af1c41dcb22da8d2b65f16_autoChange.m3u8?auth_key=1792656161-0-0-3851fe8b6e55808368b7f7d90f4021f8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-22 09:30 | Los Angeles Clippers vs Sacramento Kings | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14315699_165ab82abfa68477da290db9d96a1132_autoChange.m3u8?auth_key=1792656161-0-0-758dfe7ea07217cde3901d4123144879
+https://live.dyrur1.com/live/13999813_61b6307af8e6c06191d3f30fdc1817be_autoChange.m3u8?auth_key=1792659818-0-0-17a1cee7e144ed9ee6b7fbd8634ca216
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="Football",2026-10-22 15:30 | CLB Persik Kediri vs CLB PSS Sleman | BLV BLV REDBULL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -303,7 +291,23 @@ https://live05.qioetj.app/live/18812304_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/33860426_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/983e56ee1d89379148cbb1d28384b6af.png!w80" group-title="Football",2026-10-24 00:00 | Elfsborg vs Malmo FF | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80" group-title="Football",2026-10-24 01:30 | VfB Stuttgart vs Borussia Mönchengladbach | BLV BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/16226575_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" group-title="Football",2026-10-24 09:00 | Los Angeles Lakers vs Los Angeles Clippers | BLV BLV CASTING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/95826384_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="Football",2026-10-24 19:00 | Rayo Vallecano vs Elche | BLV BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80" group-title="Football",2026-10-24 21:30 | Estrela vs Casa Pia AC | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/99121525_tsc.m3u8
