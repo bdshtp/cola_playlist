@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cec3eaaa5271c1f2f036469593ecbcd8.png!w80" group-title="Football",2026-10-24 02:00 | Ipswich Town vs Nottingham Forest | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14040139_568124857e8a04c12f07597b2aee80e9_autoChange.m3u8?auth_key=1792803102-0-0-e638a191f767e9c84c28b5d79eef6d25
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80" group-title="Football",2026-10-24 02:00 | Alaves vs Malaga | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14090749_be628c785acaa1fcda02ffea21070244_autoChange.m3u8?auth_key=1792803102-0-0-723dd59482c25f1bf5f60dc576993a42
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad97b71fe0d8df0e60f7c534fee24132.png!w80" group-title="Football",2026-10-24 02:45 | Vitoria Guimaraes vs Maritimo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14102798_8b114433eb956b3c73b89fe2c98dcad3_autoChange.m3u8?auth_key=1792803102-0-0-3919622571ba1349dd9284deb47e2b1c
+https://live.dyrur1.com/live/14102798_8b114433eb956b3c73b89fe2c98dcad3_autoChange.m3u8?auth_key=1792805039-0-0-1cde44ffa6fd3acba8c823358d5ad15c
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="Football",2026-10-24 04:30 | Gimnasia Mendoza vs Platense | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/13397551_b78c6507db5af2a5617c3e69239449ba_autoChange.m3u8?auth_key=1792805355-0-0-88066953f273fefb274c6dfdeb22ee40
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="Football",2026-10-24 06:00 | Indiana Pacers vs Dallas Mavericks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +391,11 @@ https://live05.qioetj.app/live/78905744_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80" group-title="Football",2026-10-25 22:15 | Celta Vigo vs Real Betis Balompié | BLV BLV TEPPY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/33860426_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png!w80" group-title="Football",2026-10-25 22:30 | CLB Estoril vs Moreirense | BLV BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/59444581_tsc.m3u8
