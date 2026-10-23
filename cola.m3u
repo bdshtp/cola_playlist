@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80" group-title="Football",2026-10-23 14:30 | Shanghai Port B vs Thành phố vinh quang Lang Phường | BLV 
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80" group-title="Football",2026-10-23 14:30 | Shanghai Port B vs Hangzhou Linping Wuyue | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14418869_3dc1382511012be38771e2500fb06a4f_autoChange.m3u8?auth_key=1792755384-0-0-67a135e4db00d400e1325d5809d62260
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80" group-title="Football",2026-10-23 15:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ | BLV BLV REVIVE
+https://live.dyrur1.com/live/14418869_3dc1382511012be38771e2500fb06a4f_autoChange.m3u8?auth_key=1792758473-0-0-139a2b875776bf63505501dc3daf3b03
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80" group-title="Football",2026-10-23 15:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/33982309_tsc.m3u8
+https://live.dyrur1.com/live/75767830_00373777058a17608a567abfccab42ce_autoChange.m3u8?auth_key=1792758473-0-0-094927ba6dd5ccd00b8745be96d064f7
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" group-title="Football",2026-10-23 15:30 | South Melbourne vs Sydney Utd | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14471364_5a4b4691c096240efdfc3f7177992fd4_autoChange.m3u8?auth_key=1792758474-0-0-dcb1ec336bcb36ff185b8abff8ee3033
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80" group-title="Football",2026-10-23 15:30 | Adelaide City FC vs APIA Tigers | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -56,10 +56,6 @@ https://live05.qioetj.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/d1d77f07287fe840a7e77459e5bd1bfc.png!w80" group-title="Football",2026-10-23 18:35 | Zhejiang Chouzhou vs Qingdao Guoxin Aquatic Products | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/ca7a0200923048ff354ddcce89b8f12b.png!w80" group-title="Football",2026-10-23 18:35 | Tianjin Pioneers vs Guangzhou Loong Lions | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
@@ -399,3 +395,7 @@ https://live05.qioetj.app/live/87379114_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Football",2026-10-25 06:30 | Philadelphia 76ers vs Milwaukee Bucks | BLV BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/90865415_tsc.m3u8
