@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80" group-title="Football",2026-10-23 14:30 | Shanghai Port B vs Thành phố vinh quang Lang Phường | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14418869_3dc1382511012be38771e2500fb06a4f_autoChange.m3u8?auth_key=1792755384-0-0-67a135e4db00d400e1325d5809d62260
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80" group-title="Football",2026-10-23 15:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -395,3 +395,7 @@ https://live05.qioetj.app/live/07428422_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80" group-title="Football",2026-10-25 06:30 | Atlanta Utd vs CLB Chicago Fire | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/87547578_tsc.m3u8
