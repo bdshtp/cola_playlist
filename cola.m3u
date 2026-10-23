@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80" group-title="Football",2026-10-23 08:30 | Oklahoma City Thunder vs Denver Nuggets | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14304085_688854036cd836a6ccd9422fdeed916c_autoChange.m3u8?auth_key=1792742577-0-0-4f7bdebe7f456bd8260d6c6a9d097071
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80" group-title="Football",2026-10-23 14:30 | Shanghai Port B vs Thành phố vinh quang Lang Phường | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -395,7 +391,7 @@ https://live05.qioetj.app/live/16226575_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="Football",2026-10-25 09:00 | Phoenix suns vs Golden State Warriors | BLV BLV POCARI
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80" group-title="Football",2026-10-25 05:00 | Charlotte Hornets vs Miami Heat | BLV BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/19919577_tsc.m3u8
+https://live05.qioetj.app/live/87379114_tsc.m3u8
