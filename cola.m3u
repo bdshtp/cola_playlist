@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="Football",2026-10-23 07:30 | CLB Flamengo vs CLB Estudiantes La Plata | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13951988_32f12426b573fae89fd5469381e1534b_autoChange.m3u8?auth_key=1792729372-0-0-237cb9b203626eb597d28daa56ff432e
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Football",2026-10-23 06:00 | Philadelphia 76ers vs Cleveland Cavaliers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14304084_c47f0e2fb2241bee81940af23a34ef86_autoChange.m3u8?auth_key=1792729754-0-0-cdefb67b6fd175ef6e4fcad706f7f3b7
+https://live.dyrur1.com/live/13951988_32f12426b573fae89fd5469381e1534b_autoChange.m3u8?auth_key=1792732646-0-0-b8c96e00dcbd9df5e9d33da567839033
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png!w80" group-title="Football",2026-10-23 08:00 | Motagua vs Alajuelense | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14476579_e56b7c50fdef0078dbb75a975b7eac75_autoChange.m3u8?auth_key=1792732646-0-0-b11724f9186e0f395786d301c006cccd
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Football",2026-10-23 06:00 | Philadelphia 76ers vs Cleveland Cavaliers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14304084_c47f0e2fb2241bee81940af23a34ef86_autoChange.m3u8?auth_key=1792732646-0-0-2a92d0910c6230bf84806d68916d8c54
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/96f56d32d59119eb9bf3cab69e9a19f8.png!w80" group-title="Football",2026-10-23 08:00 | Alebrijes de Oaxaca vs Cruz Azul Hidalgo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/14111710_8262373b31cb846085b4dd9b234bcf49_autoChange.m3u8?auth_key=1792732646-0-0-39ccb12615078e6810cac5bb5a394c74
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80" group-title="Football",2026-10-23 08:30 | Oklahoma City Thunder vs Denver Nuggets | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -43,10 +43,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Football",2026-10-23 17:00 | Busan KTF Sonicboom vs Wonju Dongbu Promy | BLV BLV Cozy
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Football",2026-10-23 17:00 | Busan KTF Sonicboom vs Wonju Dongbu Promy | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/87379114_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80" group-title="Football",2026-10-23 17:00 | Khánh Hòa vs Than Quảng Ninh | BLV BLV REDBULL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
