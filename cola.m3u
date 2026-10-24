@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Football",2026-10-24 16:45 | Akron Togliatti vs Dynamo Moscow | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72334388_a59ac1e8b4730b1e9f49d73e0068b57e_autoChange.m3u8?auth_key=1792853717-0-0-7318c2da5da7472d8e03d4e9699a9a40
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-24 17:30 | CLB Eyupspor vs Kasimpasa | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14139726_c288019edc9f8d2e46100d0b23095dad_autoChange.m3u8?auth_key=1792853716-0-0-015542d350529186d14a49841edf224b
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-24 18:00 | Heidenheimer vs Energie Cottbus | BLV 
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="Football",2026-10-24 18:30 | Aston Villa vs Manchester City | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="Football",2026-10-24 18:00 | Hồng Lĩnh Hà Tĩnh vs CLB XM Hai Phong | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Football",2026-10-24 18:00 | Trường Tươi Đồng Nai vs Thép Xanh Nam Định | BLV BLV MOUNTAIN DEW
+https://live5.dyrur1.com/live/14360794_3dc294dd2767e4ad5edf4c898cf7b2ed_autoChange.m3u8?auth_key=1792855193-0-0-7251e60c5c503c47f73529672bc2d185
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Football",2026-10-24 18:00 | Trường Tươi Đồng Nai vs Thép Xanh Nam Định | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="Football",2026-10-24 18:30 | Aston Villa vs Manchester City | BLV 
+https://live.dyrur1.com/live/14360795_5bf7bdcf7def28addd98c03b22695a5d_autoChange.m3u8?auth_key=1792855193-0-0-f94c56cc3e801a0151296162a8d34650
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Football",2026-10-24 16:45 | Akron Togliatti vs Dynamo Moscow | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72334388_a59ac1e8b4730b1e9f49d73e0068b57e_autoChange.m3u8?auth_key=1792855186-0-0-8ea29008706906570cc19527c8e6cb68
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-24 17:30 | CLB Eyupspor vs Kasimpasa | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/14139726_c288019edc9f8d2e46100d0b23095dad_autoChange.m3u8?auth_key=1792855191-0-0-6de5a915f598563dd7412549200d3026
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-24 18:00 | Heidenheimer vs Energie Cottbus | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live5.dyrur1.com/live/14099718_ff41e028348efd8603219753502091a9_autoChange.m3u8?auth_key=1792855150-0-0-f143df3b39ae8a6aedd50696d6515a0b
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="Football",2026-10-24 19:00 | Rayo Vallecano vs Elche | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
