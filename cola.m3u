@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="Football",2026-10-25 02:00 | Atlético Madrid vs Dep. La Coruna | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14090751_c84601d16d740e44255688eb2f817b76_autoChange.m3u8?auth_key=1792889548-0-0-a675c61f46848b561a1a7540659644f2
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80" group-title="Football",2026-10-25 02:30 | Gil Vicente vs Porto | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14102793_7a53c60850e103b66bb9d93112d763da_autoChange.m3u8?auth_key=1792889548-0-0-9c1c92e68b888d412edb2378a9cd40fb
+https://live.dyrur1.com/live/14102793_7a53c60850e103b66bb9d93112d763da_autoChange.m3u8?auth_key=1792891074-0-0-9eb0cd41b244c51bf29f242737c7d853
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" group-title="Football",2026-10-25 02:40 | CLB Columbus Crew vs CLB Toronto | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/13375496_5f04d4c5f3a9a7a9f7500af1d67671e9_autoChange.m3u8?auth_key=1792889548-0-0-1738920d14d3933390445754260e22c1
+https://live4.dyrur1.com/live/13375496_5f04d4c5f3a9a7a9f7500af1d67671e9_autoChange.m3u8?auth_key=1792891075-0-0-08310cc10ea7ceb18086378eab15a467
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="Football",2026-10-25 04:30 | New York Red Bulls vs Inter Miami | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
