@@ -1,48 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80" group-title="Football",2026-10-24 14:30 | Shenzhen Peng City vs Shanghai Shenhua | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/oj7x9ixx0ezh47g_2c6c386b9d967174a38d94c67aea54b9_autoChange.m3u8?auth_key=1792846671-0-0-cc1184b07aa86404d6460ee640d71243
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80" group-title="Football",2026-10-24 14:30 | Chengdu Rongcheng vs Dalian Yingbo | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13599183_a6791a44a073dc336b87436d0a31b9f1_autoChange.m3u8?auth_key=1792846672-0-0-9b3f6ceeacb99b202a63052e0c41b032
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80" group-title="Football",2026-10-24 14:00 | Gamba Osaka vs Kyoto Sanga | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14058391_e54136664d2019e89613891ba25c4dc4_autoChange.m3u8?auth_key=1792846671-0-0-ec866099225633b24ca837806a0d895e
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-24 13:30 | Illawarra Hawks vs Brisbane Bullets | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13988159_99fc23203d1e43cfefabddac578ef988_autoChange.m3u8?auth_key=1792844906-0-0-d8fedb21dfa6f2a294502d19db3403ab
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80" group-title="Football",2026-10-24 14:30 | Henan Songshan Longmen vs Beijing Guoan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13599185_7846c7ebb11ffd7510ad4303c25ae2b3_autoChange.m3u8?auth_key=1792846672-0-0-8b4526a9530f59eea828c718dd332e6c
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-24 14:30 | Goyang Carrot Jumpers vs KCC Egis | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14300975_8669f93b81951330fee74f7fb03eba9f_autoChange.m3u8?auth_key=1792846672-0-0-1e1d13224b12c1427a73781a1e6c93a5
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80" group-title="Football",2026-10-24 14:30 | Tianjin Jinmen Tiger vs Shanghai Port | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/13599189_3fcfee1b5970953606d647d1bc2460ad_autoChange.m3u8?auth_key=1792846648-0-0-b60f85cf91f47f40e4bbe738a5cb4e18
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80" group-title="Football",2026-10-24 15:30 | South East Melbourne vs Adelaide 36ers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/13988158_aa5bb24dd840b489c61af0edcc376712_autoChange.m3u8?auth_key=1792846668-0-0-607221e0ddd916786ae637fd3d116011
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80" group-title="Football",2026-10-24 15:30 | Adhyaksa FC Banten vs PSIM Yogyakarta | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/14307158_66bd4812e90e45eac86131c4bd313363_autoChange.m3u8?auth_key=1792846668-0-0-007fcfd693d9ee6b0311cb8d359d1363
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="Football",2026-10-24 15:40 | Melbourne Victory vs Clb Melbourne city | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14170337_31e0a8480c3e3d3c0f68ba8bad8eff03_autoChange.m3u8?auth_key=1792846669-0-0-e673bf68140830658160cec1e29262d1
+https://live.dyrur1.com/live/14170337_31e0a8480c3e3d3c0f68ba8bad8eff03_autoChange.m3u8?auth_key=1792850071-0-0-6796bc01c08100abd442db894306570b
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80" group-title="Football",2026-10-24 15:30 | Adhyaksa FC Banten vs PSIM Yogyakarta | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/14307158_66bd4812e90e45eac86131c4bd313363_autoChange.m3u8?auth_key=1792850087-0-0-079b13077262fa112b0d8f374297d342
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80" group-title="Football",2026-10-24 15:30 | South East Melbourne vs Adelaide 36ers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live5.dyrur1.com/live/13988158_aa5bb24dd840b489c61af0edcc376712_autoChange.m3u8?auth_key=1792850087-0-0-ee1168da39da3c4cffdb946d49c9a26a
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Football",2026-10-24 16:45 | Akron Togliatti vs Dynamo Moscow | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72334388_a59ac1e8b4730b1e9f49d73e0068b57e_autoChange.m3u8?auth_key=1792850089-0-0-02acde5eb13c92f34474da831e04480d
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-24 17:30 | CLB Eyupspor vs Kasimpasa | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +371,31 @@ https://live05.qioetj.app/live/89756030_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-26 08:00 | Sacramento Kings vs Memphis Grizzlies | BLV BLV POCARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80" group-title="Football",2026-10-26 08:00 | Los Angeles FC vs CLB LA Galaxy | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80" group-title="Football",2026-10-26 10:10 | Club Tijuana vs Santos Laguna | BLV BLV GIÀ LÀNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-26 17:00 | Goyang Carrot Jumpers vs LG Sakers | BLV BLV ROCKSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="Football",2026-10-26 18:35 | Shanghai vs Guangdong Southern Tigers | BLV BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/90865415_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/9b17d2feb1397b99fa0530fba4c7385b.png!w80" group-title="Football",2026-10-26 18:35 | Ningbo Tingwo vs Jiutai Rural Commercial Bank | BLV BLV Cozy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/837cf9a178940067578b7343018e003a.png!w80" group-title="Football",2026-10-26 19:00 | Bhayangkara Solo vs PSM Makassar | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/18812304_tsc.m3u8
