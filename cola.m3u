@@ -1,28 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="Football",2026-10-24 08:00 | Necaxa vs Juarez | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13999812_dee519be172d61e9a7e927b6c03cf1d4_autoChange.m3u8?auth_key=1792825169-0-0-9a35f678114e23366c776d439f425f02
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" group-title="Football",2026-10-24 08:30 | San Antonio Spurs vs Houston Rockets | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14304087_b2b5a0f5755e407f23831b3e156c7a36_autoChange.m3u8?auth_key=1792825169-0-0-8a581bb2414fd3cd6dee4ad5954652e0
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" group-title="Football",2026-10-24 09:00 | Los Angeles Lakers vs Los Angeles Clippers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14315708_6beaf84f395bfcd82b22614e4b9f7ad7_autoChange.m3u8?auth_key=1792825169-0-0-d486cfb64186e89f7285ce2cfac68830
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-24 09:00 | Sacramento Kings vs Portland Trail Blazers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14316018_0a733bebaf4bca7280734771ab16de10_autoChange.m3u8?auth_key=1792825169-0-0-bbf8fb41e3a91de3724a972bec95bc92
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Football",2026-10-24 09:00 | Golden State Warriors vs Memphis Grizzlies | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14315707_4152a86f3a54c3849f1ada704db78703_autoChange.m3u8?auth_key=1792825169-0-0-76592a79308ec296396db6951444b48d
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" group-title="Football",2026-10-24 10:00 | CLB Atlante vs Atletico San Luis | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13999811_1dc53300ae00387e3e6ee87671f3a97a_autoChange.m3u8?auth_key=1792825169-0-0-a31f00c0cadbf0311035a392c973d84a
+https://live.dyrur1.com/live/13999811_1dc53300ae00387e3e6ee87671f3a97a_autoChange.m3u8?auth_key=1792826918-0-0-96e9b2f0ae28222b433955e7051e5e99
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" group-title="Football",2026-10-24 08:30 | San Antonio Spurs vs Houston Rockets | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14304087_b2b5a0f5755e407f23831b3e156c7a36_autoChange.m3u8?auth_key=1792826960-0-0-1f360a061c038e739b7c69c62d086bc8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80" group-title="Football",2026-10-24 09:00 | Los Angeles Lakers vs Los Angeles Clippers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14315708_6beaf84f395bfcd82b22614e4b9f7ad7_autoChange.m3u8?auth_key=1792826960-0-0-bb7a6ceaca5190a86c1e044075f99b2f
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Football",2026-10-24 09:00 | Sacramento Kings vs Portland Trail Blazers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/14316018_0a733bebaf4bca7280734771ab16de10_autoChange.m3u8?auth_key=1792826960-0-0-22d08e9420e78ef2d8516ae494205d1d
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Football",2026-10-24 09:00 | Golden State Warriors vs Memphis Grizzlies | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/14315707_4152a86f3a54c3849f1ada704db78703_autoChange.m3u8?auth_key=1792826960-0-0-086caef3786e5675a4be441688dd375d
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80" group-title="Football",2026-10-24 11:00 | Newcastle Jets vs CLB Macarthur | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -63,10 +59,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-24 14:30 | Goyang Carrot Jumpers vs KCC Egis | BLV BLV POCARI
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-24 14:30 | Goyang Carrot Jumpers vs KCC Egis | BLV BLV LIPTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/19919577_tsc.m3u8
+https://live05.qioetj.app/live/89756030_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80" group-title="Football",2026-10-24 14:30 | Chengdu Rongcheng vs Câu lạc bộ bóng đá Zhixing Đại Liên | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.qioetj.app/live/75915087_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" group-title="Football",2026-10-25 23:30 | SC Freiburg vs FC Bayern München | BLV BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/90865415_tsc.m3u8
