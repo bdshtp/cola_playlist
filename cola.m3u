@@ -2,23 +2,15 @@
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="Football",2026-10-25 02:00 | Atlético Madrid vs Dep. La Coruna | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14090751_c84601d16d740e44255688eb2f817b76_autoChange.m3u8?auth_key=1792887029-0-0-131ea56395126b0408b723b500a56b55
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80" group-title="Football",2026-10-25 01:45 | S.S. Lazio vs CLB Parma | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13978110_9648694ad5fa5b68786846e76d3c1725_autoChange.m3u8?auth_key=1792887029-0-0-67c5b2ef9e45ec49779f6904f092bb83
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80" group-title="Football",2026-10-25 01:45 | RC Lens vs Paris FC | BLV BLV REVIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/33982309_tsc.m3u8
+https://live1.dyrur1.com/live/14090751_c84601d16d740e44255688eb2f817b76_autoChange.m3u8?auth_key=1792889548-0-0-a675c61f46848b561a1a7540659644f2
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80" group-title="Football",2026-10-25 02:30 | Gil Vicente vs Porto | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14102793_7a53c60850e103b66bb9d93112d763da_autoChange.m3u8?auth_key=1792887027-0-0-2710b1dc89c4e950a9f55ddefa737c2a
+https://live.dyrur1.com/live/14102793_7a53c60850e103b66bb9d93112d763da_autoChange.m3u8?auth_key=1792889548-0-0-9c1c92e68b888d412edb2378a9cd40fb
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" group-title="Football",2026-10-25 02:40 | CLB Columbus Crew vs CLB Toronto | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/13375496_5f04d4c5f3a9a7a9f7500af1d67671e9_autoChange.m3u8?auth_key=1792887028-0-0-de523cfb82ee2295016d091da43b1e2b
+https://live4.dyrur1.com/live/13375496_5f04d4c5f3a9a7a9f7500af1d67671e9_autoChange.m3u8?auth_key=1792889548-0-0-1738920d14d3933390445754260e22c1
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="Football",2026-10-25 04:30 | New York Red Bulls vs Inter Miami | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -179,14 +171,14 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png!w80" group-title="Football",2026-10-25 22:30 | CLB Estoril vs Moreirense | BLV BLV PEPSI
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png!w80" group-title="Football",2026-10-25 22:30 | CLB Estoril vs Moreirense | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/73a60eae399442123eeb6f90b70cee8e.png!w80" group-title="Football",2026-10-25 22:45 | Sparta Rotterdam vs Câu lạc bộ AFC Ajax | BLV BLV AQUA
+https
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/73a60eae399442123eeb6f90b70cee8e.png!w80" group-title="Football",2026-10-25 22:45 | Sparta Rotterdam vs Câu lạc bộ AFC Ajax | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/18812304_tsc.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png!w80" group-title="Football",2026-10-25 23:15 | AJ Auxerre vs Le Mans | BLV BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
