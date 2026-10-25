@@ -2,15 +2,11 @@
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80" group-title="Football",2026-10-25 14:00 | CLB Tokyo vs Mito Hollyhock | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14058390_c62a7c8534c9ddb7400b8ec7c15fa41d_autoChange.m3u8?auth_key=1792929546-0-0-e6447d59c8b4d4e6e4f70a790b2446d0
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-25 13:00 | Cerezo Osaka vs Chiba | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14058389_6960c110b00563620bdd7a9ebee46bba_autoChange.m3u8?auth_key=1792929546-0-0-be0675e0077601f414f3a53b56e53fa2
+https://live1.dyrur1.com/live/14058390_c62a7c8534c9ddb7400b8ec7c15fa41d_autoChange.m3u8?auth_key=1792931295-0-0-e84af4fa3dc93b86a9cd797df47a5738
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-25 14:30 | Incheon vs Seoul Samsung Thunders | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14300979_0d8cb9b7b4dd78abbcca75dec4d3e5eb_autoChange.m3u8?auth_key=1792929547-0-0-f57cd0e9fbc942800b9e242cf62354bf
+https://live.dyrur1.com/live/14300979_0d8cb9b7b4dd78abbcca75dec4d3e5eb_autoChange.m3u8?auth_key=1792931296-0-0-5e001fb703a739c4f6d204dbbc4d1b5d
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="Football",2026-10-25 15:30 | Arema Malang vs Dewa United FC | BLV BLV REDBULL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +395,7 @@ https://live05.yefpwmc.app/live/33860426_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.yefpwmc.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png!w80" group-title="Football",2026-10-27 21:45 | Al-Shabab vs NEOM Sports Club | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.yefpwmc.app/live/18812304_tsc.m3u8
