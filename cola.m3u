@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="Football",2026-10-25 12:00 | Nagoya Grampus vs Yokohama F. Marinos | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14058394_57fd8c977315460e5f4b07210465308f_autoChange.m3u8?auth_key=1792922190-0-0-aaa786859137a002a652b34c525c9f48
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-10-25 12:00 | Anyang KGC vs Wonju Dongbu Promy | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14300977_76756f1fa1c9fd707c976b0955ae3d74_autoChange.m3u8?auth_key=1792922189-0-0-0f3ffbd216639ac0e455b828d86e11f9
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Football",2026-10-25 13:00 | Melbourne Tigers vs Sydney | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13988156_2882ac663ed25270b7aec934d9957f73_autoChange.m3u8?auth_key=1792922192-0-0-d51c409bb29ca461f32a8875935a9eff
+https://live2.dyrur1.com/live/14058394_57fd8c977315460e5f4b07210465308f_autoChange.m3u8?auth_key=1792924175-0-0-f6da55a2fe2ced13646cfdab0a7646ca
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-25 13:00 | Cerezo Osaka vs Chiba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14058389_6960c110b00563620bdd7a9ebee46bba_autoChange.m3u8?auth_key=1792924173-0-0-fd0ed6fa354d48de44ef30fcd63043c3
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-10-25 12:00 | Anyang KGC vs Wonju Dongbu Promy | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14300977_76756f1fa1c9fd707c976b0955ae3d74_autoChange.m3u8?auth_key=1792924175-0-0-96e682368a568d28b200745ec083be81
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Football",2026-10-25 13:00 | Melbourne Tigers vs Sydney | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/13988156_2882ac663ed25270b7aec934d9957f73_autoChange.m3u8?auth_key=1792924173-0-0-495f72e8f806593fed8d8df39218be43
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80" group-title="Football",2026-10-25 14:00 | CLB Tokyo vs Mito Hollyhock | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
