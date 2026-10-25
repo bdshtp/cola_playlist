@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80" group-title="Football",2026-10-25 09:40 | Portland Timbers vs Charlotte FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13375508_b829aa54113c6f0410c021ba74b35da2_autoChange.m3u8?auth_key=1792915237-0-0-cfd31be91b1b20a19a640c0214a09c0c
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="Football",2026-10-25 11:00 | Sydney FC vs CLB Adelaide United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="Football",2026-10-25 09:00 | Phoenix suns vs Golden State Warriors | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14315715_09fff363c9bceb9850a38e5945aac269_autoChange.m3u8?auth_key=1792915239-0-0-5f7c1fad15b9eec579295c5a9ee70c78
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" group-title="Football",2026-10-25 11:00 | Cairns Taipans vs New Zealand Breakers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13988157_d25c4a8172b8af2e2bf140236a8be690_autoChange.m3u8?auth_key=1792915237-0-0-39f78a63c599e5656f77931e883954a9
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-10-25 12:00 | Anyang KGC vs Wonju Dongbu Promy | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14170339_185dc38ffc745cb9e835ef71756d6a34_autoChange.m3u8?auth_key=1792918812-0-0-dc0ee21d2d6173f992a55dc4faa6d179
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="Football",2026-10-25 12:00 | Nagoya Grampus vs Yokohama F. Marinos | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14058394_57fd8c977315460e5f4b07210465308f_autoChange.m3u8?auth_key=1792918780-0-0-0bd69a8cc56fd66c91c98f4cf445c32f
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" group-title="Football",2026-10-25 11:00 | Cairns Taipans vs New Zealand Breakers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/13988157_d25c4a8172b8af2e2bf140236a8be690_autoChange.m3u8?auth_key=1792918811-0-0-eebe2bdef6cc3f4066ff5451f0dd61d9
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80" group-title="Football",2026-10-25 12:00 | Anyang KGC vs Wonju Dongbu Promy | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/14300977_76756f1fa1c9fd707c976b0955ae3d74_autoChange.m3u8?auth_key=1792918814-0-0-c1bad271539ad965534428bfc75f59d7
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80" group-title="Football",2026-10-25 13:00 | Melbourne Tigers vs Sydney | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -391,6 +383,14 @@ https://live05.yefpwmc.app/live/33982309_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.yefpwmc.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="Football",2026-10-27 17:00 | CLB Johor Darul Takzim vs Port FC | BLV BLV HỔ VẰN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.yefpwmc.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w80" group-title="Football",2026-10-27 18:00 | Estoril U23 vs Santa Clara U23 | BLV BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.yefpwmc.app/live/14707124_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/fd94971d5354c254a48249ad402cfb92.png!w80" group-title="Football",2026-10-27 18:35 | Shandong Hi-Speed vs Beijing Shougang | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
