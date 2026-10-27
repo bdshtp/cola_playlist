@@ -1,49 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/original/2026/05/29/qbv-2905061726.jpeg" group-title="Football",2026-10-27 03:00 | LỄ TRAO GIẢI vs QUẢ BÓNG VÀNG | BLV BLV REDBULL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/49572724_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80" group-title="Football",2026-10-27 05:00 | Union de Santa Fe vs CLB Estudiantes La Plata | BLV BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" group-title="Football",2026-10-27 06:00 | Cleveland Cavaliers vs Minnesota Timberwolves | BLV BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80" group-title="Football",2026-10-27 06:30 | Đội bóng rổ Boston Celtics vs Chicago Bulls | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80" group-title="Football",2026-10-27 06:30 | Miami Heat vs Dallas Mavericks | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-10-27 07:00 | Golden State Valkyries vs Atlanta Dream | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="Football",2026-10-27 07:15 | Instituto vs Dep. Riestra | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="Football",2026-10-27 07:30 | Houston Rockets vs Atlanta Hawks | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80" group-title="Football",2026-10-27 08:05 | CLB Santa Fe vs Bucaramanga | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Football",2026-10-27 09:00 | Denver Nuggets vs Golden State Warriors | BLV BLV 247
+https://live.hztx2020.com/live/14426887_5ed27dc5ef82cf855387489ce2d13221_autoChange.m3u8?auth_key=1793081885-0-0-2ed51a68cd64a1a5922abdb80389f276
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-10-27 07:00 | Golden State Valkyries vs Atlanta Dream | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8
+https://live2.hztx2020.com/live/14597682_4536b272ffa93cd1e4489943b650a6e3_autoChange.m3u8?auth_key=1793081868-0-0-f199d88d74e3c5329dedb0ac792d38b5
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="Football",2026-10-27 07:30 | Houston Rockets vs Atlanta Hawks | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.hztx2020.com/live/14315729_e26f04b2629d13c56cba4e28c5c1400a_autoChange.m3u8?auth_key=1793081886-0-0-d12aed6fec748dc89a4c14a6f36232a3
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Football",2026-10-27 09:00 | Denver Nuggets vs Golden State Warriors | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.hztx2020.com/live/14315731_e26ec27a9289dbad2a2daf02030d128d_autoChange.m3u8?auth_key=1793081885-0-0-d03d7bb33f0dad0319f41453d738909e
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80" group-title="Football",2026-10-27 15:30 | Lam Dong vs PVF CAND | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png!w80" group-title="Football",2026-10-27 15:30 | CLB PSS Sleman vs Pusamania Borneo FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
@@ -99,6 +71,10 @@ https://live05.yefpwmc.app/live/14830711_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.yefpwmc.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80" group-title="Football",2026-10-27 19:40 | Abha vs Al Faisaly Harmah | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png!w80" group-title="Football",2026-10-27 20:00 | 摩里伦斯U23 vs Gil Vicente U23 | BLV BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
