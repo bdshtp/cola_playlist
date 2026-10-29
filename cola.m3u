@@ -1,76 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80" group-title="Football",2026-10-29 03:00 | Liverpool vs Chelsea | BLV 
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="Football",2026-10-29 06:40 | Inter Miami vs CLB Cincinnati | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.hztx2020.com/live/14469330_19cb062014ae46461e859139849bbb90_autoChange.m3u8?auth_key=1793237971-0-0-1a3d0da59963ac5c5ba294fec6ae7b35
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="Football",2026-10-29 03:30 | Porto vs CLB Viseu | BLV 
+https://live1.hztx2020.com/live/13375512_e2f95a087685e797d5d80249a6a6b051_autoChange.m3u8?auth_key=1793252007-0-0-827b01a8fa9ebf38e7d7b4050d6ab6ca
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" group-title="Football",2026-10-29 07:30 | Bahia vs CLB Sao Paulo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.hztx2020.com/live/14200215_63705648c6cb0656020a85caa445fdf6_autoChange.m3u8?auth_key=1793237971-0-0-33e3bbb0fa01cab64311b152185d1b90
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="Football",2026-10-29 05:30 | Fluminense RJ vs CLB Sport Club Internacional | BLV 
+https://live2.hztx2020.com/live/13391511_4ee383b4fb650780d3d7d4f17b5b3036_autoChange.m3u8?auth_key=1793252088-0-0-4ad8b83c1dc6d5e31ce44888ae4fd8cf
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="Football",2026-10-29 07:40 | CLB Chicago Fire vs Orlando City | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="Football",2026-10-29 05:30 | CLB Santos vs Palmeiras | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Football",2026-10-29 06:00 | Atlanta Hawks vs Miami Heat | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="Football",2026-10-29 06:00 | Indiana Pacers vs Philadelphia 76ers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.hztx2020.com/live/13375517_0b25a0463d774c9b6f7c0f02a3adc703_autoChange.m3u8?auth_key=1793252090-0-0-c51548aade39cbfc7929817daccf27da
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80" group-title="Football",2026-10-29 06:30 | Toronto Raptors vs Orlando Magic | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="Football",2026-10-29 06:30 | Inter Miami vs CLB Cincinnati | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.hztx2020.com/live/14315738_da1976582b34891540a637c3969a9339_autoChange.m3u8?auth_key=1793252089-0-0-e304f2a7e5d7998351cbd641b0bf3ed3
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="Football",2026-10-29 07:00 | Milwaukee Bucks vs Houston Rockets | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.hztx2020.com/live/14315740_b0566eef7aaec65e3cdc6515db23e3ee_autoChange.m3u8?auth_key=1793252089-0-0-2c5880c46c762c4920cd9db424513a49
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80" group-title="Football",2026-10-29 07:00 | Minnesota Timberwolves vs Golden State Warriors | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="Football",2026-10-29 07:00 | New Orleans Pelicans vs Denver Nuggets | BLV BLV PORSCHE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/56998120.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="Football",2026-10-29 07:30 | CLB Chicago Fire vs Orlando City | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80" group-title="Football",2026-10-29 07:30 | Bahia vs CLB Sao Paulo | BLV BLV TEPPY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/33860426.m3u8
+https://live3.hztx2020.com/live/14315741_3faf43f37d94dd27978130da5a6b487d_autoChange.m3u8?auth_key=1793252089-0-0-f7fac20f65f7853e189f8a27a5d642c5
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="Football",2026-10-29 08:30 | Dallas Mavericks vs Oklahoma City Thunder | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.hztx2020.com/live/14315744_1da712bf5eb68d32474ad3c020d0fb71_autoChange.m3u8?auth_key=1793252088-0-0-595cde2e9ed9b408865945c757089161
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="Football",2026-10-29 09:30 | San Jose Earthquakes vs Colorado Rapids | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="Football",2026-10-29 09:30 | San Jose Earthquakes vs Colorado Rapids | BLV BLV LIPTON
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-29 09:30 | Los Angeles Clippers vs Los Angeles Lakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/89756030.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-29 09:30 | Los Angeles Clippers vs Los Angeles Lakers | BLV BLV POCARI
+https
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="Football",2026-10-29 09:30 | Seattle Sounders vs Houston Dynamo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="Football",2026-10-29 09:30 | Seattle Sounders vs Houston Dynamo | BLV BLV BÍ ĐAO
+https
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" group-title="Football",2026-10-29 10:00 | Club America vs Club Tijuana | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" group-title="Football",2026-10-29 10:00 | Club America vs Club Tijuana | BLV BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/78905744.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80" group-title="Football",2026-10-29 14:45 | CLB Adelaide United vs Lion City | BLV BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -103,10 +75,10 @@ https://live05.miekgo.app/live/87379114.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80" group-title="Football",2026-10-29 19:15 | Wofoo Tai Po vs Pathum United | BLV BLV SAMURAI
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80" group-title="Football",2026-10-29 19:15 | Wofoo Tai Po vs Pathum United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/07808742.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="Football",2026-10-29 19:15 | Shanghai Shenhua vs Machida | BLV BLV TEPPY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
