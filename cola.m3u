@@ -1,56 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80" group-title="Football",2026-11-15 02:45 | Bồ Đào Nha vs Đan Mạch | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.hztx2020.com/live/13596733_f757abb08fc82c8c4f50cbde39161c25_autoChange.m3u8?auth_key=1794702430-0-0-6b3c5fd0858c1d0d68bf317b0e00d1db
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" group-title="Football",2026-11-15 02:45 | ĐTQG Bắc Ireland vs ĐTQG Ukraine | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.hztx2020.com/live/13591631_a0f1df2a2b93724ce24c2f59d0917d12_autoChange.m3u8?auth_key=1794702430-0-0-809b38235e9e46efa3c120de8199925f
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80" group-title="Football",2026-11-15 02:45 | ĐTQG Áo vs Ireland | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.hztx2020.com/live/13591630_70e2f96e0ef29d15eeda787c0cb9c178_autoChange.m3u8?auth_key=1794702430-0-0-623b584d40868aac26c57fdb1d5cec0e
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" group-title="Football",2026-11-15 02:45 | Thụy Điển vs Bosnia Herzegovina | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.hztx2020.com/live/13591633_54c600e3c2270602fe35e9c0bf18908f_autoChange.m3u8?auth_key=1794702430-0-0-c8c7d178bc169ccc1bc79a0b33c1662f
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" group-title="Football",2026-11-15 02:45 | CLB Romania vs ĐTQG Ba Lan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.hztx2020.com/live/13591632_1deb3461ff3a1b2f9c1039f5f942864d_autoChange.m3u8?auth_key=1794702430-0-0-eedf053d12101014c9434e13860a655f
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/b313ba040d06ef01a187e5dee391739d.png!w80" group-title="Football",2026-11-15 02:00 | Angola vs Nam Sudan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.hztx2020.com/live/14661602_42f0f4fe4f8aede07e93e6bd78e562bd_autoChange.m3u8?auth_key=1794702430-0-0-59ad0f025727d0d884578c5acd61343c
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/694edc2479b949e4a7a78d00275ced1e.png!w80" group-title="Football",2026-11-15 02:00 | ĐTQG Algeria vs Togo | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.hztx2020.com/live/14571289_4ef00222d7a3d0734a5d8d8af13256ee_autoChange.m3u8?auth_key=1794702430-0-0-b5b51283214fe59a4cc01c9112d3711d
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/21551996567bcd206ee574043d509a84.png!w80" group-title="Football",2026-11-15 03:00 | R. Oviedo vs CLB Girona | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.hztx2020.com/live/14091296_4de4302b805cf39cfbe26b25a552a315_autoChange.m3u8?auth_key=1794702430-0-0-5b8a6de5246407d7825444148d3d1ba6
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="Football",2026-11-15 04:30 | Haiti vs Mỹ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e142922645466d58b5ad3a27570b5ac5.png!w80" group-title="Football",2026-11-15 05:00 | CLB Banfield vs Boca Juniors | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80" group-title="Football",2026-11-15 06:00 | Queretaro vs Monterrey | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.hztx2020.com/live/14409526_de03730b3f8d4a1f811100609fa8249c_autoChange.m3u8?auth_key=1794715529-0-0-5047d132c57de71153833ce9635eb366
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="Football",2026-11-15 06:30 | CLB Chapecoense SC vs Vasco | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.hztx2020.com/live/14639460_fed2a94b744fa5ee08969abc8da86e21_autoChange.m3u8?auth_key=1794715530-0-0-7ffbac843acaf41e1e83db6a624b6018
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80" group-title="Football",2026-11-15 07:00 | New Orleans Pelicans vs Denver Nuggets | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.hztx2020.com/live/14315872_b6f4efe0513daffd99e70864da71ba33_autoChange.m3u8?auth_key=1794715530-0-0-274634943c3268a4c1844a8a8f347508
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" group-title="Football",2026-11-15 07:30 | Cleveland Cavaliers vs Dallas Mavericks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -91,10 +51,10 @@ https://live05.wecile.app/live/99121525.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Football",2026-11-15 11:00 | Sydney vs New Zealand Breakers | BLV BLV ROCKSTAR
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Football",2026-11-15 11:00 | Sydney vs New Zealand Breakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.wecile.app/live/82054853.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/514eb329116806ef998ead8b3ccb5612.png!w80" group-title="Football",2026-11-15 11:05 | Vegalta Sendai vs Blaublitz Akita | BLV BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -119,10 +79,10 @@ https://live05.wecile.app/live/33982309.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.wecile.app/live/49572724.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="Football",2026-11-15 13:00 | Brisbane Bullets vs Tasmania JackNgười Nhảy | BLV BLV 247
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80" group-title="Football",2026-11-15 13:00 | Brisbane Bullets vs Tasmania JackNgười Nhảy | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.wecile.app/live/90865415.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80" group-title="Football",2026-11-15 14:30 | LG Sakers vs Busan KTF Sonicboom | BLV BLV TARZAAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -175,11 +135,11 @@ https://live05.wecile.app/live/87547578.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80" group-title="Football",2026-11-15 20:00 | CLB Tenerife vs Ceuta | BLV BLV HỔ VẰN
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c816a7cc7ab1eb6dcce3fb4408acd320.png!w80" group-title="Football",2026-11-15 20:00 | CLB Tenerife vs Ceuta | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="Football",2026-11-15 20:00 | Scotland U21 vs USA U23 | BLV BLV 7UP
+https
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="Football",2026-11-15 20:00 | Scotland U21 vs USA U21 | BLV BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.wecile.app/live/78905744.m3u8
@@ -203,10 +163,10 @@ https://live05.wecile.app/live/33860426.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80" group-title="Football",2026-11-15 21:00 | FK Sochi vs Shinnik Yaroslavl | BLV BLV GIÀ LÀNG
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80" group-title="Football",2026-11-15 21:00 | FK Sochi vs Shinnik Yaroslavl | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.wecile.app/live/14830711.m3u8
+https
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="Football",2026-11-15 21:00 | Đảo Síp vs Montenegro | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -399,3 +359,35 @@ https://live05.wecile.app/live/07428422.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.wecile.app/live/88508431.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" group-title="Football",2026-11-16 21:00 | Cộng hòa Séc U20 vs Đức U20 | BLV BLV STING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/27ab2e099af3df31bb3a67cece587ffe.png!w80" group-title="Football",2026-11-16 22:00 | Somalia vs Ghana | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4e7a14d03963d6f7728504ab7567b22d.png!w80" group-title="Football",2026-11-16 22:00 | Felgueiras U23 vs Leixoes U23 | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80" group-title="Football",2026-11-16 22:00 | Quần đảo Faroe vs ĐTQG Moldova | BLV BLV SPRITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/75748097.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="Football",2026-11-16 22:00 | ĐTQG Kazakhstan vs Đội tuyển Quốc gia Slovakia | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="Football",2026-11-16 23:00 | Eritrea vs Guinea | BLV BLV WARRIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/97885009.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80" group-title="Football",2026-11-16 23:00 | Bồ Đào Nha U20 vs Anh U20 | BLV BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/24b9e0931d66349fbfb639e2d60de183.png!w80" group-title="Football",2026-11-16 23:00 | Trung Phi vs Benin | BLV BLV TEPPY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.wecile.app/live/33860426.m3u8
